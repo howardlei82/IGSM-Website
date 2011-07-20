@@ -1,0 +1,1048 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arjuna X 1.3.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-31 12:10+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: SRS Solutions <info@srssolutions.com>\n"
+"Language-Team: SRS Solutions <info@srssolutions.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\_Local Web Server\\TestServer\\WordPress\\2.8\\wp-content\\themes\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: Arjuna-X\n"
+
+#: Arjuna-X/404.php:4
+msgid "Error 404 - Not Found"
+msgstr "404 页面未找到"
+
+#: Arjuna-X/404.php:5
+msgid "Sorry, but you are looking for something that isn't here. "
+msgstr "对不起，这里没有您正在寻找的东西。"
+
+#: Arjuna-X/archive.php:8
+msgid "Browsing Posts in <em>%s</em>"
+msgstr "正在浏览 <em>%s</em> 里的文章"
+
+#: Arjuna-X/archive.php:10
+msgid "Browsing Posts tagged <em>%s</em>"
+msgstr "正在浏览标签为 <em>%s</em> 的文章"
+
+#: Arjuna-X/archive.php:12
+msgid "Browsing Posts published on %s"
+msgstr "正在浏览发布于 %s 的文章"
+
+#: Arjuna-X/archive.php:14
+#: Arjuna-X/archive.php:16
+msgid "Browsing Posts published in %s"
+msgstr "正在浏览发布于 %s 的文章"
+
+#: Arjuna-X/archive.php:14
+msgid "F, Y"
+msgstr "YF"
+
+#: Arjuna-X/archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: Arjuna-X/archive.php:19
+msgid "Browsing Posts published by <em>%s</em>"
+msgstr "正在浏览由 <em>%s</em> 发布的文章"
+
+#: Arjuna-X/archive.php:21
+msgid "Blog Archives"
+msgstr "博客存档"
+
+#: Arjuna-X/archive.php:28
+#: Arjuna-X/index.php:9
+#: Arjuna-X/page.php:11
+#: Arjuna-X/page.php:16
+#: Arjuna-X/page_fullwidth.php:15
+#: Arjuna-X/page_fullwidth.php:20
+#: Arjuna-X/search.php:15
+#: Arjuna-X/single.php:16
+msgid "Permalink to"
+msgstr "链接到"
+
+#: Arjuna-X/archive.php:33
+#: Arjuna-X/index.php:14
+#: Arjuna-X/page.php:21
+#: Arjuna-X/page_fullwidth.php:25
+#: Arjuna-X/search.php:20
+#: Arjuna-X/single.php:21
+msgid " at "
+msgstr " 于 "
+
+#: Arjuna-X/archive.php:42
+#: Arjuna-X/index.php:23
+#: Arjuna-X/page.php:30
+#: Arjuna-X/page_fullwidth.php:34
+#: Arjuna-X/search.php:28
+#: Arjuna-X/single.php:30
+msgid "Pass required"
+msgstr "需要密码"
+
+#: Arjuna-X/archive.php:44
+#: Arjuna-X/index.php:25
+#: Arjuna-X/page.php:32
+#: Arjuna-X/page_fullwidth.php:36
+#: Arjuna-X/search.php:30
+#: Arjuna-X/single.php:32
+msgid "Comments off"
+msgstr "评论已关闭"
+
+#: Arjuna-X/archive.php:46
+#: Arjuna-X/index.php:27
+#: Arjuna-X/page.php:34
+#: Arjuna-X/page_fullwidth.php:38
+#: Arjuna-X/search.php:32
+#: Arjuna-X/single.php:34
+msgid "No comments"
+msgstr "抢沙发"
+
+#: Arjuna-X/archive.php:46
+#: Arjuna-X/index.php:27
+#: Arjuna-X/page.php:34
+#: Arjuna-X/page_fullwidth.php:38
+#: Arjuna-X/search.php:32
+#: Arjuna-X/single.php:34
+msgid "1 comment"
+msgstr "抢板凳"
+
+#: Arjuna-X/archive.php:46
+#: Arjuna-X/index.php:27
+#: Arjuna-X/page.php:34
+#: Arjuna-X/page_fullwidth.php:38
+#: Arjuna-X/search.php:32
+#: Arjuna-X/single.php:34
+msgid "% comments"
+msgstr "已有 % 条评论"
+
+#: Arjuna-X/archive.php:53
+#: Arjuna-X/index.php:34
+#: Arjuna-X/page.php:42
+#: Arjuna-X/page_fullwidth.php:46
+#: Arjuna-X/search.php:38
+#: Arjuna-X/single.php:41
+msgid "continue reading..."
+msgstr "继续阅读"
+
+#: Arjuna-X/archive.php:61
+#: Arjuna-X/index.php:42
+#: Arjuna-X/search.php:46
+#: Arjuna-X/single.php:52
+msgid "<i>none</i>"
+msgstr "<i>没有标签</i>"
+
+#: Arjuna-X/archive.php:65
+#: Arjuna-X/index.php:46
+#: Arjuna-X/search.php:50
+msgid "Read more"
+msgstr "阅读更多"
+
+#: Arjuna-X/archive.php:77
+#: Arjuna-X/index.php:64
+#: Arjuna-X/search.php:59
+msgid "Newer Entries"
+msgstr "更新的文章"
+
+#: Arjuna-X/archive.php:78
+#: Arjuna-X/index.php:65
+#: Arjuna-X/search.php:60
+msgid "Older Entries"
+msgstr "更老的文章"
+
+#: Arjuna-X/archive.php:83
+#: Arjuna-X/index.php:71
+msgid "There is nothing here (yet)."
+msgstr "目前这里没有内容。"
+
+#: Arjuna-X/comments.php:13
+#: Arjuna-X/comments_legacy.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "这篇文章已被密码保护，输入密码才能查看评论。"
+
+#: Arjuna-X/comments.php:21
+#: Arjuna-X/comments_legacy.php:18
+#: Arjuna-X/functions.php:897
+msgid "Comments"
+msgstr "评论"
+
+#: Arjuna-X/comments.php:23
+#: Arjuna-X/comments_legacy.php:20
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: Arjuna-X/comments.php:26
+#: Arjuna-X/comments_legacy.php:23
+msgid "Trackback"
+msgstr "反向链接"
+
+#: Arjuna-X/comments.php:38
+#: Arjuna-X/comments_legacy.php:91
+msgid "No one has commented yet."
+msgstr "还没有人发表评论。"
+
+#: Arjuna-X/comments.php:40
+#: Arjuna-X/comments_legacy.php:93
+msgid "Comments are closed."
+msgstr "评论已被关闭。"
+
+#: Arjuna-X/comments.php:50
+#: Arjuna-X/comments_legacy.php:102
+msgid "Leave a Comment"
+msgstr "发表评论"
+
+#: Arjuna-X/comments.php:52
+msgid "Cancel Reply"
+msgstr "取消回复"
+
+#: Arjuna-X/comments.php:56
+#: Arjuna-X/comments_legacy.php:104
+msgid "You must be %slogged in%s to post a comment."
+msgstr "您必须 %s登陆%s 才能发表评论。"
+
+#: Arjuna-X/comments.php:59
+#: Arjuna-X/comments.php:68
+#: Arjuna-X/comments_legacy.php:107
+#: Arjuna-X/comments_legacy.php:114
+msgid "Your name"
+msgstr "昵称"
+
+#: Arjuna-X/comments.php:60
+#: Arjuna-X/comments.php:69
+#: Arjuna-X/comments_legacy.php:108
+#: Arjuna-X/comments_legacy.php:115
+msgid "Your email"
+msgstr "电子邮件"
+
+#: Arjuna-X/comments.php:61
+#: Arjuna-X/comments.php:70
+#: Arjuna-X/comments_legacy.php:109
+#: Arjuna-X/comments_legacy.php:116
+msgid "Your website"
+msgstr "网站"
+
+#: Arjuna-X/comments.php:62
+#: Arjuna-X/comments.php:79
+#: Arjuna-X/comments_legacy.php:110
+#: Arjuna-X/comments_legacy.php:119
+msgid "Your comment"
+msgstr "评论"
+
+#: Arjuna-X/comments.php:65
+#: Arjuna-X/comments_legacy.php:112
+msgid "Logged in as %s."
+msgstr "作为 %s 登陆。"
+
+#: Arjuna-X/comments.php:65
+#: Arjuna-X/comments_legacy.php:112
+msgid "Log out of this account"
+msgstr "登出这个账号"
+
+#: Arjuna-X/comments.php:65
+#: Arjuna-X/comments_legacy.php:112
+msgid "Logout"
+msgstr "登出"
+
+#: Arjuna-X/comments.php:81
+#: Arjuna-X/comments_legacy.php:121
+msgid "Subscribe to comments"
+msgstr "订阅评论"
+
+#: Arjuna-X/comments.php:82
+#: Arjuna-X/comments_legacy.php:122
+msgid "Leave comment"
+msgstr "发表评论"
+
+#: Arjuna-X/comments_legacy.php:58
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: Arjuna-X/comments_legacy.php:58
+msgid "H:i"
+msgstr "H:i"
+
+#: Arjuna-X/comments_legacy.php:65
+#: Arjuna-X/functions.php:1193
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论有待审核。"
+
+#: Arjuna-X/comments_legacy.php:81
+#: Arjuna-X/functions.php:1394
+msgid "Previous"
+msgstr "上一页"
+
+#: Arjuna-X/comments_legacy.php:81
+#: Arjuna-X/functions.php:1394
+msgid "Next"
+msgstr "下一页"
+
+#: Arjuna-X/comments_legacy.php:83
+#: Arjuna-X/functions.php:1396
+msgid "Older Comments"
+msgstr "更老的评论"
+
+#: Arjuna-X/comments_legacy.php:84
+#: Arjuna-X/functions.php:1397
+msgid "Newer Comments"
+msgstr "更新的评论"
+
+#: Arjuna-X/functions.php:352
+msgid "Arjuna Options"
+msgstr "Arjuna 选项"
+
+#: Arjuna-X/functions.php:362
+msgid "The Arjuna options have been saved."
+msgstr "Arjuna 主题选项已被成功保存。"
+
+#: Arjuna-X/functions.php:366
+msgid "Arjuna Theme Options"
+msgstr "Arjuna 主题选项"
+
+#: Arjuna-X/functions.php:370
+msgid "Thank you for using Arjuna, the free WordPress theme designed by %s."
+msgstr "感谢您使用 Arjuna ——一个由 %s 设计的免费的 WordPress 主题。"
+
+#: Arjuna-X/functions.php:370
+msgid "Follow Us"
+msgstr "Follow 我们"
+
+#: Arjuna-X/functions.php:374
+msgid "Report Bugs"
+msgstr "报告漏洞"
+
+#: Arjuna-X/functions.php:375
+msgid "Report a Bug"
+msgstr "报告一个漏洞"
+
+#: Arjuna-X/functions.php:375
+msgid "Please include your Wordpress version, browser details and a screenshot, if necessary."
+msgstr "如果需要的话，请包含您的 WordPress 版本、浏览器信息和一张截图。"
+
+#: Arjuna-X/functions.php:378
+msgid "Useful Links"
+msgstr "有用的链接"
+
+#: Arjuna-X/functions.php:379
+msgid "Changelog"
+msgstr "更新日志"
+
+#: Arjuna-X/functions.php:380
+msgid "FAQ"
+msgstr "常见问题"
+
+#: Arjuna-X/functions.php:381
+msgid "Roadmap"
+msgstr "站点地图"
+
+#: Arjuna-X/functions.php:382
+msgid "Leave Feedback"
+msgstr "反馈"
+
+#: Arjuna-X/functions.php:385
+msgid "Support &amp; Sales"
+msgstr "帮助与支持"
+
+#: Arjuna-X/functions.php:386
+msgid "Contact Sales"
+msgstr "联系我们"
+
+#: Arjuna-X/functions.php:386
+msgid "Need installation or integration support? Need something customized or extended?"
+msgstr "您需要安装、整合、自定义或扩展的支持吗？"
+
+#: Arjuna-X/functions.php:391
+msgid "Arjuna is completely free. Therefore, please understand that we do NOT offer free support. If you require support of any kind other than fixing a bug that is related to Arjuna, please request a quote from us."
+msgstr "Arjuna 是一个完全免费的主题。因此，请了解我们不会提供免费的支持。如果您需要除了修复漏洞外的其它支持，请您联系我们。"
+
+#: Arjuna-X/functions.php:395
+msgid "Header"
+msgstr "顶端"
+
+#: Arjuna-X/functions.php:399
+msgid "First Header Menu"
+msgstr "标题上方菜单"
+
+#: Arjuna-X/functions.php:403
+msgid "Enabled"
+msgstr "激活"
+
+#: Arjuna-X/functions.php:405
+msgid "Enable this menu"
+msgstr "激活这个菜单"
+
+#: Arjuna-X/functions.php:407
+msgid "If disabled, the menu will be hidden."
+msgstr "如果取消激活，这个菜单将被隐藏。"
+
+#: Arjuna-X/functions.php:411
+#: Arjuna-X/functions.php:592
+msgid "Dropdown"
+msgstr "下拉菜单"
+
+#: Arjuna-X/functions.php:415
+#: Arjuna-X/functions.php:596
+msgid "No dropdown menu"
+msgstr "非下拉菜单"
+
+#: Arjuna-X/functions.php:419
+#: Arjuna-X/functions.php:600
+msgid "One-level dropdown menu"
+msgstr "一级下拉菜单"
+
+#: Arjuna-X/functions.php:423
+#: Arjuna-X/functions.php:604
+msgid "Two-level dropdown menu"
+msgstr "二级下拉菜单"
+
+#: Arjuna-X/functions.php:427
+msgid "Alignment"
+msgstr "对齐方式"
+
+#: Arjuna-X/functions.php:431
+msgid "Left"
+msgstr "左对齐"
+
+#: Arjuna-X/functions.php:435
+msgid "Right"
+msgstr "右对齐"
+
+#: Arjuna-X/functions.php:440
+#: Arjuna-X/functions.php:609
+msgid "Menu lists only"
+msgstr "菜单内容"
+
+#: Arjuna-X/functions.php:444
+#: Arjuna-X/functions.php:613
+msgid "Pages"
+msgstr "页面"
+
+#: Arjuna-X/functions.php:448
+#: Arjuna-X/functions.php:617
+#: Arjuna-X/sidebar.php:37
+msgid "Categories"
+msgstr "分类"
+
+#: Arjuna-X/functions.php:453
+#: Arjuna-X/functions.php:622
+msgid "Sorting Order"
+msgstr "排序方式"
+
+#: Arjuna-X/functions.php:456
+#: Arjuna-X/functions.php:470
+#: Arjuna-X/functions.php:625
+#: Arjuna-X/functions.php:639
+msgid "Sort menu items in"
+msgstr "升降序"
+
+#: Arjuna-X/functions.php:458
+#: Arjuna-X/functions.php:472
+#: Arjuna-X/functions.php:627
+#: Arjuna-X/functions.php:641
+msgid "ascending"
+msgstr "升序"
+
+#: Arjuna-X/functions.php:459
+#: Arjuna-X/functions.php:473
+#: Arjuna-X/functions.php:628
+#: Arjuna-X/functions.php:642
+msgid "descending"
+msgstr "降序"
+
+#: Arjuna-X/functions.php:461
+#: Arjuna-X/functions.php:475
+#: Arjuna-X/functions.php:630
+#: Arjuna-X/functions.php:644
+msgid "order by"
+msgstr "排序依据"
+
+#: Arjuna-X/functions.php:463
+#: Arjuna-X/functions.php:632
+msgid "Category Name"
+msgstr "分类标题"
+
+#: Arjuna-X/functions.php:464
+#: Arjuna-X/functions.php:633
+msgid "Category ID"
+msgstr "分类 ID"
+
+#: Arjuna-X/functions.php:465
+#: Arjuna-X/functions.php:634
+msgid "Post Count"
+msgstr "文章数"
+
+#: Arjuna-X/functions.php:466
+#: Arjuna-X/functions.php:635
+msgid "Category Slug"
+msgstr "分类别名"
+
+#: Arjuna-X/functions.php:477
+#: Arjuna-X/functions.php:646
+msgid "Page Title"
+msgstr "页面标题"
+
+#: Arjuna-X/functions.php:478
+#: Arjuna-X/functions.php:647
+msgid "Page ID"
+msgstr "页面 ID"
+
+#: Arjuna-X/functions.php:479
+#: Arjuna-X/functions.php:648
+msgid "Page Slug"
+msgstr "页面别名"
+
+#: Arjuna-X/functions.php:480
+#: Arjuna-X/functions.php:649
+msgid "Page Order"
+msgstr "页面优先级"
+
+#: Arjuna-X/functions.php:486
+#: Arjuna-X/functions.php:661
+msgid "Menu Items"
+msgstr "菜单项"
+
+#: Arjuna-X/functions.php:490
+#: Arjuna-X/functions.php:665
+msgid "Include categories"
+msgstr "包括的分类"
+
+#: Arjuna-X/functions.php:507
+#: Arjuna-X/functions.php:682
+msgid "Exclude categories"
+msgstr "排除的分类"
+
+#: Arjuna-X/functions.php:526
+msgid "Note: While the above fields show empty categories, the theme will only display categories that have at least one published post in them."
+msgstr "注意：主题只会展示至少有一篇条目的分类。"
+
+#: Arjuna-X/functions.php:530
+#: Arjuna-X/functions.php:705
+msgid "Include pages"
+msgstr "包括的页面"
+
+#: Arjuna-X/functions.php:546
+#: Arjuna-X/functions.php:721
+msgid "Exclude pages"
+msgstr "排除的页面"
+
+#: Arjuna-X/functions.php:582
+msgid "Second Header Menu"
+msgstr "标题下方菜单"
+
+#: Arjuna-X/functions.php:586
+msgid "Separators"
+msgstr "分隔符"
+
+#: Arjuna-X/functions.php:588
+msgid "Visually separate the menu buttons"
+msgstr "菜单分隔符"
+
+#: Arjuna-X/functions.php:655
+msgid "Home Button"
+msgstr "主页按钮"
+
+#: Arjuna-X/functions.php:657
+msgid "Display Home button"
+msgstr "显示主页按钮"
+
+#: Arjuna-X/functions.php:701
+msgid "Note: While the above fields show empty categories, the theme will only display categories that have at least one published post in them.</span>"
+msgstr "注意：主题只会展示至少有一篇条目的分类。</span>"
+
+#: Arjuna-X/functions.php:757
+#: Arjuna-X/functions.php:761
+msgid "Header Image"
+msgstr "顶部图片"
+
+#: Arjuna-X/functions.php:766
+msgid "Light Blue"
+msgstr "淡蓝色"
+
+#: Arjuna-X/functions.php:771
+msgid "Dark Blue"
+msgstr "深蓝色"
+
+#: Arjuna-X/functions.php:776
+msgid "Khaki"
+msgstr "黄褐色"
+
+#: Arjuna-X/functions.php:781
+msgid "Sea Green"
+msgstr "海绿色"
+
+#: Arjuna-X/functions.php:788
+msgid "General Options"
+msgstr "常规设置"
+
+#: Arjuna-X/functions.php:789
+msgid "Sidebar"
+msgstr "边栏"
+
+#: Arjuna-X/functions.php:793
+msgid "Sidebar Position"
+msgstr "边栏位置"
+
+#: Arjuna-X/functions.php:798
+msgid "Right sidebar"
+msgstr "右边栏"
+
+#: Arjuna-X/functions.php:803
+msgid "Left sidebar"
+msgstr "左边栏"
+
+#: Arjuna-X/functions.php:808
+msgid "No sidebar"
+msgstr "隐藏边栏"
+
+#: Arjuna-X/functions.php:813
+msgid "Sidebar Width"
+msgstr "边栏宽度"
+
+#: Arjuna-X/functions.php:815
+msgid "Small"
+msgstr "小"
+
+#: Arjuna-X/functions.php:816
+msgid "Normal"
+msgstr "普通"
+
+#: Arjuna-X/functions.php:817
+msgid "Large"
+msgstr "大"
+
+#: Arjuna-X/functions.php:818
+msgid "If you intend to use the two column sidebar, we recommend to choose either the normal or the large sidebar."
+msgstr "如果您需要两列边栏，我们推荐您在宽度中选择普通或大。"
+
+#: Arjuna-X/functions.php:822
+msgid "Default Widgets"
+msgstr "默认小工具"
+
+#: Arjuna-X/functions.php:824
+msgid "Display default sidebar widgets if the widget bars are empty."
+msgstr "如果小工具栏未设置，显示默认的侧边栏小工具。"
+
+#: Arjuna-X/functions.php:825
+msgid "If enabled, these widgets will be displayed if the widget bar is empty: <b>sidebar_full_top:</b> Recent Posts and Browse by Tags, <b>sidebar_left:</b> Categories, <b>sidebar_right:</b> Meta"
+msgstr "如果开启，这些小工具将会在小工具栏为格空时显示： <b>sidebar_full_top:</b> 最近文章和以标签浏览 <b>sidebar_left:</b> 分类， <b>sidebar_right:</b> 管理"
+
+#: Arjuna-X/functions.php:829
+msgid "RSS Button"
+msgstr "RSS 按钮"
+
+#: Arjuna-X/functions.php:831
+msgid "Display an RSS button on the very top of the sidebar."
+msgstr "在侧边栏最上方显示 RSS 按钮"
+
+#: Arjuna-X/functions.php:835
+msgid "Twitter Button"
+msgstr "Twitter 按钮"
+
+#: Arjuna-X/functions.php:837
+msgid "Display a Twitter button on the very top of the sidebar."
+msgstr "在侧边栏最上方显示 Twitter 按钮"
+
+#: Arjuna-X/functions.php:844
+msgid "Facebook Button"
+msgstr "Facebook 按钮"
+
+#: Arjuna-X/functions.php:846
+msgid "Display a Facebook button on the very top of the sidebar."
+msgstr "在侧边栏最上方显示 Facebook 按钮"
+
+#: Arjuna-X/functions.php:853
+msgid "Display Button Labels"
+msgstr "显示按钮标签"
+
+#: Arjuna-X/functions.php:855
+msgid "Display labels next to the buttons (RSS, Twitter and Facebook)."
+msgstr "在按钮旁显示标签（RSS，Twitter 和 Facebook）。"
+
+#: Arjuna-X/functions.php:864
+msgid "Single Posts and Pages"
+msgstr "单一文章和页面"
+
+#: Arjuna-X/functions.php:868
+msgid "Display Author"
+msgstr "显示作者"
+
+#: Arjuna-X/functions.php:870
+msgid "Include the author of a post in the post header."
+msgstr "在文章的头部显示文章的作者。"
+
+#: Arjuna-X/functions.php:874
+msgid "Display Time"
+msgstr "显示时间"
+
+#: Arjuna-X/functions.php:876
+msgid "Include the time and date of when the post has been published, instead of only the date."
+msgstr "当文章发布时包括日期和时间，而不是仅有时间。"
+
+#: Arjuna-X/functions.php:880
+msgid "Display Info Bar for Pages"
+msgstr "显示页面信息栏"
+
+#: Arjuna-X/functions.php:882
+msgid "Display the info bar right below the title of pages."
+msgstr "在页面标题下方显示页面信息栏"
+
+#: Arjuna-X/functions.php:883
+msgid "The info bar usually includes the author of the page, the publish date and the comments button. This options entirely hides the bar so that only the title is shown."
+msgstr "信息栏通常包括作者的页面、发布日期和评论按钮。这个选项完全隐藏信息栏以便仅显示标题。"
+
+#: Arjuna-X/functions.php:887
+msgid "Navigation Links"
+msgstr "Navigation 链接"
+
+#: Arjuna-X/functions.php:889
+msgid "Display links to the previous and next posts above each post."
+msgstr "在每一篇文章上方显示导航链接"
+
+#: Arjuna-X/functions.php:890
+msgid "Display links to the previous and next posts below each post."
+msgstr "在每一篇文章下方显示导航链接"
+
+#: Arjuna-X/functions.php:891
+msgid "Note: The links will only be shown on permalink pages, i.e. the URL where one single post/page is displayed."
+msgstr "注意：这个链接只会在永久页面显示，也就是每一篇文章或者页面显示 URL 的地方。"
+
+#: Arjuna-X/functions.php:901
+msgid "Display comments as follows"
+msgstr "评论显示方式"
+
+#: Arjuna-X/functions.php:906
+msgid "Aligned to the left"
+msgstr "左对齐"
+
+#: Arjuna-X/functions.php:911
+msgid "Aligned to the right"
+msgstr "右对齐"
+
+#: Arjuna-X/functions.php:916
+msgid "Alternate between left and right alignment"
+msgstr "左右交替"
+
+#: Arjuna-X/functions.php:921
+msgid "Date Format"
+msgstr "日期格式"
+
+#: Arjuna-X/functions.php:923
+msgid "Passed Time (Example: <em>&quot;Written by admin about 3 days ago.&quot;</em>)"
+msgstr "相对现在的时间（例如：<em>&quot;由 admin 撰写于 3 天前。&quot;</em>）"
+
+#: Arjuna-X/functions.php:924
+msgid "Default Date Format (Example: <em>&quot;Written by admin on %s&quot;</em>)"
+msgstr "默认的时间格式（如：<em>&quot;由 admin 撰写于 %s。&quot;</em>）"
+
+#: Arjuna-X/functions.php:925
+msgid "The default date format can be customized in Settings &gt; General."
+msgstr "默认的时间格式可以在 设置 &raquo; 常规 中修改。"
+
+#: Arjuna-X/functions.php:929
+msgid "Comment Display"
+msgstr "显示评论"
+
+#: Arjuna-X/functions.php:931
+msgid "Hide any traces of comments when comments, pingbacks and trackbacks are disabled on <strong>Pages</strong>."
+msgstr "在显示<strong>页面</strong>时时隐藏评论、跟踪和最新文章"
+
+#: Arjuna-X/functions.php:932
+msgid "Hide any traces of comments when comments, pingbacks and trackbacks are disabled on <strong>Posts</strong>."
+msgstr "在显示<strong>文章</strong>时时隐藏评论、跟踪和最新文章"
+
+#: Arjuna-X/functions.php:933
+msgid "Note: If enabled, the section that says Comments and the comments button in the heading of the respective pages/posts will be removed."
+msgstr "注意：如果开启，在各页面或文章的评论按钮将不会显示。"
+
+#: Arjuna-X/functions.php:939
+msgid "Blog"
+msgstr "博客"
+
+#: Arjuna-X/functions.php:943
+msgid "Pagination"
+msgstr "页面"
+
+#: Arjuna-X/functions.php:945
+msgid "Use Arjuna pagination"
+msgstr "使用 Arjuna 页码"
+
+#: Arjuna-X/functions.php:946
+msgid "If enabled, Arjuna will use its own native pagination to allow your users to navigate the blog using pages."
+msgstr "如果开启，Arjuna 将会使用独有的分页来允许用户在页面分页时"
+
+#: Arjuna-X/functions.php:950
+msgid "Page Range"
+msgstr "页码"
+
+#: Arjuna-X/functions.php:959
+msgid "The number of page buttons that will appear before and after the current page button."
+msgstr "页面按钮的数字将在当前按钮的左右两边"
+
+#: Arjuna-X/functions.php:963
+msgid "Page Anchors"
+msgstr "页面集合"
+
+#: Arjuna-X/functions.php:972
+msgid "The number of page buttons that will always appear at the beginning and the end of the pagination."
+msgstr "页面按钮的数字将会出现在分页符的开头和结尾"
+
+#: Arjuna-X/functions.php:976
+msgid "Page Gap"
+msgstr "页面间隔"
+
+#: Arjuna-X/functions.php:985
+msgid "The number of page buttons in a gap before an ellipsis (...) is displayed."
+msgstr "显示在省略号前的间隔中的页码按钮"
+
+#: Arjuna-X/functions.php:990
+msgid "Use WordPress default"
+msgstr "使用 WordPress 默认"
+
+#: Arjuna-X/functions.php:991
+msgid "The default depends on your WordPress version and whether you have any pagination plugins activated. If the wp-paginate or wp-pagenavi plugin is activated, then Arjuna will use these plugins to create the pagination."
+msgstr "默认取决于你的 Wordpress 版本和你是否激活分页功能。如果 wp-paginate 或 wp-pagenavi 插件被激活，那么 Arjuna 将使用这些插件创建页码。"
+
+#: Arjuna-X/functions.php:997
+msgid "Miscellaneous"
+msgstr "杂项"
+
+#: Arjuna-X/functions.php:1001
+msgid "Append to page title"
+msgstr "标题中的附加内容"
+
+#: Arjuna-X/functions.php:1003
+msgid "Blog Name (&quot; - %s&quot;)"
+msgstr "博客名称（&quot; - %s&quot;）"
+
+#: Arjuna-X/functions.php:1004
+msgid "Custom:"
+msgstr "自定义："
+
+#: Arjuna-X/functions.php:1005
+msgid "This will be appended to the page title of every web page (posts, pages, categories, etc.)"
+msgstr "这将追加到每一个 web 页面（文章、页面、分类等等）的页面标题之后。"
+
+#: Arjuna-X/functions.php:1009
+msgid "Footer Style"
+msgstr "页脚风格"
+
+#: Arjuna-X/functions.php:1022
+msgid "Custom CSS"
+msgstr "自定义 CSS"
+
+#: Arjuna-X/functions.php:1029
+msgid "Arjuna needs write permissions to create a new file %s, which will contain the custom CSS."
+msgstr "Arjuna 需要写入权限以创建新文件 %s ，这将包括自定义 CSS。"
+
+#: Arjuna-X/functions.php:1031
+msgid "Enable custom CSS rules"
+msgstr "启用自定义 CSS 规则"
+
+#: Arjuna-X/functions.php:1032
+msgid "If enabled, Arjuna will create a user stylesheet with your custom CSS rules. The user stylesheet will be included with every page call. If you intend to make some minor changes to the stylesheet, enabling this option ensures that you can safely upgrade Arjuna without losing your custom CSS."
+msgstr "如果开启，Arjuna 将会创建以你的自定义 CSS 规则创建一个用户样式表。用户样式表将被每一个页面使用。如果你想要对样式表进行一些小修改，开启这个选项确保你能安全地升级 Arjuna 而不会丢失你的自定义 CSS。"
+
+#: Arjuna-X/functions.php:1041
+msgid "Note:"
+msgstr "注意："
+
+#: Arjuna-X/functions.php:1041
+msgid "Arjuna cannot write to the themes directory. The custom CSS rules will be included in the header of each page, between &lt;STYLE&gt; tags."
+msgstr "Arjuna 不能向主题文件夹写入。自定义 CSS 规则将在每一个页面的顶部被包含在&lt;STYLE&gt; tags。"
+
+#: Arjuna-X/functions.php:1050
+msgid "Performance Optimization"
+msgstr "主题优化"
+
+#: Arjuna-X/functions.php:1054
+msgid "Internet Explorer 6 Optimization"
+msgstr "Internet Explorer 6 优化"
+
+#: Arjuna-X/functions.php:1056
+msgid "Enable IE6 performance optimization"
+msgstr "打开 IE6 优化"
+
+#: Arjuna-X/functions.php:1057
+msgid "If turned on, Arjuna will attempt to detect IE6 and serve a stand-alone CSS file specifically made for IE6."
+msgstr "如果打开这个选项，Arjuna 会自动检测 IE6 浏览器。若访客使用的浏览器的确是IE6，Arjuna 将会使用专为 IE6 设计的 CSS 文件。"
+
+#: Arjuna-X/functions.php:1057
+msgid "Note: IE6 will still work the same if this option is turned off, however, you and your IE6 users will save an estimated 28kb (11 image and 2 CSS files) in bandwidth for first-time visitors. IE6 also might render more rapidly if this is turned on."
+msgstr "注意：即使关闭这个选项，IE6 也可以打开您的页面。但是，第一次访问的访客将会收到大概 28KB（包含 11 个图像文件和 2 个 CSS 文件）的数据。如果打开这个选项，IE6 将会更快地载入您的页面。"
+
+#: Arjuna-X/functions.php:1064
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: Arjuna-X/functions.php:1181
+msgid "Written by"
+msgstr "作者"
+
+#: Arjuna-X/functions.php:1183
+msgid "about %s ago"
+msgstr "于大约 %s 前发表"
+
+#: Arjuna-X/functions.php:1185
+msgid "on"
+msgstr "于"
+
+#: Arjuna-X/functions.php:1190
+msgid "Edit"
+msgstr "编辑"
+
+#: Arjuna-X/functions.php:1217
+msgid "1 year"
+msgstr "一年"
+
+#: Arjuna-X/functions.php:1217
+msgid "%d years"
+msgstr "%d 年"
+
+#: Arjuna-X/functions.php:1221
+msgid "1 month"
+msgstr "一个月"
+
+#: Arjuna-X/functions.php:1221
+msgid "%d months"
+msgstr "%d 个月"
+
+#: Arjuna-X/functions.php:1225
+msgid "1 week"
+msgstr "一个星期"
+
+#: Arjuna-X/functions.php:1225
+msgid "%d weeks"
+msgstr "%d 个星期"
+
+#: Arjuna-X/functions.php:1229
+msgid "1 day"
+msgstr "一天\""
+
+#: Arjuna-X/functions.php:1229
+msgid "%d days"
+msgstr "%d 天"
+
+#: Arjuna-X/functions.php:1233
+msgid "1 hour"
+msgstr "一个小时"
+
+#: Arjuna-X/functions.php:1233
+msgid "%d hours"
+msgstr "%d 个小时"
+
+#: Arjuna-X/functions.php:1237
+msgid "1 minute"
+msgstr "一分钟"
+
+#: Arjuna-X/functions.php:1237
+msgid "%d minutes"
+msgstr "%d 分钟"
+
+#: Arjuna-X/functions.php:1240
+msgid "1 second"
+msgstr "一秒"
+
+#: Arjuna-X/functions.php:1240
+msgid "%d seconds"
+msgstr "%d 秒"
+
+#: Arjuna-X/functions.php:1326
+msgid "Page %s of %s"
+msgstr "页面 %s 于 %s"
+
+#: Arjuna-X/functions.php:1365
+#: Arjuna-X/functions.php:1368
+msgid "Page %s"
+msgstr "页面 %s"
+
+#: Arjuna-X/functions.php:1393
+msgid "Comment Pages:"
+msgstr "评论页码："
+
+#: Arjuna-X/header.php:10
+msgid "Search Results:"
+msgstr "搜索结果："
+
+#: Arjuna-X/header.php:37
+msgid "Skip to posts"
+msgstr "跳至文章"
+
+#: Arjuna-X/header.php:63
+msgid "Search here..."
+msgstr "搜索"
+
+#: Arjuna-X/header.php:64
+msgid "Find"
+msgstr "搜索"
+
+#: Arjuna-X/header.php:70
+msgid "Home"
+msgstr "首页"
+
+#: Arjuna-X/index.php:53
+msgid "Previous Page"
+msgstr "前一页面"
+
+#: Arjuna-X/index.php:53
+msgid "Next Page"
+msgstr "后一页面"
+
+#: Arjuna-X/page.php:44
+#: Arjuna-X/page_fullwidth.php:48
+#: Arjuna-X/single.php:44
+msgid "Pages:"
+msgstr "页面："
+
+#: Arjuna-X/page.php:44
+#: Arjuna-X/page_fullwidth.php:48
+#: Arjuna-X/single.php:44
+msgid "Page %"
+msgstr "第 % 页"
+
+#: Arjuna-X/page.php:46
+#: Arjuna-X/page_fullwidth.php:50
+#: Arjuna-X/single.php:56
+msgid "Edit in Admin"
+msgstr "以管理员身份编辑"
+
+#: Arjuna-X/page.php:58
+#: Arjuna-X/page_fullwidth.php:63
+#: Arjuna-X/single.php:76
+msgid "There is nothing here."
+msgstr "这里空空如也。"
+
+#: Arjuna-X/search.php:8
+msgid "Search Results on <em>%s</em>"
+msgstr "<em>%s</em> 上的搜索结果。"
+
+#: Arjuna-X/search.php:65
+msgid "Your search returned no results."
+msgstr "您没有找到任何东西。"
+
+#: Arjuna-X/sidebar.php:20
+msgid "Recent Posts"
+msgstr "最近的文章"
+
+#: Arjuna-X/sidebar.php:27
+msgid "Browse by Tags"
+msgstr "按标签浏览"
+
+#: Arjuna-X/sidebar.php:49
+msgid "Meta"
+msgstr "功能"
+
+#: Arjuna-X/single.php:9
+#: Arjuna-X/single.php:67
+msgid "Previous Post"
+msgstr "前一文章"
+
+#: Arjuna-X/single.php:10
+#: Arjuna-X/single.php:68
+msgid "Next Post"
+msgstr "后一文章"
+

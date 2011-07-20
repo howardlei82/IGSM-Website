@@ -1,0 +1,235 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-15 05:21+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: script-compressor.php:342 script-compressor.php:450
+msgid "Script Compressor Options"
+msgstr ""
+
+#: script-compressor.php:342
+msgid "Script Compressor"
+msgstr ""
+
+#: script-compressor.php:354
+msgid "Settings"
+msgstr ""
+
+#: script-compressor.php:369
+#, possible-php-format
+msgid "Give the write permission to %s."
+msgstr ""
+
+#: script-compressor.php:394 script-compressor.php:396
+msgid "Options saved."
+msgstr ""
+
+#: script-compressor.php:396 script-compressor.php:408
+msgid ""
+"Your .htaccess is not writable so you may need to re-save your <a href="
+"\"options-permalink.php\">permalink settings</a> manually."
+msgstr ""
+
+#: script-compressor.php:406 script-compressor.php:408
+msgid "Options removed."
+msgstr ""
+
+#: script-compressor.php:421
+#, possible-php-format
+msgid "%d file removed (%d KB)."
+msgid_plural "%d files removed (%d KB)."
+msgstr[0] ""
+msgstr[1] ""
+
+#: script-compressor.php:452
+msgid "General Options"
+msgstr ""
+
+#: script-compressor.php:456
+msgid "Auto-compression"
+msgstr ""
+
+#: script-compressor.php:459
+msgid "Javascript compression in the header"
+msgstr ""
+
+#: script-compressor.php:462
+msgid "CSS compression"
+msgstr ""
+
+#: script-compressor.php:467
+msgid "Gzip compression"
+msgstr ""
+
+#: script-compressor.php:470
+msgid "Use gzip compression for the cache and the output."
+msgstr ""
+
+#: script-compressor.php:475
+msgid "Javascript Options"
+msgstr ""
+
+#: script-compressor.php:479
+msgid "Position of Javascripts"
+msgstr ""
+
+#: script-compressor.php:482
+msgid ""
+"This plugin will output compressed Javascripts after the header. However "
+"some scripts need to be loaded before other scripts. So you can input a part "
+"of script URL that need to be loaded first (one per line)."
+msgstr ""
+
+#: script-compressor.php:486
+msgid "Exclude Javascripts"
+msgstr ""
+
+#: script-compressor.php:489
+msgid ""
+"You can input a part of script URL that need not to be compressed (one per "
+"line)."
+msgstr ""
+
+#: script-compressor.php:493
+msgid "Output Position"
+msgstr ""
+
+#: script-compressor.php:496
+msgid "Output compressed scripts to the footer."
+msgstr ""
+
+#: script-compressor.php:501
+msgid "CSS Options"
+msgstr ""
+
+#: script-compressor.php:505
+msgid "CSS compression method"
+msgstr ""
+
+#: script-compressor.php:508
+msgid "Respective"
+msgstr ""
+
+#: script-compressor.php:509
+msgid ""
+"This method compresses <strong>respective</strong> CSS files (former "
+"method). This uses .htaccess and mod_rewrite."
+msgstr ""
+
+#: script-compressor.php:512
+msgid "Composed"
+msgstr ""
+
+#: script-compressor.php:513
+msgid ""
+"This method compresses <strong>composed</strong> CSS files in the header. "
+"The frequency of the HTTP request is less than \"Respective\" but there is a "
+"possibility that the paths of images in CSS files break and that the media "
+"type becomes ineffective."
+msgstr ""
+
+#: script-compressor.php:518
+msgid "CSS compression condition (mod_rewrite)"
+msgstr ""
+
+#: script-compressor.php:521
+msgid ""
+"This text is inserted in the upper part of RewriteRule added by this plugin "
+"in your .htaccess. Please see <a href=\"http://httpd.apache.org/docs/2.0/mod/"
+"mod_rewrite.html#rewritecond\">RewriteCond doc</a>."
+msgstr ""
+
+#: script-compressor.php:522
+msgid "Example: <code>RewriteCond %{REQUEST_URI} !.*wp-admin.*</code>"
+msgstr ""
+
+#: script-compressor.php:528
+msgid "Update Options"
+msgstr ""
+
+#: script-compressor.php:532
+msgid "Instructions"
+msgstr ""
+
+#: script-compressor.php:533
+msgid "Additional template tags"
+msgstr ""
+
+#: script-compressor.php:534
+msgid ""
+"Javascripts and CSS between <code>&lt;?php sc_comp_start() ?&gt;</code> and "
+"<code>&lt;?php sc_comp_end() ?&gt;</code> will be compressed by this plugin."
+msgstr ""
+
+#: script-compressor.php:535
+msgid "e.g."
+msgstr ""
+
+#: script-compressor.php:535
+msgid ""
+"&lt;?php sc_comp_start() ?&gt;<br />&lt;script type=\"text/javascript\" src="
+"\"foo.js\"&gt;&lt;/script&gt;<br />&lt;script type=\"text/javascript\" src="
+"\"bar.js\"&gt;&lt;/script&gt;<br />&lt;?php sc_comp_end() ?&gt;"
+msgstr ""
+
+#: script-compressor.php:536
+msgid ""
+"If you check \"Javascript compression in the header\", the scripts in the "
+"header will be compressed automatically."
+msgstr ""
+
+#: script-compressor.php:537
+msgid "Notes"
+msgstr ""
+
+#: script-compressor.php:539
+msgid "This plugin makes caches in the compression progress."
+msgstr ""
+
+#: script-compressor.php:540
+msgid ""
+"Only files located in the same server as your WordPress can be compressed."
+msgstr ""
+
+#: script-compressor.php:541
+msgid ""
+"The extensions of Javascript and CSS should be .js and .css respectively."
+msgstr ""
+
+#: script-compressor.php:542
+msgid ""
+"<strong>When you deactivate this plugin, the mod_rewrite codes in the ."
+"htaccess can remain and cause problems, so you may need to re-save your <a "
+"href=\"options-permalink.php\">permalink settings</a> after the deactivation."
+"</strong>"
+msgstr ""
+
+#: script-compressor.php:545 script-compressor.php:550
+msgid "Remove cache files"
+msgstr ""
+
+#: script-compressor.php:546
+msgid "You can remove the cache files."
+msgstr ""
+
+#: script-compressor.php:554 script-compressor.php:559
+msgid "Remove options"
+msgstr ""
+
+#: script-compressor.php:555
+msgid "You can remove the above options from the database."
+msgstr ""

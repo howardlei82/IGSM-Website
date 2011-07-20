@@ -1,0 +1,1482 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arjuna X 1.3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-20 11:35+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: SRS Solutions <info@srssolutions.com>\n"
+"Language-Team: sebos\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../404.php:4
+msgid "Error 404 - Not Found"
+msgstr "Erreur 404 - Introuvable"
+
+#: ../404.php:5
+msgid "Sorry, but you are looking for something that isn't here. "
+msgstr "Désolé, mais vous cherchez quelque chose qui n'est pas ici."
+
+#: ../archive.php:8
+#, php-format
+msgid "Browsing Posts in <em>%s</em>"
+msgstr "Affichage des articles dans <em>%s</em>"
+
+#: ../archive.php:10
+#, php-format
+msgid "Browsing Posts tagged <em>%s</em>"
+msgstr "Affichage des articles marqués <em>%s</em>"
+
+#: ../archive.php:12
+#, php-format
+msgid "Browsing Posts published on %s"
+msgstr "Affichage des articles publiés le %s"
+
+#: ../archive.php:14
+#: ../archive.php:16
+#, php-format
+msgid "Browsing Posts published in %s"
+msgstr "Affichage des articles publiés dans %s"
+
+#: ../archive.php:14
+msgid "F, Y"
+msgstr "F, Y"
+
+#: ../archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: ../archive.php:19
+#, php-format
+msgid "Browsing Posts published by <em>%s</em>"
+msgstr "Affichage des articles publiés par <em>%s</em>"
+
+#: ../archive.php:21
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+#: ../archive.php:38
+#: ../index.php:13
+#: ../page.php:18
+#: ../page_fullwidth.php:22
+#: ../search.php:20
+#: ../single.php:15
+msgid "continue reading..."
+msgstr "poursuivre la lecture..."
+
+#: ../archive.php:49
+#: ../index.php:25
+msgid "There is nothing here (yet)."
+msgstr "Il n'y a rien ici (pour l'instant)."
+
+#: ../comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Cet article est protégé par mot de passe. Entrez le mot de passe pour afficher les commentaires."
+
+#: ../comments.php:23
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../comments.php:30
+#, fuzzy
+msgid "Trackbacks"
+msgstr "Trackback"
+
+#: ../comments.php:37
+msgid "Leave a comment"
+msgstr "Ecrire un commentaire"
+
+#: ../comments.php:40
+msgid "Trackback"
+msgstr "Trackback"
+
+#: ../comments.php:56
+msgid "No one has commented yet."
+msgstr "Pas encore de commentaire."
+
+#: ../comments.php:58
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: ../comments.php:74
+msgid "No trackbacks yet."
+msgstr ""
+
+#: ../comments.php:76
+msgid "Trackbacks are disabled."
+msgstr ""
+
+#: ../functions.php:136
+msgid "Light Blue"
+msgstr "Bleu Clair"
+
+#: ../functions.php:137
+msgid "Dark Blue"
+msgstr "Bleu Foncé"
+
+#: ../functions.php:138
+msgid "Khaki"
+msgstr "Kaki"
+
+#: ../functions.php:139
+msgid "Sea Green"
+msgstr "Bleu-vert"
+
+#: ../functions.php:140
+#, fuzzy
+msgid "Light Red"
+msgstr "Bleu Clair"
+
+#: ../functions.php:141
+msgid "Purple"
+msgstr ""
+
+#: ../functions.php:142
+#, fuzzy
+msgid "Light Gray"
+msgstr "Bleu Clair"
+
+#: ../functions.php:143
+msgid "Dark Gray"
+msgstr ""
+
+#: ../functions.php:583
+#: ../functions.php:590
+msgid "The uploaded file is not a valid image. Only JPEG, PNG and GIF is supported."
+msgstr ""
+
+#: ../functions.php:682
+msgid "Arjuna Options"
+msgstr "Options de Arjuna"
+
+#: ../functions.php:702
+msgid "The Arjuna options have been saved."
+msgstr "Les options de Arjuna ont été sauvegardées."
+
+#: ../functions.php:707
+msgid "Arjuna Theme Options"
+msgstr "Options du Thème Arjuna "
+
+#: ../functions.php:710
+msgid "This browser is outdated. Please <a href=\"http://www.microsoft.com/windows/internet-explorer/default.aspx\">upgrade</a> your browser to enjoy this website to its fullest extent."
+msgstr ""
+
+#: ../functions.php:715
+#, php-format
+msgid "Thank you for using Arjuna, the free WordPress theme designed by %s."
+msgstr "Merci d'utiliser Arjuna, le thème WordPress gratuit conçu par %s."
+
+#: ../functions.php:717
+msgid "Follow Us"
+msgstr "Suivez nous sur Twitter"
+
+#: ../functions.php:718
+msgid "to receive news, updates, and more."
+msgstr ""
+
+#: ../functions.php:727
+msgid "Report Bugs"
+msgstr "Soumettre des bugs"
+
+#: ../functions.php:728
+msgid "Report a Bug"
+msgstr "Soumettre un bug"
+
+#: ../functions.php:728
+msgid "Please include your Wordpress version, browser details and a screenshot, if necessary."
+msgstr "Merci de préciser votre version WordPress, votre navigateur Web, et éventuellement une copie d'écran."
+
+#: ../functions.php:731
+msgid "Useful Links"
+msgstr "Liens utiles"
+
+#: ../functions.php:732
+msgid "Changelog"
+msgstr "Changements"
+
+#: ../functions.php:733
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../functions.php:734
+msgid "Roadmap"
+msgstr "Feuille de route"
+
+#: ../functions.php:735
+msgid "Leave Feedback"
+msgstr "Laisser des suggestions"
+
+#: ../functions.php:738
+msgid "Support &amp; Sales"
+msgstr "Support &amp; Service Commercial"
+
+#: ../functions.php:739
+msgid "Contact Sales"
+msgstr "Contacter le Service Commercial"
+
+#: ../functions.php:739
+msgid "Need installation or integration support? Need something customized or extended?"
+msgstr "Vous avez besoin d'une aide à l'installation ou l'intégration ? Vous souhaitez une adaptation ou une évolution ?"
+
+#: ../functions.php:744
+msgid "Arjuna is completely free. Therefore, please understand that we do NOT offer free support. If you require support of any kind other than fixing a bug that is related to Arjuna, please request a quote from us."
+msgstr "Arjuna est entièrement gratuit. Néanmoins, veuillez comprendre que nous n'offrons pas de support gratuitement. Si vous avez besoin d'un support particulier ou de résoudre un bug lié à Arjuna, demandez nous un devis."
+
+#: ../functions.php:756
+msgid "General Blog Appearance"
+msgstr ""
+
+#: ../functions.php:759
+#, fuzzy
+msgid "Logo"
+msgstr "Déconnexion"
+
+#: ../functions.php:764
+#, fuzzy
+msgid "Header Logo"
+msgstr "En-tête"
+
+#: ../functions.php:772
+msgid "The custom logo will be included in the header, aligned to the left and vertically centered."
+msgstr ""
+
+#: ../functions.php:774
+#, php-format
+msgid "You do not have write permissions for the upload directory %s. Please check with your webmaster or host to set write permissions for this directory."
+msgstr ""
+
+#: ../functions.php:785
+msgid "First Header Menu"
+msgstr "Premier en-tête du Menu"
+
+#: ../functions.php:790
+#: ../functions.php:944
+#: ../functions.php:1282
+#: ../functions.php:1540
+msgid "Enabled"
+msgstr "Activé"
+
+#: ../functions.php:792
+#: ../functions.php:946
+msgid "Enable this menu"
+msgstr "Activer ce menu"
+
+#: ../functions.php:794
+#: ../functions.php:948
+msgid "If disabled, the menu will be hidden."
+msgstr "Si désactivé, le menu sera masqué."
+
+#: ../functions.php:798
+#: ../functions.php:958
+msgid "Dropdown"
+msgstr "Liste déroulante"
+
+#: ../functions.php:802
+#: ../functions.php:962
+msgid "No dropdown menu"
+msgstr "Pas de menu en liste déroulante"
+
+#: ../functions.php:806
+#: ../functions.php:966
+msgid "One-level dropdown menu"
+msgstr "Menu à 1 niveau"
+
+#: ../functions.php:810
+#: ../functions.php:970
+msgid "Two-level dropdown menu"
+msgstr "Menu à 2 niveaux"
+
+#: ../functions.php:814
+msgid "Alignment"
+msgstr "Alignement"
+
+#: ../functions.php:818
+msgid "Left"
+msgstr "Gauche"
+
+#: ../functions.php:822
+msgid "Right"
+msgstr "Droite"
+
+#: ../functions.php:827
+#: ../functions.php:981
+#: ../functions.php:1499
+msgid "Use"
+msgstr ""
+
+#: ../functions.php:831
+#: ../functions.php:985
+msgid "WordPress Custom Menus"
+msgstr ""
+
+#: ../functions.php:835
+#: ../functions.php:989
+msgid "Legacy Menus"
+msgstr ""
+
+#: ../functions.php:842
+#: ../functions.php:996
+msgid "Menu lists only"
+msgstr "Seulement un menu de listes"
+
+#: ../functions.php:846
+#: ../functions.php:1000
+msgid "Pages"
+msgstr "Pages"
+
+#: ../functions.php:850
+#: ../functions.php:1004
+#: ../sidebar.php:30
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../functions.php:855
+#: ../functions.php:1009
+msgid "Sorting Order"
+msgstr "Ordre de tri"
+
+#: ../functions.php:858
+#: ../functions.php:872
+#: ../functions.php:1012
+#: ../functions.php:1026
+msgid "Sort menu items in"
+msgstr "Classer les éléments du menu par ordre "
+
+#: ../functions.php:860
+#: ../functions.php:874
+#: ../functions.php:1014
+#: ../functions.php:1028
+msgid "ascending"
+msgstr "croissant"
+
+#: ../functions.php:861
+#: ../functions.php:875
+#: ../functions.php:1015
+#: ../functions.php:1029
+msgid "descending"
+msgstr "décroissant"
+
+#: ../functions.php:863
+#: ../functions.php:877
+#: ../functions.php:1017
+#: ../functions.php:1031
+msgid "order by"
+msgstr "classer par"
+
+#: ../functions.php:865
+#: ../functions.php:1019
+msgid "Category Name"
+msgstr "Nom de la catégorie"
+
+#: ../functions.php:866
+#: ../functions.php:1020
+msgid "Category ID"
+msgstr "ID de la catégorie"
+
+#: ../functions.php:867
+#: ../functions.php:1021
+msgid "Post Count"
+msgstr "Nombre d'articles"
+
+#: ../functions.php:868
+#: ../functions.php:1022
+msgid "Category Slug"
+msgstr "Activité de la Catégorie"
+
+#: ../functions.php:879
+#: ../functions.php:1033
+msgid "Page Title"
+msgstr "Titre de la Page"
+
+#: ../functions.php:880
+#: ../functions.php:1034
+msgid "Page ID"
+msgstr "ID de la Page"
+
+#: ../functions.php:881
+#: ../functions.php:1035
+msgid "Page Slug"
+msgstr "Activité de la Page"
+
+#: ../functions.php:882
+#: ../functions.php:1036
+msgid "Page Order"
+msgstr "Ordre de Page"
+
+#: ../functions.php:888
+#: ../functions.php:1042
+msgid "Menu Items"
+msgstr "Eléments du menu"
+
+#: ../functions.php:891
+#: ../functions.php:1045
+msgid "Include categories"
+msgstr "Inclure les catégories suivantes"
+
+#: ../functions.php:901
+#: ../functions.php:1055
+msgid "Exclude categories"
+msgstr "Exclure les catégories suivantes"
+
+#: ../functions.php:908
+msgid "Note: While the above fields show empty categories, the theme will only display categories that have at least one published post in them."
+msgstr "Remarque: Bien que les champs ci-dessus montrent des catégories vides, le thème affichera seulement les catégories qui contiennent au moins un article publié."
+
+#: ../functions.php:911
+#: ../functions.php:1065
+msgid "Include pages"
+msgstr "Inclure les pages suivantes"
+
+#: ../functions.php:921
+#: ../functions.php:1075
+msgid "Exclude pages"
+msgstr "Exclure les pages suivantes"
+
+#: ../functions.php:939
+msgid "Second Header Menu"
+msgstr "Second en-tête du Menu"
+
+#: ../functions.php:952
+msgid "Separators"
+msgstr "Séparateurs"
+
+#: ../functions.php:954
+msgid "Visually separate the menu buttons"
+msgstr "Séparer visuellement les boutons du menu"
+
+#: ../functions.php:975
+msgid "Home Button"
+msgstr "Boutton de la page d'acceuil"
+
+#: ../functions.php:977
+msgid "Display Home button"
+msgstr "Afficher le bouton de la page d'acceuil"
+
+#: ../functions.php:1062
+#, fuzzy
+msgid "Note: While the above fields show empty categories, the theme will only display categories that have at least one published post in them.</span>"
+msgstr "Remarque: Bien que les champs ci-dessus montrent des catégories vides, le thème affichera seulement les catégories qui contiennent au moins un article publié."
+
+#: ../functions.php:1092
+msgid "Background &amp; Color Schemes"
+msgstr ""
+
+#: ../functions.php:1097
+msgid "Background Style"
+msgstr ""
+
+#: ../functions.php:1101
+msgid "Blueish gradient"
+msgstr ""
+
+#: ../functions.php:1102
+msgid "Gray gradient"
+msgstr ""
+
+#: ../functions.php:1103
+msgid "Gray gradient (reverse)"
+msgstr ""
+
+#: ../functions.php:1104
+msgid "Khaki gradient"
+msgstr ""
+
+#: ../functions.php:1116
+msgid "Solid Color"
+msgstr ""
+
+#: ../functions.php:1119
+msgid "Button Style"
+msgstr ""
+
+#: ../functions.php:1125
+msgid "If the background is a solid color, you can choose the style of the buttons yourself."
+msgstr ""
+
+#: ../functions.php:1129
+msgid "Header Image"
+msgstr "Image de l'en-tête"
+
+#: ../functions.php:1153
+msgid "Footer Style"
+msgstr "Style de pied de page"
+
+#: ../functions.php:1162
+#, fuzzy
+msgid "Match Header Image"
+msgstr "Image de l'en-tête"
+
+#: ../functions.php:1173
+#: ../functions.php:1213
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: ../functions.php:1175
+#, php-format
+msgid "Note: To see how the sidebar and its widget bars work in Arjuna, please read our %sFAQ%s."
+msgstr ""
+
+#: ../functions.php:1179
+msgid "Sidebar Position"
+msgstr "Position de la barre latérale"
+
+#: ../functions.php:1184
+msgid "Right sidebar"
+msgstr "Barre latérale de droite"
+
+#: ../functions.php:1189
+msgid "Left sidebar"
+msgstr "Barre latérale de gauche"
+
+#: ../functions.php:1194
+msgid "No sidebar"
+msgstr "Pas de barre latérale"
+
+#: ../functions.php:1199
+msgid "Sidebar Width"
+msgstr "Largeur de la barre latérale"
+
+#: ../functions.php:1211
+msgid "Content Area"
+msgstr ""
+
+#: ../functions.php:1219
+#, fuzzy
+msgid "Use the slider to adjust the width of the sidebar."
+msgstr "Afficher un bouton Twitter au sommet de la barre latérale."
+
+#: ../functions.php:1223
+msgid "Default Widgets"
+msgstr "Widgets par défaut"
+
+#: ../functions.php:1225
+msgid "Display default sidebar widgets if the widget bars are empty."
+msgstr "Afficher la barre de widget par défaut si la barre latérale est vide."
+
+#: ../functions.php:1226
+#, fuzzy
+msgid "If enabled, the following widgets will be displayed if the widget bar is empty: <b>Sidebar Top:</b> Recent Posts and Browse by Tags, <b>Sidebar Left:</b> Categories, <b>Siderbar Right:</b> Meta"
+msgstr "Si activé, ces widgets seront affichées si la barre latérale est vide: <b>barre latérale supérieur:</b> Articles récents et affichage par Tags, <b>barre latérale de gauche:</b> Catégories, <b>barre latérale de droite:</b> Méta"
+
+#: ../functions.php:1230
+#, fuzzy
+msgid "Sidebar Buttons"
+msgstr "Position de la barre latérale"
+
+#: ../functions.php:1237
+msgid "Use extended button."
+msgstr ""
+
+#: ../functions.php:1238
+#: ../functions.php:1246
+#: ../functions.php:1254
+#: ../functions.php:1262
+#, fuzzy
+msgid "Label"
+msgstr "Large"
+
+#: ../functions.php:1244
+#, fuzzy
+msgid "Your Twitter URL"
+msgstr "Votre site Web"
+
+#: ../functions.php:1252
+msgid "Your Facebook URL"
+msgstr ""
+
+#: ../functions.php:1260
+msgid "Your LinkedIn URL"
+msgstr ""
+
+#: ../functions.php:1266
+#, fuzzy
+msgid "Choose which buttons will be included on the very top of the sidebar."
+msgstr "Afficher un bouton Twitter au sommet de la barre latérale."
+
+#: ../functions.php:1267
+msgid "The extended RSS button will allow visitors to choose between all available RSS feeds, depending on the page they are currently browsing."
+msgstr ""
+
+#: ../functions.php:1277
+#, fuzzy
+msgid "Search"
+msgstr "Barre latérale"
+
+#: ../functions.php:1284
+#, fuzzy
+msgid "Enable WordPress search"
+msgstr "Utiliser les réglages Wordpress par défaut"
+
+#: ../functions.php:1286
+#, fuzzy
+msgid "If disabled, the search field will not be included in the header."
+msgstr "Si désactivé, le menu sera masqué."
+
+#: ../functions.php:1295
+msgid "General Options"
+msgstr "Options générales"
+
+#: ../functions.php:1298
+#, fuzzy
+msgid "Index Pages"
+msgstr "Inclure les pages suivantes"
+
+#: ../functions.php:1300
+msgid "Index pages include the homepage (unless it is static), archives, category and tag listing pages as well as search results pages. Basically any page that displays a listing of posts."
+msgstr ""
+
+#: ../functions.php:1304
+#, fuzzy
+msgid "Display Tags"
+msgstr "Afficher l'heure"
+
+#: ../functions.php:1306
+#, fuzzy
+msgid "Display the tags of a post right below each post."
+msgstr "Afficher les liens vers les articles précédents et suivants sous chaque article."
+
+#: ../functions.php:1310
+#, fuzzy
+msgid "Display Categories"
+msgstr "Catégories"
+
+#: ../functions.php:1312
+#, fuzzy
+msgid "Display the categories of a post right below each post."
+msgstr "Afficher les liens vers les articles précédents et suivants sous chaque article."
+
+#: ../functions.php:1322
+#, fuzzy
+msgid "Posts and Pages"
+msgstr "Articles et Pages"
+
+#: ../functions.php:1327
+msgid "Display Author"
+msgstr "Afficher l'auteur"
+
+#: ../functions.php:1329
+#, fuzzy
+msgid "Include the author of a post/page."
+msgstr "Inclure l'auteur de l'article dans l'en-tête de l'article."
+
+#: ../functions.php:1333
+msgid "Display Time"
+msgstr "Afficher l'heure"
+
+#: ../functions.php:1335
+#, fuzzy
+msgid "Include the time and date of when the post/page has been published, instead of only the date."
+msgstr "Ajouter la date et l'heure de publication de l'article, au lieu de la date seule."
+
+#: ../functions.php:1339
+msgid "Display Info Bar for Pages"
+msgstr "Afficher la barre d'info pour les pages"
+
+#: ../functions.php:1341
+msgid "Display the info bar right below the title of pages."
+msgstr "Afficher la barre d'info juste en-dessous du titre des pages."
+
+#: ../functions.php:1342
+#, fuzzy
+msgid "The info bar usually includes the author of the page, the publish date, and the comments button. If turned off, this option entirely hides the bar so that only the title of the page is shown."
+msgstr "La barre d'info comprends généralement l'auteur de la page, la date de publication et le boutton de commentaire. Ces options cachent complètement la barre, donc seul le titre sera visible."
+
+#: ../functions.php:1346
+msgid "Navigation Links"
+msgstr "Liens de navigation"
+
+#: ../functions.php:1348
+msgid "Display links to the previous and next posts above each post."
+msgstr "Afficher les liens vers les articles précédents et suivants au-dessus de chaque article."
+
+#: ../functions.php:1349
+msgid "Display links to the previous and next posts below each post."
+msgstr "Afficher les liens vers les articles précédents et suivants sous chaque article."
+
+#: ../functions.php:1350
+#, fuzzy
+msgid "Note: The links will only be shown on permalink pages, i.e. the URL where one single post is displayed."
+msgstr "Remarque : les liens seront affiché vers les pages perma-liens, avec un seul article par page d'affiché."
+
+#: ../functions.php:1360
+msgid "Comments &amp; Trackbacks"
+msgstr ""
+
+#: ../functions.php:1365
+msgid "Display comments as follows"
+msgstr "Afficher les commentaires comme ceci"
+
+#: ../functions.php:1370
+msgid "Aligned to the left"
+msgstr "Alignés à gauche"
+
+#: ../functions.php:1375
+msgid "Aligned to the right"
+msgstr "Alignés à droite"
+
+#: ../functions.php:1380
+msgid "Alternate between left and right alignment"
+msgstr "Alignés successivement à gauche et à droite"
+
+#: ../functions.php:1385
+msgid "Date Format"
+msgstr "Format de la date"
+
+#: ../functions.php:1387
+msgid "Passed Time (Example: <em>&quot;Written by admin about 3 days ago.&quot;</em>)"
+msgstr "Temps écoulé (exemple : <em>&quot;Rédigé par admin il y a 3 jours.&quot;</em>)"
+
+#: ../functions.php:1388
+#, php-format
+msgid "Default Date Format (Example: <em>&quot;Written by admin on %s&quot;</em>)"
+msgstr "Date par défaut (exemple : <em>&quot;Rédigé par admin le %s.&quot;</em>)"
+
+#: ../functions.php:1389
+msgid "The default date format can be customized in Settings &gt; General."
+msgstr "Le format de date par défaut peut être personnalisé dans le menu \"Réglages/Général\" de wordpress."
+
+#: ../functions.php:1393
+msgid "Comment Display"
+msgstr "Affichage du commentaire"
+
+#: ../functions.php:1395
+#, fuzzy
+msgid "Hide any traces of comments when they are disabled for <strong>Pages</strong>."
+msgstr "Cacher toutes traces de commentaires lorsque les commentaires, pingback et trackback sont désactivés pour les <strong>Pages</strong>."
+
+#: ../functions.php:1396
+#, fuzzy
+msgid "Hide any traces of comments when they are disabled for <strong>Posts</strong>."
+msgstr "Cacher toutes traces de commentaires lorsque les commentaires, pingback et trackback sont désactivés pour les <strong>Articles</strong>."
+
+#: ../functions.php:1397
+#, fuzzy
+msgid "Note: If enabled, the comments tab section as well as the comment form on pages/posts will be removed."
+msgstr "Remarque: si activé, la séction qui contient les Commentaires et le boutton Commentaire dans l'en-tête des pages et des articles sera supprimée."
+
+#: ../functions.php:1401
+#, fuzzy
+msgid "Trackback Display"
+msgstr "Trackback"
+
+#: ../functions.php:1403
+#, fuzzy
+msgid "Hide any traces of trackbacks and pingbacks when they are disabled for <strong>Pages</strong>."
+msgstr "Cacher toutes traces de commentaires lorsque les commentaires, pingback et trackback sont désactivés pour les <strong>Pages</strong>."
+
+#: ../functions.php:1404
+#, fuzzy
+msgid "Hide any traces of trackbacks and pingbacks when they are disabled for <strong>Posts</strong>."
+msgstr "Cacher toutes traces de commentaires lorsque les commentaires, pingback et trackback sont désactivés pour les <strong>Articles</strong>."
+
+#: ../functions.php:1405
+#, fuzzy
+msgid "Note: If enabled, the trackbacks tab section on pages/posts will be removed."
+msgstr "Remarque: si activé, la séction qui contient les Commentaires et le boutton Commentaire dans l'en-tête des pages et des articles sera supprimée."
+
+#: ../functions.php:1415
+msgid "Excerpts"
+msgstr ""
+
+#: ../functions.php:1420
+msgid "Show excerpts on"
+msgstr ""
+
+#: ../functions.php:1422
+msgid "Homepage/Index page"
+msgstr ""
+
+#: ../functions.php:1423
+#, fuzzy
+msgid "Category &amp; tag pages"
+msgstr "Nom de la catégorie"
+
+#: ../functions.php:1424
+#, fuzzy
+msgid "Archive pages"
+msgstr "Archives du blog"
+
+#: ../functions.php:1425
+#, fuzzy
+msgid "Search pages"
+msgstr "Résultats de la recherche :"
+
+#: ../functions.php:1426
+msgid "Author pages"
+msgstr ""
+
+#: ../functions.php:1427
+msgid "Note: If enabled, an excerpt will be shown instead of the full post on selected pages. If a post does not have a custom excerpt, an automatic excerpt of the first 55 words will be displayed."
+msgstr ""
+
+#: ../functions.php:1437
+#: ../functions.php:1442
+msgid "Pagination"
+msgstr "Pagination"
+
+#: ../functions.php:1444
+msgid "Use Arjuna pagination"
+msgstr "Utiliser la pagination Arjuna"
+
+#: ../functions.php:1445
+msgid "If enabled, Arjuna will use its own native pagination to allow your users to navigate the blog using pages."
+msgstr "Si activé, Arjuna utilisera son propre système de pagination pour permettre aux utilisateurs de parcourir le blog grâce aux pages."
+
+#: ../functions.php:1449
+msgid "Page Range"
+msgstr "Intervalle de page"
+
+#: ../functions.php:1456
+msgid "The number of page buttons that will appear before and after the current page button."
+msgstr "Le nombre de boutons de pages affichés avant et après celui de la page courante."
+
+#: ../functions.php:1460
+msgid "Page Anchors"
+msgstr "Ancres de page"
+
+#: ../functions.php:1467
+msgid "The number of page buttons that will always appear at the beginning and the end of the pagination."
+msgstr "Le nombre de boutons de pages qui seront toujours affichés au début et en fin de pagination."
+
+#: ../functions.php:1471
+msgid "Page Gap"
+msgstr "Ecart de page"
+
+#: ../functions.php:1478
+msgid "The number of page buttons in a gap before an ellipsis (...) is displayed."
+msgstr "Le nombre maximal de boutons de page affichés avant affichage de (...)."
+
+#: ../functions.php:1483
+msgid "Use WordPress default"
+msgstr "Utiliser les réglages Wordpress par défaut"
+
+#: ../functions.php:1484
+msgid "The default depends on your WordPress version and whether you have any pagination plugins activated. If the wp-paginate or wp-pagenavi plugin is activated, then Arjuna will use these plugins to create the pagination."
+msgstr "La valeur par défaut dépend de votre version Wordpress et si vous avez activé une extension de pagination. Si l'extension wp-paginate ou wp-pagenavi est activé, Arjuna utilisera ces extensions pour réaliser la pagination."
+
+#: ../functions.php:1494
+msgid "RSS Feeds"
+msgstr ""
+
+#: ../functions.php:1503
+#, fuzzy
+msgid "Default RSS Feeds"
+msgstr "Widgets par défaut"
+
+#: ../functions.php:1507
+msgid "Google Feedburner"
+msgstr ""
+
+#: ../functions.php:1514
+msgid "Redirect Feeds to"
+msgstr ""
+
+#: ../functions.php:1517
+msgid "Arjuna will redirect all of your existing feeds, including category and tag feeds, to Google Feedburner."
+msgstr ""
+
+#: ../functions.php:1521
+msgid "Redirect Comment Feeds to"
+msgstr ""
+
+#: ../functions.php:1524
+msgid "Arjuna will redirect your comment feeds to Google Feedburner to this URL."
+msgstr ""
+
+#: ../functions.php:1534
+#, fuzzy
+msgid "Twitter Widget"
+msgstr "Boutton Twitter"
+
+#: ../functions.php:1536
+msgid "Note: The minimum sidebar width for the twitter widget to not overflow the sidebar is 280px. Please adjust your sidebar accordingly."
+msgstr ""
+
+#: ../functions.php:1544
+#: ../functions.php:1589
+#: ../functions.php:1602
+msgid "Yes"
+msgstr ""
+
+#: ../functions.php:1548
+#: ../functions.php:1593
+#: ../functions.php:1606
+msgid "No"
+msgstr ""
+
+#: ../functions.php:1555
+#, fuzzy
+msgid "Widget Title"
+msgstr "Titre de la Page"
+
+#: ../functions.php:1558
+msgid "The title of the sidebar widget."
+msgstr ""
+
+#: ../functions.php:1562
+#, fuzzy
+msgid "Twitter Username"
+msgstr "Boutton Twitter"
+
+#: ../functions.php:1568
+#, fuzzy
+msgid "Height"
+msgstr "Droite"
+
+#: ../functions.php:1574
+msgid "Number of Tweets"
+msgstr ""
+
+#: ../functions.php:1585
+msgid "Scrollbar"
+msgstr ""
+
+#: ../functions.php:1598
+msgid "Show Timestamp"
+msgstr ""
+
+#: ../functions.php:1617
+msgid "Miscellaneous"
+msgstr "Divers"
+
+#: ../functions.php:1622
+msgid "Append to page title"
+msgstr "Ajouter au titre de la page"
+
+#: ../functions.php:1624
+#, php-format
+msgid "Blog Name (&quot; - %s&quot;)"
+msgstr "Nom du blog (&quot; - %s&quot;)"
+
+#: ../functions.php:1625
+#: ../functions.php:1633
+msgid "Custom:"
+msgstr "Personnalisé :"
+
+#: ../functions.php:1626
+msgid "This will be appended to the page title of every web page (posts, pages, categories, etc.)"
+msgstr "Ceci sera ajouté sur la page de titre de chaque page Web (articles, pages, catégories, etc.)"
+
+#: ../functions.php:1630
+msgid "Footer Copyright Notice"
+msgstr ""
+
+#: ../functions.php:1632
+#, fuzzy, php-format
+msgid "Blog Name (&quot;%s&quot;)"
+msgstr "Nom du blog (&quot; - %s&quot;)"
+
+#: ../functions.php:1634
+msgid "The copyright notice will be displayed in the footer."
+msgstr ""
+
+#: ../functions.php:1638
+#, fuzzy
+msgid "Enable JavaScript menus"
+msgstr "Activer ce menu"
+
+#: ../functions.php:1640
+msgid "Enable JavaScript dropdown menus. This will improve usability of the menus. If JavaScript is disabled, CSS-based dropdown menus will be used instead."
+msgstr ""
+
+#: ../functions.php:1644
+msgid "Show IE6 Notice"
+msgstr ""
+
+#: ../functions.php:1646
+msgid "Display a notice to Internet Explorer 6 users to update their browsers."
+msgstr ""
+
+#: ../functions.php:1650
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: ../functions.php:1657
+#, php-format
+msgid "Arjuna needs write permissions to create a new file %s, which will contain the custom CSS."
+msgstr "Arjuna a besoin des droits en écriture pour créer un nouveau fichier %s, qui contiendra les styles CSS personnalisés."
+
+#: ../functions.php:1659
+msgid "Enable custom CSS rules"
+msgstr "Activer les styles CSS personnalisés"
+
+#: ../functions.php:1660
+#, fuzzy
+msgid "If enabled, Arjuna will include your custom CSS rules with every page call. If you intend to make some minor changes to the theme, enabling this option ensures that you can safely upgrade Arjuna without losing your custom CSS. We recommend to use child themes for more serious customizations."
+msgstr "Si activé, Arjuna créera une feuille de style CSS personnalisée pour vos styles CSS. Ce fichier sera inclu dans l'appel à chaque page. Si vous souhaitez personnaliser la feuille de style, l'activation de cette option vous permettra de mettre à jour Arjuna sans perdre vos styles personnalisés."
+
+#: ../functions.php:1676
+msgid "Save Changes"
+msgstr "Enregistrer les changements"
+
+#: ../functions.php:1787
+msgid "Written by"
+msgstr "Ecrit par"
+
+#: ../functions.php:1789
+#: ../functions.php:1829
+#, php-format
+msgid "about %s ago"
+msgstr "il y a %s"
+
+#: ../functions.php:1791
+#: ../functions.php:1831
+msgid "on"
+msgstr "le"
+
+#: ../functions.php:1796
+#: ../functions.php:1835
+msgid "Edit"
+msgstr "Editer"
+
+#: ../functions.php:1799
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: ../functions.php:1827
+msgid "Pinged by"
+msgstr ""
+
+#: ../functions.php:1838
+#, fuzzy
+msgid "Your trackback is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: ../functions.php:1869
+msgid "1 year"
+msgstr "1 an"
+
+#: ../functions.php:1869
+#, php-format
+msgid "%d years"
+msgstr "%d années"
+
+#: ../functions.php:1873
+msgid "1 month"
+msgstr "1 mois"
+
+#: ../functions.php:1873
+#, php-format
+msgid "%d months"
+msgstr "%d mois"
+
+#: ../functions.php:1877
+msgid "1 week"
+msgstr "1 semaine"
+
+#: ../functions.php:1877
+#, php-format
+msgid "%d weeks"
+msgstr "%d semaines"
+
+#: ../functions.php:1881
+msgid "1 day"
+msgstr "1 jour"
+
+#: ../functions.php:1881
+#, php-format
+msgid "%d days"
+msgstr "%d jours"
+
+#: ../functions.php:1885
+msgid "1 hour"
+msgstr "1 heure"
+
+#: ../functions.php:1885
+#, php-format
+msgid "%d hours"
+msgstr "%d heures"
+
+#: ../functions.php:1889
+msgid "1 minute"
+msgstr "1 minute"
+
+#: ../functions.php:1889
+#, php-format
+msgid "%d minutes"
+msgstr "%d minutes"
+
+#: ../functions.php:1892
+msgid "1 second"
+msgstr "1 seconde"
+
+#: ../functions.php:1892
+#, php-format
+msgid "%d seconds"
+msgstr "%d secondes"
+
+#: ../functions.php:1974
+#: ../functions.php:2048
+#, php-format
+msgid "Page %s of %s"
+msgstr "Page n° %s sur %s"
+
+#: ../functions.php:2016
+#: ../functions.php:2019
+#: ../functions.php:2061
+#: ../functions.php:2064
+#, php-format
+msgid "Page %s"
+msgstr "Page n° %s"
+
+#: ../functions.php:2100
+msgid "Comment Pages:"
+msgstr "Pages de commentaires :"
+
+#: ../functions.php:2101
+msgid "Previous"
+msgstr "Précédent"
+
+#: ../functions.php:2101
+msgid "Next"
+msgstr "Suivant"
+
+#: ../functions.php:2445
+msgid "Please go to Appearance > Arjuna Options to configure your Arjuna twitter widget."
+msgstr ""
+
+#: ../functions.php:2451
+#: ../functions.php:2460
+msgid "Arjuna Twitter Profile Widget"
+msgstr ""
+
+#: ../functions.php:2455
+msgid "Display Twitter Goodies Profile Widget"
+msgstr ""
+
+#: ../header.php:19
+msgid "Skip to posts"
+msgstr "Descendre aux articles"
+
+#: ../page.php:11
+#: ../page_fullwidth.php:15
+msgid "Permalink to"
+msgstr "Perma-lien vers"
+
+#: ../page.php:20
+#: ../page_fullwidth.php:24
+msgid "Pages:"
+msgstr "Pages :"
+
+#: ../page.php:20
+#: ../page_fullwidth.php:24
+msgid "Page %"
+msgstr "Page %"
+
+#: ../page.php:32
+#: ../page_fullwidth.php:37
+#: ../single.php:36
+msgid "There is nothing here."
+msgstr "Il n'y a rien ici."
+
+#: ../search.php:8
+#, php-format
+msgid "Search Results on <em>%s</em>"
+msgstr "Résultats de la recherche sur <em>%s</em>"
+
+#: ../search.php:32
+msgid "Your search returned no results."
+msgstr "Pas de résultat pour votre recherche."
+
+#: ../sidebar.php:12
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: ../sidebar.php:19
+msgid "Browse by Tags"
+msgstr "Afficher par Tags"
+
+#: ../sidebar.php:44
+msgid "Meta"
+msgstr "Méta"
+
+#: ../single.php:18
+msgid "Previous Page"
+msgstr "Page précédente"
+
+#: ../single.php:18
+msgid "Next Page"
+msgstr "Page suivante"
+
+#: ../templates/comments/reply-form-advanced.php:9
+#: ../templates/comments/reply-form-basic.php:14
+msgid "Leave a Comment"
+msgstr "Déposer un commentaire"
+
+#: ../templates/comments/reply-form-advanced.php:9
+#: ../templates/comments/reply-form-basic.php:15
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../templates/comments/reply-form-advanced.php:11
+#: ../templates/comments/reply-form-basic.php:16
+msgid "Cancel Reply"
+msgstr "Annuler la réponse"
+
+#: ../templates/comments/reply-form-advanced.php:15
+#: ../templates/comments/reply-form-basic.php:18
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Vous devez être %sconnecté %s pour écrire un commentaire."
+
+#: ../templates/comments/reply-form-advanced.php:20
+#: ../templates/comments/reply-form-advanced.php:31
+#: ../templates/comments/reply-form-basic.php:3
+#: ../templates/comments/reply-form-basic.php:10
+msgid "Your name"
+msgstr "Votre nom"
+
+#: ../templates/comments/reply-form-advanced.php:21
+#: ../templates/comments/reply-form-advanced.php:32
+#: ../templates/comments/reply-form-basic.php:4
+#: ../templates/comments/reply-form-basic.php:11
+msgid "Your email"
+msgstr "Votre email"
+
+#: ../templates/comments/reply-form-advanced.php:22
+#: ../templates/comments/reply-form-advanced.php:33
+#: ../templates/comments/reply-form-basic.php:5
+#: ../templates/comments/reply-form-basic.php:12
+msgid "Your website"
+msgstr "Votre site Web"
+
+#: ../templates/comments/reply-form-advanced.php:23
+#: ../templates/comments/reply-form-advanced.php:43
+#: ../templates/comments/reply-form-basic.php:6
+#: ../templates/comments/reply-form-basic.php:17
+msgid "Your comment"
+msgstr "Votre commentaire"
+
+#: ../templates/comments/reply-form-advanced.php:26
+#: ../templates/comments/reply-form-basic.php:19
+#, php-format
+msgid "Logged in as %s."
+msgstr "%s connecté."
+
+#: ../templates/comments/reply-form-advanced.php:26
+#: ../templates/comments/reply-form-basic.php:19
+msgid "Log out of this account"
+msgstr "Se déconnecter de ce compte"
+
+#: ../templates/comments/reply-form-advanced.php:26
+#: ../templates/comments/reply-form-basic.php:19
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: ../templates/comments/reply-form-advanced.php:45
+msgid "Subscribe to comments"
+msgstr "S'abonner aux commentaires"
+
+#: ../templates/comments/reply-form-advanced.php:46
+msgid "Leave comment"
+msgstr "Laisser un commentaire"
+
+#: ../templates/core/head-title-tag.php:5
+msgid "Search Results:"
+msgstr "Résultats de la recherche :"
+
+#: ../templates/core/pagination.php:4
+#, fuzzy
+msgid "Prev"
+msgstr "Précédent"
+
+#: ../templates/core/pagination.php:15
+msgid "Newer Entries"
+msgstr "Entrées récentes"
+
+#: ../templates/core/pagination.php:16
+msgid "Older Entries"
+msgstr "Entrées anciennes"
+
+#: ../templates/header/menu-2.php:19
+#: ../templates/header/menu-2.php:26
+msgid "Home"
+msgstr "Accueil"
+
+#: ../templates/header/search.php:5
+msgid "Search here..."
+msgstr "Rechercher..."
+
+#: ../templates/header/search.php:6
+msgid "Find"
+msgstr "Trouver"
+
+#: ../templates/post/post-footer.php:10
+#: ../templates/post/single-post-footer.php:7
+msgid "<i>none</i>"
+msgstr "<i>rien</i>"
+
+#: ../templates/post/post-footer.php:15
+msgid "Read more"
+msgstr "En savoir plus"
+
+#: ../templates/post/post-header.php:8
+#: ../templates/post/single-post-header.php:8
+msgid " at "
+msgstr " à "
+
+#: ../templates/post/post-header.php:17
+#: ../templates/post/single-post-header.php:17
+msgid "Pass required"
+msgstr "Mot de passe nécessaire"
+
+#: ../templates/post/post-header.php:19
+#: ../templates/post/single-post-header.php:19
+msgid "Comments off"
+msgstr "Commentaires désactivés"
+
+#: ../templates/post/post-header.php:21
+#: ../templates/post/single-post-header.php:21
+msgid "No comments"
+msgstr "Pas de commentaires"
+
+#: ../templates/post/post-header.php:21
+#: ../templates/post/single-post-header.php:21
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#: ../templates/post/post-header.php:21
+#: ../templates/post/single-post-header.php:21
+#, php-format
+msgid "% comments"
+msgstr "% commentaires"
+
+#: ../templates/post/single-page-footer.php:2
+#: ../templates/post/single-post-footer.php:11
+msgid "Edit in Admin"
+msgstr "Editer en tant qu'Admin"
+
+#: ../templates/post/single-post-bottom-links.php:2
+#: ../templates/post/single-post-top-links.php:2
+msgid "Previous Post"
+msgstr "Article précédent"
+
+#: ../templates/post/single-post-bottom-links.php:3
+#: ../templates/post/single-post-top-links.php:3
+msgid "Next Post"
+msgstr "Article suivant"
+
+#: ../templates/sidebar/icons.php:11
+#, php-format
+msgid "Posts in %s"
+msgstr ""
+
+#: ../templates/sidebar/icons.php:15
+#: ../templates/sidebar/icons.php:21
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: ../templates/sidebar/icons.php:20
+#, fuzzy
+msgid "Post Comments"
+msgstr "Nombre d'articles"
+
+#: ../templates/sidebar/icons.php:25
+#, fuzzy
+msgid "Search Results"
+msgstr "Résultats de la recherche :"
+
+#: ../templates/sidebar/icons.php:29
+#, fuzzy
+msgid "Latest Posts"
+msgstr "Articles récents"
+
+#: ../templates/sidebar/icons.php:30
+#, fuzzy
+msgid "Latest Comments"
+msgstr "Déposer un commentaire"
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s à %2$s"
+
+#~ msgid "H:i"
+#~ msgstr "H:i"
+
+#~ msgid "Older Comments"
+#~ msgstr "Anciens commentaires"
+
+#~ msgid "Newer Comments"
+#~ msgstr "Commentaires récents"
+
+#~ msgid "Small"
+#~ msgstr "Etroite"
+
+#~ msgid "Normal"
+#~ msgstr "Normale"
+
+#~ msgid ""
+#~ "If you intend to use the two column sidebar, we recommend to choose "
+#~ "either the normal or the large sidebar."
+#~ msgstr ""
+#~ "Si vous souhaitez utiliser la barre latérale à deux colonnes, choisissez "
+#~ "plutôt la barre normale ou large."
+
+#~ msgid "RSS Button"
+#~ msgstr "Boutton RSS"
+
+#~ msgid "Display an RSS button on the very top of the sidebar."
+#~ msgstr "Afficher un bouton RSS au sommet de la barre latérale."
+
+#~ msgid "Facebook Button"
+#~ msgstr "Boutton Facebook"
+
+#~ msgid "Display a Facebook button on the very top of the sidebar."
+#~ msgstr "Afficher un bouton Facebook au sommet de la barre latérale."
+
+#~ msgid "Display Button Labels"
+#~ msgstr "Afficher les labels des boutons"
+
+#~ msgid "Display labels next to the buttons (RSS, Twitter and Facebook)."
+#~ msgstr "Afficher un label à coté des boutons (RSS, Twitter et Facebook)."
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Note:"
+#~ msgstr "Remarque:"
+
+#~ msgid ""
+#~ "Arjuna cannot write to the themes directory. The custom CSS rules will be "
+#~ "included in the header of each page, between &lt;STYLE&gt; tags."
+#~ msgstr ""
+#~ "Arjuna ne peut pas écrire dans le répertoire des thèmes. Les styles CSS "
+#~ "personnalisés seront inclus dans l'en-tête de chaque page, entre les tags "
+#~ "&lt;STYLE&gt;."
+
+#~ msgid "Performance Optimization"
+#~ msgstr "Optimisations de performances"
+
+#~ msgid "Internet Explorer 6 Optimization"
+#~ msgstr "Optimisations pour Internet Explorer 6"
+
+#~ msgid "Enable IE6 performance optimization"
+#~ msgstr "Activer les optimisations pour Internet Explorer 6"
+
+#~ msgid ""
+#~ "If turned on, Arjuna will attempt to detect IE6 and serve a stand-alone "
+#~ "CSS file specifically made for IE6."
+#~ msgstr ""
+#~ "Si activé, Arjuna tentera de détecté IE6 et de fournir un fichier CSS "
+#~ "autonome spécifique à IE6."
+
+#~ msgid ""
+#~ "Note: IE6 will still work the same if this option is turned off, however, "
+#~ "you and your IE6 users will save an estimated 28kb (11 image and 2 CSS "
+#~ "files) in bandwidth for first-time visitors. IE6 also might render more "
+#~ "rapidly if this is turned on."
+#~ msgstr ""
+#~ "Remarque : IE6 continuera toujours de fonctionner normalement si l'option "
+#~ "est désactivée, cependant, vous et les utilisateurs de IE6 économiseront "
+#~ "environ 28kb (11 images et 2 fichiers CSS) en bande passante pour une "
+#~ "première visite. IE6 peut également afficher plus rapidement si activé."

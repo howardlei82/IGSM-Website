@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Script Compressor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-15 05:21+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Regen <g(DOT)regen100(AT)gmail(DOT)com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Language: Japanese\n"
+
+#: script-compressor.php:342
+#: script-compressor.php:450
+msgid "Script Compressor Options"
+msgstr "Script Compressor オプション"
+
+#: script-compressor.php:342
+msgid "Script Compressor"
+msgstr "Script Compressor"
+
+#: script-compressor.php:354
+msgid "Settings"
+msgstr "設定"
+
+#: script-compressor.php:369
+#, php-format
+msgid "Give the write permission to %s."
+msgstr "%s に書き込み権限を与えてください。"
+
+#: script-compressor.php:394
+#: script-compressor.php:396
+msgid "Options saved."
+msgstr "設定が保存されました。"
+
+#: script-compressor.php:396
+#: script-compressor.php:408
+msgid "Your .htaccess is not writable so you may need to re-save your <a href=\"options-permalink.php\">permalink settings</a> manually."
+msgstr ".htaccess が書き込み可能ではないので<a href=\"options-permalink.php\">パーマリンク設定</a>を手動で設定する必要があるかもしれません。"
+
+#: script-compressor.php:406
+#: script-compressor.php:408
+msgid "Options removed."
+msgstr "設定が削除されました。"
+
+#: script-compressor.php:421
+#, php-format
+msgid "%d file removed (%d KB)."
+msgid_plural "%d files removed (%d KB)."
+msgstr[0] "%d個のファイル(%d KB)が削除されました。"
+
+#: script-compressor.php:452
+msgid "General Options"
+msgstr "一般設定"
+
+#: script-compressor.php:456
+msgid "Auto-compression"
+msgstr "自動圧縮"
+
+#: script-compressor.php:459
+msgid "Javascript compression in the header"
+msgstr "ヘッダーにJavascript圧縮自動適用"
+
+#: script-compressor.php:462
+msgid "CSS compression"
+msgstr "CSS圧縮使用"
+
+#: script-compressor.php:467
+msgid "Gzip compression"
+msgstr "Gzip 圧縮"
+
+#: script-compressor.php:470
+msgid "Use gzip compression for the cache and the output."
+msgstr "キャッシュと出力に Gzip 圧縮を使う"
+
+#: script-compressor.php:475
+msgid "Javascript Options"
+msgstr "Javascript オプション"
+
+#: script-compressor.php:479
+msgid "Position of Javascripts"
+msgstr "Javascriptの位置"
+
+#: script-compressor.php:482
+msgid "This plugin will output compressed Javascripts after the header. However some scripts need to be loaded before other scripts. So you can input a part of script URL that need to be loaded first (one per line)."
+msgstr "このプラグインは圧縮したJavascriptをヘッダの後に出力しますが、他のスクリプトより先に読み込まれる必要があるものもあります。そのようなスクリプトのURLの一部を入力してください(1行につき1つ)"
+
+#: script-compressor.php:486
+msgid "Exclude Javascripts"
+msgstr "圧縮しないJavascript"
+
+#: script-compressor.php:489
+msgid "You can input a part of script URL that need not to be compressed (one per line)."
+msgstr "圧縮の必要のないスクリプトのURLの一部を入力してください(1行につき1つ)。"
+
+#: script-compressor.php:493
+msgid "Output Position"
+msgstr "出力位置"
+
+#: script-compressor.php:496
+msgid "Output compressed scripts to the footer."
+msgstr "圧縮されたスクリプトをフッターに出力する"
+
+#: script-compressor.php:501
+msgid "CSS Options"
+msgstr "CSS オプション"
+
+#: script-compressor.php:505
+msgid "CSS compression method"
+msgstr "CSS圧縮の方法"
+
+#: script-compressor.php:508
+msgid "Respective"
+msgstr "個別に圧縮"
+
+#: script-compressor.php:509
+msgid "This method compresses <strong>respective</strong> CSS files (former method). This uses .htaccess and mod_rewrite."
+msgstr ".htaccess と mod_rewrite を使って CSS を<strong>個別に圧縮</strong>します。"
+
+#: script-compressor.php:512
+msgid "Composed"
+msgstr "まとめて圧縮"
+
+#: script-compressor.php:513
+msgid "This method compresses <strong>composed</strong> CSS files in the header. The frequency of the HTTP request is less than \"Respective\" but there is a possibility that the paths of images in CSS files break and that the media type becomes ineffective."
+msgstr "ヘッダーの CSS を<strong>まとめて圧縮</strong>します。HTTP リクエストの回数は減りますが、画像のパスが壊れたり、メディアタイプが効かなくなる可能性があります。"
+
+#: script-compressor.php:518
+msgid "CSS compression condition (mod_rewrite)"
+msgstr "CSS圧縮をする条件 (mod_rewrite)"
+
+#: script-compressor.php:521
+msgid "This text is inserted in the upper part of RewriteRule added by this plugin in your .htaccess. Please see <a href=\"http://httpd.apache.org/docs/2.0/mod/mod_rewrite.html#rewritecond\">RewriteCond doc</a>."
+msgstr "このテキストは .htaccess の中の、このプラグインによって追加される RewriteRule の上に挿入されます。<a href=\"http://httpd.apache.org/docs/2.0/mod/mod_rewrite.html#rewritecond\">RewriteCond の説明</a>を見てください。"
+
+#: script-compressor.php:522
+msgid "Example: <code>RewriteCond %{REQUEST_URI} !.*wp-admin.*</code>"
+msgstr "例: <code>RewriteCond %{REQUEST_URI} !.*wp-admin.*</code>"
+
+#: script-compressor.php:528
+msgid "Update Options"
+msgstr "設定を保存"
+
+#: script-compressor.php:532
+msgid "Instructions"
+msgstr "利用方法"
+
+#: script-compressor.php:533
+msgid "Additional template tags"
+msgstr "追加のテンプレートタグ"
+
+#: script-compressor.php:534
+msgid "Javascripts and CSS between <code>&lt;?php sc_comp_start() ?&gt;</code> and <code>&lt;?php sc_comp_end() ?&gt;</code> will be compressed by this plugin."
+msgstr "<code>&lt;?php sc_comp_start() ?&gt;</code>と<code>&lt;?php sc_comp_end() ?&gt;</code>で括った部分の Javascript と CSS が圧縮されます。"
+
+#: script-compressor.php:535
+msgid "e.g."
+msgstr "例:"
+
+#: script-compressor.php:535
+msgid "&lt;?php sc_comp_start() ?&gt;<br />&lt;script type=\"text/javascript\" src=\"foo.js\"&gt;&lt;/script&gt;<br />&lt;script type=\"text/javascript\" src=\"bar.js\"&gt;&lt;/script&gt;<br />&lt;?php sc_comp_end() ?&gt;"
+msgstr "&lt;?php sc_comp_start() ?&gt;<br />&lt;script type=\"text/javascript\" src=\"foo.js\"&gt;&lt;/script&gt;<br />&lt;script type=\"text/javascript\" src=\"bar.js\"&gt;&lt;/script&gt;<br />&lt;?php sc_comp_end() ?&gt;"
+
+#: script-compressor.php:536
+msgid "If you check \"Javascript compression in the header\", the scripts in the header will be compressed automatically."
+msgstr "\"ヘッダーにJavascript圧縮自動適用\"を使用した場合はヘッダーのスクリプトが自動的に圧縮されます。"
+
+#: script-compressor.php:537
+msgid "Notes"
+msgstr "注意点"
+
+#: script-compressor.php:539
+msgid "This plugin makes caches in the compression progress."
+msgstr "圧縮処理のために、キャッシュが行われます。"
+
+#: script-compressor.php:540
+msgid "Only files located in the same server as your WordPress can be compressed."
+msgstr "圧縮できるファイルは、サーバー内にあるファイルのみです。"
+
+#: script-compressor.php:541
+msgid "The extensions of Javascript and CSS should be .js and .css respectively."
+msgstr "JavascriptとCSSの拡張子はそれぞれ .js、.css である必要があります。"
+
+#: script-compressor.php:542
+msgid "<strong>When you deactivate this plugin, the mod_rewrite codes in the .htaccess can remain and cause problems, so you may need to re-save your <a href=\"options-permalink.php\">permalink settings</a> after the deactivation.</strong>"
+msgstr "<strong>このプラグインを無効化するとき、mod_rewriteコードが.htaccessに残って問題を引き起こす可能性があります。無効化した後で<a href=\"options-permalink.php\">パーマリンク設定</a>を手動で設定する必要があるかもしれません。</strong>"
+
+#: script-compressor.php:545
+#: script-compressor.php:550
+msgid "Remove cache files"
+msgstr "キャッシュファイルを削除"
+
+#: script-compressor.php:546
+msgid "You can remove the cache files."
+msgstr "キャッシュファイルを削除できます。"
+
+#: script-compressor.php:554
+#: script-compressor.php:559
+msgid "Remove options"
+msgstr "オプションを削除"
+
+#: script-compressor.php:555
+msgid "You can remove the above options from the database."
+msgstr "データベースから上のオプションのデータを削除できます。"
+

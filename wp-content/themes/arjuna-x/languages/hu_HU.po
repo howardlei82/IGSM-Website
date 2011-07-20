@@ -1,0 +1,1054 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arjuna X 1.3.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-31 12:10+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: SRS Solutions <info@srssolutions.com>\n"
+"Language-Team: FYGureout <webmester@wordpress2you.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: Arjuna\n"
+
+#: Arjuna-X/404.php:4
+msgid "Error 404 - Not Found"
+msgstr "HTTP404 - Nincs találat!"
+
+#: Arjuna-X/404.php:5
+msgid "Sorry, but you are looking for something that isn't here. "
+msgstr "Elnézést, a keresésnek nincs sikeres eredménye.<br />Lehet, hogy hibás linket követett, vagy elírt valamit, vagy amit keresett azt törölték, vagy átnevezték. Próbálkozzon másik kifejezéssel!"
+
+#: Arjuna-X/archive.php:8
+msgid "Browsing Posts in <em>%s</em>"
+msgstr "<em>%s</em> bejegyzései"
+
+#: Arjuna-X/archive.php:10
+msgid "Browsing Posts tagged <em>%s</em>"
+msgstr "Bejegyzések <em>%s</em> címkével"
+
+#: Arjuna-X/archive.php:12
+msgid "Browsing Posts published on %s"
+msgstr "%s napon közzétett bejegyzések"
+
+#: Arjuna-X/archive.php:14
+#: Arjuna-X/archive.php:16
+msgid "Browsing Posts published in %s"
+msgstr "%s kategória bejegyzései"
+
+#: Arjuna-X/archive.php:14
+msgid "F, Y"
+msgstr "Y. F"
+
+#: Arjuna-X/archive.php:16
+msgid "Y"
+msgstr "Y."
+
+#: Arjuna-X/archive.php:19
+msgid "Browsing Posts published by <em>%s</em>"
+msgstr "<em>%s</em> bejegyzései"
+
+#: Arjuna-X/archive.php:21
+msgid "Blog Archives"
+msgstr "Valamennyi bejegyzés"
+
+#: Arjuna-X/archive.php:28
+#: Arjuna-X/index.php:9
+#: Arjuna-X/page.php:11
+#: Arjuna-X/page.php:16
+#: Arjuna-X/page_fullwidth.php:15
+#: Arjuna-X/page_fullwidth.php:20
+#: Arjuna-X/search.php:15
+#: Arjuna-X/single.php:16
+msgid "Permalink to"
+msgstr "Közvetlen link:"
+
+#: Arjuna-X/archive.php:33
+#: Arjuna-X/index.php:14
+#: Arjuna-X/page.php:21
+#: Arjuna-X/page_fullwidth.php:25
+#: Arjuna-X/search.php:20
+#: Arjuna-X/single.php:21
+msgid " at "
+msgstr " - "
+
+#: Arjuna-X/archive.php:42
+#: Arjuna-X/index.php:23
+#: Arjuna-X/page.php:30
+#: Arjuna-X/page_fullwidth.php:34
+#: Arjuna-X/search.php:28
+#: Arjuna-X/single.php:30
+msgid "Pass required"
+msgstr "Jelszó szükséges"
+
+#: Arjuna-X/archive.php:44
+#: Arjuna-X/index.php:25
+#: Arjuna-X/page.php:32
+#: Arjuna-X/page_fullwidth.php:36
+#: Arjuna-X/search.php:30
+#: Arjuna-X/single.php:32
+msgid "Comments off"
+msgstr "Hozzászólások jelenleg nem engedélyezettek"
+
+#: Arjuna-X/archive.php:46
+#: Arjuna-X/index.php:27
+#: Arjuna-X/page.php:34
+#: Arjuna-X/page_fullwidth.php:38
+#: Arjuna-X/search.php:32
+#: Arjuna-X/single.php:34
+msgid "No comments"
+msgstr "Szóljon hozzá elsőként!"
+
+#: Arjuna-X/archive.php:46
+#: Arjuna-X/index.php:27
+#: Arjuna-X/page.php:34
+#: Arjuna-X/page_fullwidth.php:38
+#: Arjuna-X/search.php:32
+#: Arjuna-X/single.php:34
+msgid "1 comment"
+msgstr "1 hozzászólás"
+
+#: Arjuna-X/archive.php:46
+#: Arjuna-X/index.php:27
+#: Arjuna-X/page.php:34
+#: Arjuna-X/page_fullwidth.php:38
+#: Arjuna-X/search.php:32
+#: Arjuna-X/single.php:34
+msgid "% comments"
+msgstr "% üzenet"
+
+#: Arjuna-X/archive.php:53
+#: Arjuna-X/index.php:34
+#: Arjuna-X/page.php:42
+#: Arjuna-X/page_fullwidth.php:46
+#: Arjuna-X/search.php:38
+#: Arjuna-X/single.php:41
+msgid "continue reading..."
+msgstr "érdemes továbbolvasni...."
+
+#: Arjuna-X/archive.php:61
+#: Arjuna-X/index.php:42
+#: Arjuna-X/search.php:46
+#: Arjuna-X/single.php:52
+msgid "<i>none</i>"
+msgstr "<i>nincs</i>"
+
+#: Arjuna-X/archive.php:65
+#: Arjuna-X/index.php:46
+#: Arjuna-X/search.php:50
+msgid "Read more"
+msgstr "Bővebben"
+
+#: Arjuna-X/archive.php:77
+#: Arjuna-X/index.php:64
+#: Arjuna-X/search.php:59
+msgid "Newer Entries"
+msgstr "Újabb bejegyzések"
+
+#: Arjuna-X/archive.php:78
+#: Arjuna-X/index.php:65
+#: Arjuna-X/search.php:60
+msgid "Older Entries"
+msgstr "Korábbi bejegyzések"
+
+#: Arjuna-X/archive.php:83
+#: Arjuna-X/index.php:71
+msgid "There is nothing here (yet)."
+msgstr "Nincs itt semmi (még)."
+
+#: Arjuna-X/comments.php:13
+#: Arjuna-X/comments_legacy.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ez a bejegyzés jelszóval védett. A hozzászólások megtekintéséhez meg kell adni a jelszót."
+
+#: Arjuna-X/comments.php:21
+#: Arjuna-X/comments_legacy.php:18
+#: Arjuna-X/functions.php:897
+msgid "Comments"
+msgstr "Hozzászólások"
+
+#: Arjuna-X/comments.php:23
+#: Arjuna-X/comments_legacy.php:20
+msgid "Leave a comment"
+msgstr "ITT és MOST! A VÉLEMÉNY SZENT és INGYENES!"
+
+#: Arjuna-X/comments.php:26
+#: Arjuna-X/comments_legacy.php:23
+msgid "Trackback"
+msgstr "Visszakövetés"
+
+#: Arjuna-X/comments.php:38
+#: Arjuna-X/comments_legacy.php:91
+msgid "No one has commented yet."
+msgstr "Még senki nem szólt hozzá."
+
+#: Arjuna-X/comments.php:40
+#: Arjuna-X/comments_legacy.php:93
+msgid "Comments are closed."
+msgstr "Hozzászólások jelenleg itt nem engedélyezettek."
+
+#: Arjuna-X/comments.php:50
+#: Arjuna-X/comments_legacy.php:102
+msgid "Leave a Comment"
+msgstr "Üzenet küldése"
+
+#: Arjuna-X/comments.php:52
+msgid "Cancel Reply"
+msgstr "Válasz megszakítása"
+
+#: Arjuna-X/comments.php:56
+#: Arjuna-X/comments_legacy.php:104
+msgid "You must be %slogged in%s to post a comment."
+msgstr "%sBe kell jelentkezni%s a hozzászólás beküldéséhez"
+
+#: Arjuna-X/comments.php:59
+#: Arjuna-X/comments.php:68
+#: Arjuna-X/comments_legacy.php:107
+#: Arjuna-X/comments_legacy.php:114
+msgid "Your name"
+msgstr "Név"
+
+#: Arjuna-X/comments.php:60
+#: Arjuna-X/comments.php:69
+#: Arjuna-X/comments_legacy.php:108
+#: Arjuna-X/comments_legacy.php:115
+msgid "Your email"
+msgstr "E-mail cím"
+
+#: Arjuna-X/comments.php:61
+#: Arjuna-X/comments.php:70
+#: Arjuna-X/comments_legacy.php:109
+#: Arjuna-X/comments_legacy.php:116
+msgid "Your website"
+msgstr "Honlap"
+
+#: Arjuna-X/comments.php:62
+#: Arjuna-X/comments.php:79
+#: Arjuna-X/comments_legacy.php:110
+#: Arjuna-X/comments_legacy.php:119
+msgid "Your comment"
+msgstr "Hozzászólás"
+
+#: Arjuna-X/comments.php:65
+#: Arjuna-X/comments_legacy.php:112
+msgid "Logged in as %s."
+msgstr "Bejelentkezve %s néven."
+
+#: Arjuna-X/comments.php:65
+#: Arjuna-X/comments_legacy.php:112
+msgid "Log out of this account"
+msgstr "Kijelentkezés a felhasználói fiókból"
+
+#: Arjuna-X/comments.php:65
+#: Arjuna-X/comments_legacy.php:112
+msgid "Logout"
+msgstr "Kijelentkezés"
+
+#: Arjuna-X/comments.php:81
+#: Arjuna-X/comments_legacy.php:121
+msgid "Subscribe to comments"
+msgstr "Feliratkozás a hozzászólásokhoz"
+
+#: Arjuna-X/comments.php:82
+#: Arjuna-X/comments_legacy.php:122
+msgid "Leave comment"
+msgstr "ITT és MOST! A VÉLEMÉNY SZENT és INGYENES!"
+
+#: Arjuna-X/comments_legacy.php:58
+msgid "%1$s at %2$s"
+msgstr "%1$s - %2$s"
+
+#: Arjuna-X/comments_legacy.php:58
+msgid "H:i"
+msgstr "H:i"
+
+#: Arjuna-X/comments_legacy.php:65
+#: Arjuna-X/functions.php:1193
+msgid "Your comment is awaiting moderation."
+msgstr "A hozzászólás rendszer-moderációra várakozik."
+
+#: Arjuna-X/comments_legacy.php:81
+#: Arjuna-X/functions.php:1394
+msgid "Previous"
+msgstr "Előző"
+
+#: Arjuna-X/comments_legacy.php:81
+#: Arjuna-X/functions.php:1394
+msgid "Next"
+msgstr "Következő"
+
+#: Arjuna-X/comments_legacy.php:83
+#: Arjuna-X/functions.php:1396
+msgid "Older Comments"
+msgstr "Korábbi hozzászólások"
+
+#: Arjuna-X/comments_legacy.php:84
+#: Arjuna-X/functions.php:1397
+msgid "Newer Comments"
+msgstr "Újabb hozzászólások"
+
+#: Arjuna-X/functions.php:352
+msgid "Arjuna Options"
+msgstr "Arjuna beállítások"
+
+#: Arjuna-X/functions.php:362
+msgid "The Arjuna options have been saved."
+msgstr "Arjuna beállítások elmentve."
+
+#: Arjuna-X/functions.php:366
+msgid "Arjuna Theme Options"
+msgstr "Arjuna sablon beállítások"
+
+#: Arjuna-X/functions.php:370
+msgid "Thank you for using Arjuna, the free WordPress theme designed by %s."
+msgstr "Köszönjük szépen, hogy az ingyenes Arjuna WordPress-sablont használja! Szerző: %s"
+
+#: Arjuna-X/functions.php:370
+msgid "Follow Us"
+msgstr "Kövess bennünket!"
+
+#: Arjuna-X/functions.php:374
+msgid "Report Bugs"
+msgstr "Hibajelentés"
+
+#: Arjuna-X/functions.php:375
+msgid "Report a Bug"
+msgstr "Hiba jelentése"
+
+#: Arjuna-X/functions.php:375
+msgid "Please include your Wordpress version, browser details and a screenshot, if necessary."
+msgstr "Meg kell adni a használt WordPress verziót, a böngésző részleteit és a képernyőképet, ha szükséges."
+
+#: Arjuna-X/functions.php:378
+msgid "Useful Links"
+msgstr "Hasznos linkek"
+
+#: Arjuna-X/functions.php:379
+msgid "Changelog"
+msgstr "Változások"
+
+#: Arjuna-X/functions.php:380
+msgid "FAQ"
+msgstr "GYIK"
+
+#: Arjuna-X/functions.php:381
+msgid "Roadmap"
+msgstr "Fejlesztési terv"
+
+#: Arjuna-X/functions.php:382
+msgid "Leave Feedback"
+msgstr "Visszajelzés"
+
+#: Arjuna-X/functions.php:385
+msgid "Support &amp; Sales"
+msgstr "Támogatás &amp; Értékesítés"
+
+#: Arjuna-X/functions.php:386
+msgid "Contact Sales"
+msgstr "Kapcsolat az Értékesítéssel"
+
+#: Arjuna-X/functions.php:386
+msgid "Need installation or integration support? Need something customized or extended?"
+msgstr "Szükségvan telepítési és integrációs támogatásra? Esetleg változtatásra vagy bővítésre?"
+
+#: Arjuna-X/functions.php:391
+msgid "Arjuna is completely free. Therefore, please understand that we do NOT offer free support. If you require support of any kind other than fixing a bug that is related to Arjuna, please request a quote from us."
+msgstr "Az Arjuna sablon teljesen ingyenes, ezért kérjük annak megértését, hogy nem nyújtunk hozzá ingyenes támogatást. Amennyiben mégis segítségre volna szükség, vagy egy Arjunához kapcsolódó hibajavítás, kérjen információt tőlünk."
+
+#: Arjuna-X/functions.php:395
+msgid "Header"
+msgstr "Fejrész"
+
+#: Arjuna-X/functions.php:399
+msgid "First Header Menu"
+msgstr "Első fejrész menü"
+
+#: Arjuna-X/functions.php:403
+msgid "Enabled"
+msgstr "Bekapcsolva"
+
+#: Arjuna-X/functions.php:405
+msgid "Enable this menu"
+msgstr "Menü bekapcsolása"
+
+#: Arjuna-X/functions.php:407
+msgid "If disabled, the menu will be hidden."
+msgstr "Kikapcsoláskor a menü nem fog látszódni."
+
+#: Arjuna-X/functions.php:411
+#: Arjuna-X/functions.php:592
+msgid "Dropdown"
+msgstr "Legördülő menü"
+
+#: Arjuna-X/functions.php:415
+#: Arjuna-X/functions.php:596
+msgid "No dropdown menu"
+msgstr "Ne legyen legördülő menü"
+
+#: Arjuna-X/functions.php:419
+#: Arjuna-X/functions.php:600
+msgid "One-level dropdown menu"
+msgstr "Egyszintű legördülő menü"
+
+#: Arjuna-X/functions.php:423
+#: Arjuna-X/functions.php:604
+msgid "Two-level dropdown menu"
+msgstr "Többszintű legördülő menü"
+
+#: Arjuna-X/functions.php:427
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: Arjuna-X/functions.php:431
+msgid "Left"
+msgstr "Balra"
+
+#: Arjuna-X/functions.php:435
+msgid "Right"
+msgstr "Jobbra"
+
+#: Arjuna-X/functions.php:440
+#: Arjuna-X/functions.php:609
+msgid "Menu lists only"
+msgstr "Csak menülisták"
+
+#: Arjuna-X/functions.php:444
+#: Arjuna-X/functions.php:613
+msgid "Pages"
+msgstr "Oldalak"
+
+#: Arjuna-X/functions.php:448
+#: Arjuna-X/functions.php:617
+#: Arjuna-X/sidebar.php:37
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: Arjuna-X/functions.php:453
+#: Arjuna-X/functions.php:622
+msgid "Sorting Order"
+msgstr "Rendezés"
+
+#: Arjuna-X/functions.php:456
+#: Arjuna-X/functions.php:470
+#: Arjuna-X/functions.php:625
+#: Arjuna-X/functions.php:639
+msgid "Sort menu items in"
+msgstr "Menüelemek rendezése"
+
+#: Arjuna-X/functions.php:458
+#: Arjuna-X/functions.php:472
+#: Arjuna-X/functions.php:627
+#: Arjuna-X/functions.php:641
+msgid "ascending"
+msgstr "növekvő"
+
+#: Arjuna-X/functions.php:459
+#: Arjuna-X/functions.php:473
+#: Arjuna-X/functions.php:628
+#: Arjuna-X/functions.php:642
+msgid "descending"
+msgstr "csökkenő"
+
+#: Arjuna-X/functions.php:461
+#: Arjuna-X/functions.php:475
+#: Arjuna-X/functions.php:630
+#: Arjuna-X/functions.php:644
+msgid "order by"
+msgstr "módon"
+
+#: Arjuna-X/functions.php:463
+#: Arjuna-X/functions.php:632
+msgid "Category Name"
+msgstr "Kategória név"
+
+#: Arjuna-X/functions.php:464
+#: Arjuna-X/functions.php:633
+msgid "Category ID"
+msgstr "Kategória ID"
+
+#: Arjuna-X/functions.php:465
+#: Arjuna-X/functions.php:634
+msgid "Post Count"
+msgstr "Bejegyzés szám"
+
+#: Arjuna-X/functions.php:466
+#: Arjuna-X/functions.php:635
+msgid "Category Slug"
+msgstr "Kategória slug"
+
+#: Arjuna-X/functions.php:477
+#: Arjuna-X/functions.php:646
+msgid "Page Title"
+msgstr "Oldal címe"
+
+#: Arjuna-X/functions.php:478
+#: Arjuna-X/functions.php:647
+msgid "Page ID"
+msgstr "Oldal ID"
+
+#: Arjuna-X/functions.php:479
+#: Arjuna-X/functions.php:648
+msgid "Page Slug"
+msgstr "Oldal slug"
+
+#: Arjuna-X/functions.php:480
+#: Arjuna-X/functions.php:649
+msgid "Page Order"
+msgstr "Oldal sorrend"
+
+#: Arjuna-X/functions.php:486
+#: Arjuna-X/functions.php:661
+msgid "Menu Items"
+msgstr "Menü elemei"
+
+#: Arjuna-X/functions.php:490
+#: Arjuna-X/functions.php:665
+msgid "Include categories"
+msgstr "az alábbi kategóriákkal:"
+
+#: Arjuna-X/functions.php:507
+#: Arjuna-X/functions.php:682
+msgid "Exclude categories"
+msgstr "az alábbi kategóriák kizárása:"
+
+#: Arjuna-X/functions.php:526
+msgid "Note: While the above fields show empty categories, the theme will only display categories that have at least one published post in them."
+msgstr "Megjegyzés: A mezők mutatják az üres kategóriákat, de a sablon csak akkor jeleníti meg a kategóriát, ha legalább egy bejegyzés található benne."
+
+#: Arjuna-X/functions.php:530
+#: Arjuna-X/functions.php:705
+msgid "Include pages"
+msgstr "az alábbi oldalakkal együtt:"
+
+#: Arjuna-X/functions.php:546
+#: Arjuna-X/functions.php:721
+msgid "Exclude pages"
+msgstr "az alábbi oldalak kizárása:"
+
+#: Arjuna-X/functions.php:582
+msgid "Second Header Menu"
+msgstr "Második fejrész menü"
+
+#: Arjuna-X/functions.php:586
+msgid "Separators"
+msgstr "Elválasztók"
+
+#: Arjuna-X/functions.php:588
+msgid "Visually separate the menu buttons"
+msgstr "Vizuálisan elválasztja a menü gombokat"
+
+#: Arjuna-X/functions.php:655
+msgid "Home Button"
+msgstr "Kezdőlap gomb"
+
+#: Arjuna-X/functions.php:657
+msgid "Display Home button"
+msgstr "Kezdőlap gomb megjelenítése"
+
+#: Arjuna-X/functions.php:701
+msgid "Note: While the above fields show empty categories, the theme will only display categories that have at least one published post in them.</span>"
+msgstr "<br />Megjegyzés: A mezők mutatják az üres kategóriákat, de a sablon csak akkor jeleníti meg a kategóriát, ha legalább egy bejegyzés található benne.</span>"
+
+#: Arjuna-X/functions.php:757
+#: Arjuna-X/functions.php:761
+msgid "Header Image"
+msgstr "Fejrész képe"
+
+#: Arjuna-X/functions.php:766
+msgid "Light Blue"
+msgstr "Világoskék"
+
+#: Arjuna-X/functions.php:771
+msgid "Dark Blue"
+msgstr "Sötétkék"
+
+#: Arjuna-X/functions.php:776
+msgid "Khaki"
+msgstr "Keki"
+
+#: Arjuna-X/functions.php:781
+msgid "Sea Green"
+msgstr "Zöld tenger"
+
+#: Arjuna-X/functions.php:788
+msgid "General Options"
+msgstr "Általános beállítások"
+
+#: Arjuna-X/functions.php:789
+msgid "Sidebar"
+msgstr "Oldalsáv"
+
+#: Arjuna-X/functions.php:793
+msgid "Sidebar Position"
+msgstr "Oldalsáv helyzete"
+
+#: Arjuna-X/functions.php:798
+msgid "Right sidebar"
+msgstr "Jobb oldali oldalsáv"
+
+#: Arjuna-X/functions.php:803
+msgid "Left sidebar"
+msgstr "Bal oldali oldalsáv"
+
+#: Arjuna-X/functions.php:808
+msgid "No sidebar"
+msgstr "Nincs oldalsáv"
+
+#: Arjuna-X/functions.php:813
+msgid "Sidebar Width"
+msgstr "Oldalsáv szélessége"
+
+#: Arjuna-X/functions.php:815
+msgid "Small"
+msgstr "Kicsi"
+
+#: Arjuna-X/functions.php:816
+msgid "Normal"
+msgstr "Normál"
+
+#: Arjuna-X/functions.php:817
+msgid "Large"
+msgstr "Nagy"
+
+#: Arjuna-X/functions.php:818
+msgid "If you intend to use the two column sidebar, we recommend to choose either the normal or the large sidebar."
+msgstr "Amennyiben kétoszlopos oldalsávot szeretnénk használni, a normál vagy a nagy oldalsáv alkalmazását javasoljuk."
+
+#: Arjuna-X/functions.php:822
+msgid "Default Widgets"
+msgstr "Alapértelmezett widgetek"
+
+#: Arjuna-X/functions.php:824
+msgid "Display default sidebar widgets if the widget bars are empty."
+msgstr "Alapértelmezett widgetek megjelenítése, ha a widget oldalsávok üresek."
+
+#: Arjuna-X/functions.php:825
+msgid "If enabled, these widgets will be displayed if the widget bar is empty: <b>sidebar_full_top:</b> Recent Posts and Browse by Tags, <b>sidebar_left:</b> Categories, <b>sidebar_right:</b> Meta"
+msgstr "Ha be van kapcsolva, ezek a widgetek lesznek megjelenítve, ha az oldalsáv üres: <b>sidebar_full_top:</b> Legutóbbi bejegyzések és Böngészés címkek közt, <b>sidebar_left:</b> Kategóriák, <b>sidebar_right:</b> Belépés, regisztráció"
+
+#: Arjuna-X/functions.php:829
+msgid "RSS Button"
+msgstr "RSS gomb"
+
+#: Arjuna-X/functions.php:831
+msgid "Display an RSS button on the very top of the sidebar."
+msgstr "Jelenítse meg az RSS gombot az oldalsáv tetején."
+
+#: Arjuna-X/functions.php:835
+msgid "Twitter Button"
+msgstr "Twitter gomb"
+
+#: Arjuna-X/functions.php:837
+msgid "Display a Twitter button on the very top of the sidebar."
+msgstr "Jelenítse meg a Twitter gombot az oldalsáv tetején."
+
+#: Arjuna-X/functions.php:844
+msgid "Facebook Button"
+msgstr "Facebook gomb"
+
+#: Arjuna-X/functions.php:846
+msgid "Display a Facebook button on the very top of the sidebar."
+msgstr "Jelenítse meg a Facebook gombot az oldalsáv legtetején."
+
+#: Arjuna-X/functions.php:853
+msgid "Display Button Labels"
+msgstr "Mutassa a gomb nevét"
+
+#: Arjuna-X/functions.php:855
+msgid "Display labels next to the buttons (RSS, Twitter and Facebook)."
+msgstr "Mutassa a következő gombok feliratát is (RSS, Twitter és Facebook)"
+
+#: Arjuna-X/functions.php:864
+msgid "Single Posts and Pages"
+msgstr "Bejegyzések és Oldalak"
+
+#: Arjuna-X/functions.php:868
+msgid "Display Author"
+msgstr "Szerző megjelenítése"
+
+#: Arjuna-X/functions.php:870
+msgid "Include the author of a post in the post header."
+msgstr "Mutassa a szerző nevét a bejegyzés fejrészében."
+
+#: Arjuna-X/functions.php:874
+msgid "Display Time"
+msgstr "Közzététel idejének megjelenítése"
+
+#: Arjuna-X/functions.php:876
+msgid "Include the time and date of when the post has been published, instead of only the date."
+msgstr "Mutassa a bejegyzés keltének idejét és a dátumát, csak a dátum helyett."
+
+#: Arjuna-X/functions.php:880
+msgid "Display Info Bar for Pages"
+msgstr "Mutassa az oldalak információs sávját"
+
+#: Arjuna-X/functions.php:882
+msgid "Display the info bar right below the title of pages."
+msgstr "Mutassa az információs sávot az oldal címe alatt jobbra."
+
+#: Arjuna-X/functions.php:883
+msgid "The info bar usually includes the author of the page, the publish date and the comments button. This options entirely hides the bar so that only the title is shown."
+msgstr "Az információs sáv gyakran tartalmazza az oldal szerzőjét, a közzététel dátumát és a hozzászólás gombot. Ezeket a lehetőségeket teljesen el lehet tüntetni, hogy kizárólag a cím látszódjék."
+
+#: Arjuna-X/functions.php:887
+msgid "Navigation Links"
+msgstr "Navigációs linkek"
+
+#: Arjuna-X/functions.php:889
+msgid "Display links to the previous and next posts above each post."
+msgstr "Mutassa a linkeket az előző és következő bejegyzésekhez minden bejegyzés felett."
+
+#: Arjuna-X/functions.php:890
+msgid "Display links to the previous and next posts below each post."
+msgstr "Mutassa a linkeket az előző és következő bejegyzésekhez minden bejegyzés alatt."
+
+#: Arjuna-X/functions.php:891
+msgid "Note: The links will only be shown on permalink pages, i.e. the URL where one single post/page is displayed."
+msgstr "Megjegyzés: A linkek csak a közvetlen link oldalakon látszanak, pl. az URL, ahol oldalanként egy bejegyzés van."
+
+#: Arjuna-X/functions.php:901
+msgid "Display comments as follows"
+msgstr "Hozzászólások megjelenítése"
+
+#: Arjuna-X/functions.php:906
+msgid "Aligned to the left"
+msgstr "Balra igazítva"
+
+#: Arjuna-X/functions.php:911
+msgid "Aligned to the right"
+msgstr "Jobbra igazítva"
+
+#: Arjuna-X/functions.php:916
+msgid "Alternate between left and right alignment"
+msgstr "Váltakozó balra és jobbra igazítás között"
+
+#: Arjuna-X/functions.php:921
+msgid "Date Format"
+msgstr "Dátum formátum"
+
+#: Arjuna-X/functions.php:923
+msgid "Passed Time (Example: <em>&quot;Written by admin about 3 days ago.&quot;</em>)"
+msgstr "Eltelt idő (Például: <em>&quot;Írta admin kb 3 napja.&quot;</em>)"
+
+#: Arjuna-X/functions.php:924
+msgid "Default Date Format (Example: <em>&quot;Written by admin on %s&quot;</em>)"
+msgstr "Alapértelmezett formátum (Például: <em>&quot;Írta admin ekkor: %s&quot;</em>)"
+
+#: Arjuna-X/functions.php:925
+msgid "The default date format can be customized in Settings &gt; General."
+msgstr "Az alapértelmezett dátum formátum beállítható a Beállítások &gt; Általános ablakban."
+
+#: Arjuna-X/functions.php:929
+msgid "Comment Display"
+msgstr "Hozzászólás megjelenítése"
+
+#: Arjuna-X/functions.php:931
+msgid "Hide any traces of comments when comments, pingbacks and trackbacks are disabled on <strong>Pages</strong>."
+msgstr "A hozzászólások visszajelzéseinek elrejtése, amennyiben a visszajelzés és visszakövetés kikapcsolt állapotú az <strong>Oldalak</strong>on."
+
+#: Arjuna-X/functions.php:932
+msgid "Hide any traces of comments when comments, pingbacks and trackbacks are disabled on <strong>Posts</strong>."
+msgstr "A hozzászólások visszajelzéseinek elrejtése, amennyiben a visszajelzés és visszakövetés kikapcsolt állapotú a <strong>Bejegyzések</strong>nél."
+
+#: Arjuna-X/functions.php:933
+msgid "Note: If enabled, the section that says Comments and the comments button in the heading of the respective pages/posts will be removed."
+msgstr "Figyelmeztetés: Bekapcsoláskor az a rész, amely a címsorban a hozzászólásokat és a hozzászólás gombot megjeleníti, az érintett oldalakról/bejegyzésekből eltávolításra kerül."
+
+#: Arjuna-X/functions.php:939
+msgid "Blog"
+msgstr "Honlap"
+
+#: Arjuna-X/functions.php:943
+msgid "Pagination"
+msgstr "Lapszámozás"
+
+#: Arjuna-X/functions.php:945
+msgid "Use Arjuna pagination"
+msgstr "Használja az Arjuna számozást"
+
+#: Arjuna-X/functions.php:946
+msgid "If enabled, Arjuna will use its own native pagination to allow your users to navigate the blog using pages."
+msgstr "Bekapcsolva az Arjuna saját lapszámozási módját használja az oldalak közti navigációra."
+
+#: Arjuna-X/functions.php:950
+msgid "Page Range"
+msgstr "Oldal terjedelem"
+
+#: Arjuna-X/functions.php:959
+msgid "The number of page buttons that will appear before and after the current page button."
+msgstr "Ennyi oldalszám gomb jelenik meg a jelenlegi oldal gombja előtt és után."
+
+#: Arjuna-X/functions.php:963
+msgid "Page Anchors"
+msgstr "Oldal horgony"
+
+#: Arjuna-X/functions.php:972
+msgid "The number of page buttons that will always appear at the beginning and the end of the pagination."
+msgstr "Ennyi oldalszám gomb jelenik meg az oldalszámozás legelején és legvégén."
+
+#: Arjuna-X/functions.php:976
+msgid "Page Gap"
+msgstr "Oldal hiány"
+
+#: Arjuna-X/functions.php:985
+msgid "The number of page buttons in a gap before an ellipsis (...) is displayed."
+msgstr "Ennyi oldalszám gomb hiányzik mielőtt a pontozás (...) megjelenik."
+
+#: Arjuna-X/functions.php:990
+msgid "Use WordPress default"
+msgstr "Használja a WordPress alapértelmezést"
+
+#: Arjuna-X/functions.php:991
+msgid "The default depends on your WordPress version and whether you have any pagination plugins activated. If the wp-paginate or wp-pagenavi plugin is activated, then Arjuna will use these plugins to create the pagination."
+msgstr "Az alapértelmezés függ a használt WordPress verziótól és az oldalszámozásra vonatkozó bővítménytől. Amennyiben a <em>wp-paginate</em>, vagy a <em>wp-pagenavi</em> bővítmény aktív, akkor az Arjuna ezeket fogja használni az oldalszámozáshoz."
+
+#: Arjuna-X/functions.php:997
+msgid "Miscellaneous"
+msgstr "Egyéb"
+
+#: Arjuna-X/functions.php:1001
+msgid "Append to page title"
+msgstr "Hozzáadás az oldalcímhez"
+
+#: Arjuna-X/functions.php:1003
+msgid "Blog Name (&quot; - %s&quot;)"
+msgstr "Honlap neve (&quot; - %s&quot;)"
+
+#: Arjuna-X/functions.php:1004
+msgid "Custom:"
+msgstr "Egyedi:"
+
+#: Arjuna-X/functions.php:1005
+msgid "This will be appended to the page title of every web page (posts, pages, categories, etc.)"
+msgstr "Ez lesz hozzáadva minden oldal címéhez (bejegyzések, oldalak, kategóriák, stb.)"
+
+#: Arjuna-X/functions.php:1009
+msgid "Footer Style"
+msgstr "Lábrész stílus"
+
+#: Arjuna-X/functions.php:1022
+msgid "Custom CSS"
+msgstr "Egyedi CSS"
+
+#: Arjuna-X/functions.php:1029
+msgid "Arjuna needs write permissions to create a new file %s, which will contain the custom CSS."
+msgstr "Arjuna írási jogot kér az új fájl \"user-style.css\"Az Arjuna sablonnak írási jogosultságra van szüksége egy új fájl (%s) létrehozásához, ami az egyedi CSS-t fogja tartalmazni."
+
+#: Arjuna-X/functions.php:1031
+msgid "Enable custom CSS rules"
+msgstr "Egyedi CSS szabályok bekapcsolása"
+
+#: Arjuna-X/functions.php:1032
+msgid "If enabled, Arjuna will create a user stylesheet with your custom CSS rules. The user stylesheet will be included with every page call. If you intend to make some minor changes to the stylesheet, enabling this option ensures that you can safely upgrade Arjuna without losing your custom CSS."
+msgstr "Bekapcsolva az Arjuna egy új stíluslapot hoz létre, ami az egyedi CSS szabályokat tárolja. Az új stíluslapot minden oldalhívás tartalmazni fogja. Ha kisebb változtatásokat szeretnél végrehajtani a stíluslapon, ezzel az opcióval biztonságosan frissítheted az Arjuna-t anélkül, hogy elveszne az egyedi CSS."
+
+#: Arjuna-X/functions.php:1041
+msgid "Note:"
+msgstr "Megjegyzés:"
+
+#: Arjuna-X/functions.php:1041
+msgid "Arjuna cannot write to the themes directory. The custom CSS rules will be included in the header of each page, between &lt;STYLE&gt; tags."
+msgstr "Arjuna nem tud írni a témák mappába. Az egyedi CSS szabályok minden oldal fejlécében lesznek tárolva, a &lt;STYLE&gt; címkék között."
+
+#: Arjuna-X/functions.php:1050
+msgid "Performance Optimization"
+msgstr "Teljesítmény optimalizálás"
+
+#: Arjuna-X/functions.php:1054
+msgid "Internet Explorer 6 Optimization"
+msgstr "Internet Explorer 6 Optimalizálás"
+
+#: Arjuna-X/functions.php:1056
+msgid "Enable IE6 performance optimization"
+msgstr "Az IE6 teljesítményének optimalizálása"
+
+#: Arjuna-X/functions.php:1057
+msgid "If turned on, Arjuna will attempt to detect IE6 and serve a stand-alone CSS file specifically made for IE6."
+msgstr "Bekapcsolva az Arjuna észleli az IE6 böngészőt és egy különálló CSS fájlt kínál, ami az IE6-ra lett optimalizálva."
+
+#: Arjuna-X/functions.php:1057
+msgid "Note: IE6 will still work the same if this option is turned off, however, you and your IE6 users will save an estimated 28kb (11 image and 2 CSS files) in bandwidth for first-time visitors. IE6 also might render more rapidly if this is turned on."
+msgstr "Megjegyzés: Az IE6 működni fog az opció kikapcsolásával is, de az IE6 felhasználók nyernek körülbelül 28kb sávszélességet (11 kép és 2 CSS fájl) az első látogatáskor. Az IE6 gyorsabban jeleníti meg az oldalt, ha ez be van kapcsolva."
+
+#: Arjuna-X/functions.php:1064
+msgid "Save Changes"
+msgstr "Változások mentése"
+
+#: Arjuna-X/functions.php:1181
+msgid "Written by"
+msgstr "Szerző:"
+
+#: Arjuna-X/functions.php:1183
+msgid "about %s ago"
+msgstr "kb. %s ezelőtt"
+
+#: Arjuna-X/functions.php:1185
+msgid "on"
+msgstr " - "
+
+#: Arjuna-X/functions.php:1190
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: Arjuna-X/functions.php:1217
+msgid "1 year"
+msgstr "1 évvel"
+
+#: Arjuna-X/functions.php:1217
+msgid "%d years"
+msgstr "%d évvel"
+
+#: Arjuna-X/functions.php:1221
+msgid "1 month"
+msgstr "1 hónappal"
+
+#: Arjuna-X/functions.php:1221
+msgid "%d months"
+msgstr "%d hónappal"
+
+#: Arjuna-X/functions.php:1225
+msgid "1 week"
+msgstr "1 héttel"
+
+#: Arjuna-X/functions.php:1225
+msgid "%d weeks"
+msgstr "%d héttel"
+
+#: Arjuna-X/functions.php:1229
+msgid "1 day"
+msgstr "1 nappal"
+
+#: Arjuna-X/functions.php:1229
+msgid "%d days"
+msgstr "%d nappal"
+
+#: Arjuna-X/functions.php:1233
+msgid "1 hour"
+msgstr "1 órával"
+
+#: Arjuna-X/functions.php:1233
+msgid "%d hours"
+msgstr "%d órával"
+
+#: Arjuna-X/functions.php:1237
+msgid "1 minute"
+msgstr "1 perccel"
+
+#: Arjuna-X/functions.php:1237
+msgid "%d minutes"
+msgstr "%d perccel"
+
+#: Arjuna-X/functions.php:1240
+msgid "1 second"
+msgstr "1 másodperccel"
+
+#: Arjuna-X/functions.php:1240
+msgid "%d seconds"
+msgstr "%d másodperccel"
+
+#: Arjuna-X/functions.php:1326
+msgid "Page %s of %s"
+msgstr "%s / %s. oldal"
+
+#: Arjuna-X/functions.php:1365
+#: Arjuna-X/functions.php:1368
+msgid "Page %s"
+msgstr "%s. oldal"
+
+#: Arjuna-X/functions.php:1393
+msgid "Comment Pages:"
+msgstr "Hozzászólások oldala:"
+
+#: Arjuna-X/header.php:10
+msgid "Search Results:"
+msgstr "Keresési eredmény:"
+
+#: Arjuna-X/header.php:37
+msgid "Skip to posts"
+msgstr "Tovább a bejegyzésekhez"
+
+#: Arjuna-X/header.php:63
+msgid "Search here..."
+msgstr "Keresés itt..."
+
+#: Arjuna-X/header.php:64
+msgid "Find"
+msgstr "Keres"
+
+#: Arjuna-X/header.php:70
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: Arjuna-X/index.php:53
+msgid "Previous Page"
+msgstr "Előző oldal"
+
+#: Arjuna-X/index.php:53
+msgid "Next Page"
+msgstr "Következő oldal"
+
+#: Arjuna-X/page.php:44
+#: Arjuna-X/page_fullwidth.php:48
+#: Arjuna-X/single.php:44
+msgid "Pages:"
+msgstr "Oldalak:"
+
+#: Arjuna-X/page.php:44
+#: Arjuna-X/page_fullwidth.php:48
+#: Arjuna-X/single.php:44
+msgid "Page %"
+msgstr "% oldal"
+
+#: Arjuna-X/page.php:46
+#: Arjuna-X/page_fullwidth.php:50
+#: Arjuna-X/single.php:56
+msgid "Edit in Admin"
+msgstr "Szerkeszt Adminként"
+
+#: Arjuna-X/page.php:58
+#: Arjuna-X/page_fullwidth.php:63
+#: Arjuna-X/single.php:76
+msgid "There is nothing here."
+msgstr "Nincs itt semmi...."
+
+#: Arjuna-X/search.php:8
+msgid "Search Results on <em>%s</em>"
+msgstr "Keresési eredmény a(z) <em>%s</em> kifejezésre"
+
+#: Arjuna-X/search.php:65
+msgid "Your search returned no results."
+msgstr "A keresés nem adott találatot."
+
+#: Arjuna-X/sidebar.php:20
+msgid "Recent Posts"
+msgstr "Legutóbbi bejegyzések"
+
+#: Arjuna-X/sidebar.php:27
+msgid "Browse by Tags"
+msgstr "Böngészés címkék alapján"
+
+#: Arjuna-X/sidebar.php:49
+msgid "Meta"
+msgstr "Belépés, regisztráció"
+
+#: Arjuna-X/single.php:9
+#: Arjuna-X/single.php:67
+msgid "Previous Post"
+msgstr "Előző bejegyzés"
+
+#: Arjuna-X/single.php:10
+#: Arjuna-X/single.php:68
+msgid "Next Post"
+msgstr "Következő bejegyzés"
+
+#~ msgid ""
+#~ "Arjuna is completely free. If you like this project and want to support "
+#~ "further development and maintenance, please"
+#~ msgstr ""
+#~ "Arjuna teljesen ingyenes. Ha tetszik a projekt és támogatnád a további "
+#~ "fejlesztést és fenntartást, kérlek"

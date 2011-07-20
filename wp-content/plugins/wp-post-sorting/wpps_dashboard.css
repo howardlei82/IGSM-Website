@@ -1,0 +1,15 @@
+/*
+Very simple style. Add here thigs to make it prettier.
+Most elements have classes assigned.
+*/
+
+.sBasicLabel{
+	width: 250px;
+	text-align: right;
+	float: left;
+/*	color: red;*/
+}
+
+.sFormSelect{
+	width: 200px;
+}

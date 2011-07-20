@@ -1,0 +1,16 @@
+#jh-404-widget { font-size: 11px; }
+
+#jh-404-widget table { width: 100%; }
+#jh-404-widget table thead { text-align: left; }
+#jh-404-widget table tbody td { font-size: 11px; color: #444; padding-top: 5px; }
+#jh-404-widget table tbody th.td-url { width: 45%; }
+#jh-404-widget table thead th.td-count { width: 10%; }
+#jh-404-widget table thead th.td-date { width:30%; }
+#jh-404-widget table tbody td.td-date { font-size: 10px; color: #777; line-height: 14px; }
+#jh-404-widget table thead th.td-delete { width: 5%; }
+
+#jh-404-loading { background: url(images/loading.gif); display: block; float: left; width: 16px; height: 16px; text-indent: -9999px; display: none; margin-right: 5px; }
+
+#jh-404-widget table tbody td .actions { display: block; float: right; }
+#jh-404-widget table tbody td a.view-page { display: block; width: 12px; height: 11px; text-indent: -9999px; background: url(images/external-link.png); float: left; margin-right: 5px }
+#jh-404-widget table tbody td a.view-referer { display: block; width: 12px; height: 11px; text-indent: -9999px; background: url(images/incoming-link.png); float: left; margin-right: 5px }

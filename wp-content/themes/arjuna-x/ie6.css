@@ -1,0 +1,362 @@
+body {
+	background:#d9d9d9 url(./images/ie6/pageBG.png) repeat-x 0 0;
+	text-align:center;
+}
+
+blockquote,
+pre {
+	background-image:url(./images/ie6/blockquote.png);
+}
+
+.headerBG {
+	background:none;
+}
+
+.headerSearch {
+	background-image:url(./images/ie6/headerSearch.png);
+	bottom:-1px;
+}
+
+.headerMenu1 {
+	height:25px;
+	position:relative;
+}
+.headerMenu1 ul {
+	display:inline;
+}
+.headerMenu2 {
+	zoom:1;
+}
+.headerMenu2,
+.headerMenu2DS ul,
+.headerMenu2DS li,
+.headerMenu2 li a:hover,
+.headerMenu2 li a.active,
+.headerMenu2 li a:visited,
+.headerMenu2 li a.homeIcon,
+.headerMenu2 li a.homeIcon:hover,
+.headerMenu2 li a.homeIcon:visited,
+.headerMenu2 .helper {
+	background-image:url(./images/ie6/header/menu-2.png);
+}
+
+.headerMenu2 li a.active {
+	background-position:-1050px 0;
+}
+
+
+.headerMenu2 li a,
+.headerMenu1 li a {
+	float:left;
+}
+
+.headerMenu2 li li,
+.headerMenu1 li li{
+	display:inline;
+}
+.headerMenu2 li a,
+.headerMenu2 li a:visited,
+.headerMenu1 li a,
+.headerMenu1 li a:visited {
+	display:block;
+}
+.headerMenu2 li li a,
+.headerMenu2 li li a:visited,
+.headerMenu1 li li a,
+.headerMenu1 li li a:visited {
+	display:block;
+	float:none;
+}
+
+.headerMenu2 ul {
+	height:26px;
+}
+
+.headerMenu2 .helper {
+	font-size:1px;
+	line-height:1px;
+}
+
+.contentWrapper {
+	height:350px;
+}
+
+.postHeader .postTitle {
+	background-image:url(./images/ie6/heading.png);
+}
+.postHeader .postTitle span {
+	position:relative;
+	background-image:url(./images/ie6/heading.png);
+}
+.postHeader .bottom {
+	background-image:url(./images/ie6/heading.png);
+}
+.postHeader .bottom div {
+	background-image:url(./images/ie6/heading.png);
+	z-index:1;
+}
+.postDate,
+.postAuthor {
+	background-image:url(./images/ie6/heading.png);
+}
+
+
+
+.postHeaderCompact,
+.postHeaderCompact .inner,
+.postHeaderCompact .postTitle{
+	zoom:1;
+}
+.postHeaderCompact .bottom span {
+	margin-right:-45px;
+}
+
+.postHeaderCompact,
+.postHeaderCompact .inner,
+.postHeaderCompact .bottom,
+.postHeaderCompact .bottom span {
+	background-image:url(./images/ie6/heading.png);
+}
+
+
+.postContent {
+	zoom:1;
+}
+
+.postCategories,
+.postTags,
+.postReadMore,
+.postReadMore span,
+a.postReadMore:hover,
+.postEdit,
+.postEdit span,
+a.postEdit:hover,
+.postCommentLabel,
+.postCommentLabel span,
+.commentHeader,
+.btnReply,
+.btnTrackback,
+a.btnReply:hover,
+.btnReply span,
+.btnTrackback span,
+.commentReply .replyHeader
+{
+	background-image:url(./images/ie6/icons.png);
+}
+
+.gradient_gray a.btn,
+.gradient_gray a.btn:hover,
+.gradient_gray .btn span,
+.gradient_khaki a.btn,
+.gradient_khaki a.btn:hover,
+.gradient_khaki .btn span,
+.buttonStyle_light a.btn,
+.buttonStyle_light a.btn:hover,
+.buttonStyle_light .btn span {
+	background-image:url(./images/ie6/icons_light.png);
+}
+
+a.btn,
+a.btn:hover,
+a.btn span {
+	background-image:url(./images/ie6/icons.png);
+	vertical-align:middle;
+}
+a.btn span {
+	display:inline;
+	float:left;
+}
+
+.replySubmitArea {
+	zoom:1;
+}
+.btnSubscribe {
+	float:left;
+}
+.inputBtn {
+	float:right;
+}
+
+
+.postFooter,
+.postFooter .r {
+	background-image:url(./images/ie6/postFooter.png);
+}
+.postFooter .left {
+	zoom:1;
+	position:relative;
+}
+.postFooter {
+	height:33px;
+	zoom:1;
+}
+
+.postReadMore span,
+.postEdit span{
+	float:left;
+	display:inline;
+	zoom:1;
+}
+
+.postCommentLabel span {
+	float:left;
+	display:inline;
+}
+
+.comment .message .t,
+.comment .message .t div,
+.comment .message .b,
+.comment .message .b div {
+	background-image:url(./images/ie6/comment.png);
+}
+.comment .message .i,
+.comment .message .i div,
+.sidebars .i {
+	zoom:1;
+	position:relative;
+}
+.comment .message .b {
+	font-size:0;
+}
+.comment .message .b div,
+.comment .message .t div{
+	position:relative;
+}
+
+.comment,
+.comment .message {
+	zoom:1;
+}
+
+.commentReply .replyLoggedIn a {
+	zoom:1;
+}
+
+.paginationTop {
+	background-position:0 -30px;
+}
+.pagination div {
+	background-image:url(./images/ie6/pagination.png);
+	position:relative;
+}
+.paginationTop div {
+	background-position:right -30px;
+}
+.pagination a {
+	position:relative;
+}
+.pagination a span {
+	float:left;
+	display:inline;
+}
+.pagination,
+.pagination a span,
+.pagination li.current a span,
+.pagination li.prev a span,
+.pagination li.next a span,
+.pagination .info,
+.wp-paginate .title,
+.wp-paginate span,
+.wp-paginate a,
+.wp-pagenavi span,
+.wp-pagenavi a,
+.wp-pagenavi .pages {
+	background-image:url(./images/ie6/pagination.png);
+}
+
+.commentNavigation div {
+	background-image:url(./images/ie6/pagination.png);
+	position:relative;
+}
+.commentNavigation a {
+	position:relative;
+}
+.commentNavigation a span {
+	float:left;
+	display:inline;
+}
+.commentNavigation,
+.commentNavigation a span,
+.commentNavigation li.active a span,
+.commentNavigation .info {
+	background-image:url(./images/ie6/pagination.png);
+}
+
+.footer {
+	background-image:url(./images/ie6/footer.png);
+}
+.footer2 .footerTop {
+	height:10px;
+	background:url(./images/ie6/footer/top.png) no-repeat 0 0;
+}
+
+.sidebars .t div,
+.sidebars .b div,
+.sidebars .i .i2 {
+	position:relative;
+}
+.sidebars .t,
+.sidebars .t div,
+.sidebars .i,
+.sidebars .i .i2,
+.sidebars .b,
+.sidebars .b div,
+.sidebars a.rssBtn,
+.sidebars a.twitterBtn,
+.sidebars a.facebookBtn,
+.sidebars a.linkedInBtn {
+	background-image:url(./images/ie6/sidebars.png);
+}
+.sidebars h4,
+.sidebars h4 span {
+	position:relative;
+}
+
+.sidebars .b {
+	font-size:0;
+	line-height:0;
+}
+
+.sidebars li {
+	zoom:1;
+	background-image:url(./images/ie6/sidebars.png);
+}
+.sidebars .sidebarBox {
+	overflow:hidden;
+	width:100%;
+}
+
+
+#wp-calendar td a,
+#wp-calendar td a:visited {
+	zoom:1;
+}
+
+.commentHeader {
+	height:27px;
+}
+
+
+.sidebarIcons a,
+.sidebars .rssBtnExtended,
+.sidebars .rssBtnExtended .primary,
+#rss-extended {
+	display:inline;
+	zoom:1;
+}
+#rss-extended li.separator {
+	height:1px;
+	line-height:1px;
+	font-size:1px;
+	margin:4px 5px;
+	display: inline-block;
+}
+
+#rss-extended {
+	z-index:1;
+}
+
+blockquote,
+pre {
+	word-wrap:break-word;
+}

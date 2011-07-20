@@ -1,0 +1,982 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arjuna X 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-08 12:47+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: SRS Solutions <info@srssolutions.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+#: Arjuna/404.php:4
+msgid "Error 404 - Not Found"
+msgstr "Klaida 404 - Nerasta"
+
+#: Arjuna/404.php:5
+msgid "Sorry, but you are looking for something that isn't here. "
+msgstr "Atsiprašome, bet jūs ieškote to ko čia nėra"
+
+#: Arjuna/archive.php:8
+#, php-format
+msgid "Browsing Posts in <em>%s</em>"
+msgstr "Ieškomi įrašai <em>%s</em>"
+
+#: Arjuna/archive.php:10
+#, php-format
+msgid "Browsing Posts tagged <em>%s</em>"
+msgstr "Ieškomi įrašai pažymėti <em>%s</em>"
+
+#: Arjuna/archive.php:12
+#, php-format
+msgid "Browsing Posts published on %s"
+msgstr "Ieškomi įrašai publikuoti %s"
+
+#: Arjuna/archive.php:14
+#: Arjuna/archive.php:16
+#, php-format
+msgid "Browsing Posts published in %s"
+msgstr "Ieškomi įrašai publikuoti %s"
+
+#: Arjuna/archive.php:14
+msgid "F, Y"
+msgstr ""
+
+#: Arjuna/archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: Arjuna/archive.php:19
+#, php-format
+msgid "Browsing Posts published by <em>%s</em>"
+msgstr "Ieškomi įrašai publikuoti %s"
+
+#: Arjuna/archive.php:21
+msgid "Blog Archives"
+msgstr "Tinklaraščio archyvai"
+
+#: Arjuna/archive.php:28
+#: Arjuna/index.php:9
+#: Arjuna/page.php:9
+#: Arjuna/page_fullwidth.php:14
+#: Arjuna/search.php:15
+#: Arjuna/single.php:16
+msgid "Permalink to"
+msgstr "Nuoroda į"
+
+#: Arjuna/archive.php:33
+#: Arjuna/index.php:14
+#: Arjuna/page.php:14
+#: Arjuna/page_fullwidth.php:19
+#: Arjuna/search.php:20
+#: Arjuna/single.php:21
+msgid " at "
+msgstr ""
+
+#: Arjuna/archive.php:41
+#: Arjuna/index.php:22
+#: Arjuna/page.php:22
+#: Arjuna/page_fullwidth.php:27
+#: Arjuna/search.php:28
+#: Arjuna/single.php:29
+msgid "Pass required"
+msgstr "Reikalingas slaptažodis"
+
+#: Arjuna/archive.php:43
+#: Arjuna/index.php:24
+#: Arjuna/page.php:24
+#: Arjuna/page_fullwidth.php:29
+#: Arjuna/search.php:30
+#: Arjuna/single.php:31
+msgid "Comments off"
+msgstr "Komentarai išjungti"
+
+#: Arjuna/archive.php:45
+#: Arjuna/index.php:26
+#: Arjuna/page.php:26
+#: Arjuna/page_fullwidth.php:31
+#: Arjuna/search.php:32
+#: Arjuna/single.php:33
+msgid "No comments"
+msgstr "Komentarų nėra"
+
+#: Arjuna/archive.php:45
+#: Arjuna/index.php:26
+#: Arjuna/page.php:26
+#: Arjuna/page_fullwidth.php:31
+#: Arjuna/search.php:32
+#: Arjuna/single.php:33
+msgid "1 comment"
+msgstr "1 komentaras"
+
+# php-format
+#: Arjuna/archive.php:45
+#: Arjuna/index.php:26
+#: Arjuna/page.php:26
+#: Arjuna/page_fullwidth.php:31
+#: Arjuna/search.php:32
+#: Arjuna/single.php:33
+msgid "% comments"
+msgstr "% komentarai"
+
+#: Arjuna/archive.php:51
+#: Arjuna/index.php:32
+#: Arjuna/page.php:32
+#: Arjuna/page_fullwidth.php:37
+#: Arjuna/search.php:38
+#: Arjuna/single.php:39
+msgid "continue reading..."
+msgstr "Skaityti toliau..."
+
+#: Arjuna/archive.php:59
+#: Arjuna/index.php:40
+#: Arjuna/search.php:46
+#: Arjuna/single.php:47
+msgid "<i>none</i>"
+msgstr "<i>žymų nėra</i>"
+
+#: Arjuna/archive.php:63
+#: Arjuna/index.php:44
+#: Arjuna/search.php:50
+msgid "Read more"
+msgstr "Daugiau.."
+
+#: Arjuna/archive.php:75
+#: Arjuna/index.php:62
+#: Arjuna/search.php:59
+msgid "Newer Entries"
+msgstr "Naujesni įrašai"
+
+#: Arjuna/archive.php:76
+#: Arjuna/index.php:63
+#: Arjuna/search.php:60
+msgid "Older Entries"
+msgstr "Senesni įrašai"
+
+#: Arjuna/archive.php:81
+#: Arjuna/index.php:69
+msgid "There is nothing here (yet)."
+msgstr "Čia nieko nėra (kolkas)."
+
+#: Arjuna/comments.php:13
+#: Arjuna/comments_legacy.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Šis įrašas apsaugotas slaptažodžiu. Įveskite slaptažodį, kad matyti turinį"
+
+#: Arjuna/comments.php:21
+#: Arjuna/comments_legacy.php:18
+#: Arjuna/functions.php:598
+msgid "Comments"
+msgstr "Komentarai"
+
+#: Arjuna/comments.php:23
+#: Arjuna/comments_legacy.php:20
+msgid "Leave a comment"
+msgstr "Komentuoti"
+
+#: Arjuna/comments.php:26
+#: Arjuna/comments_legacy.php:23
+msgid "Trackback"
+msgstr "Dienoraščio nuoroda"
+
+#: Arjuna/comments.php:37
+msgid "Comment Pages:"
+msgstr "Komentarų puslapiai"
+
+#: Arjuna/comments.php:38
+#: Arjuna/comments_legacy.php:81
+msgid "Previous"
+msgstr "Ankstesnis"
+
+#: Arjuna/comments.php:38
+#: Arjuna/comments_legacy.php:81
+msgid "Next"
+msgstr "Sekantis"
+
+#: Arjuna/comments.php:40
+#: Arjuna/comments_legacy.php:83
+msgid "Older Comments"
+msgstr "Senesni komentarai"
+
+#: Arjuna/comments.php:41
+#: Arjuna/comments_legacy.php:84
+msgid "Newer Comments"
+msgstr "Naujesni komentarai"
+
+#: Arjuna/comments.php:48
+#: Arjuna/comments_legacy.php:91
+msgid "No one has commented yet."
+msgstr "Kolkas niekas nekomentavo"
+
+#: Arjuna/comments.php:50
+#: Arjuna/comments_legacy.php:93
+msgid "Comments are closed."
+msgstr "Komentarai išjungti"
+
+#: Arjuna/comments.php:60
+#: Arjuna/comments_legacy.php:102
+msgid "Leave a Comment"
+msgstr "Palik komentarą"
+
+#: Arjuna/comments.php:62
+msgid "Cancel Reply"
+msgstr "Nutraukti atsakymą"
+
+#: Arjuna/comments.php:66
+#: Arjuna/comments_legacy.php:104
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Tu turi būti %slogged in%s kad komentuoti"
+
+#: Arjuna/comments.php:69
+#: Arjuna/comments.php:78
+#: Arjuna/comments_legacy.php:107
+#: Arjuna/comments_legacy.php:114
+msgid "Your name"
+msgstr "Jūsų vardas"
+
+#: Arjuna/comments.php:70
+#: Arjuna/comments.php:79
+#: Arjuna/comments_legacy.php:108
+#: Arjuna/comments_legacy.php:115
+msgid "Your email"
+msgstr "Jusų el. paštas"
+
+#: Arjuna/comments.php:71
+#: Arjuna/comments.php:80
+#: Arjuna/comments_legacy.php:109
+#: Arjuna/comments_legacy.php:116
+msgid "Your website"
+msgstr "Jūsų puslapis"
+
+#: Arjuna/comments.php:72
+#: Arjuna/comments.php:89
+#: Arjuna/comments_legacy.php:110
+#: Arjuna/comments_legacy.php:119
+msgid "Your comment"
+msgstr "Jūsų komentaras"
+
+#: Arjuna/comments.php:75
+#: Arjuna/comments_legacy.php:112
+#, php-format
+msgid "Logged in as %s."
+msgstr "Prisijungęs kaip %s."
+
+#: Arjuna/comments.php:75
+#: Arjuna/comments_legacy.php:112
+msgid "Log out of this account"
+msgstr "Atsijungti nuo šios paskyros"
+
+#: Arjuna/comments.php:75
+#: Arjuna/comments_legacy.php:112
+msgid "Logout"
+msgstr "Atsijungti"
+
+#: Arjuna/comments.php:91
+#: Arjuna/comments_legacy.php:121
+msgid "Subscribe to comments"
+msgstr "Prenumeruotii komentarus"
+
+#: Arjuna/comments.php:92
+#: Arjuna/comments_legacy.php:122
+msgid "Leave comment"
+msgstr "Komentuoti"
+
+#: Arjuna/comments_legacy.php:58
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: Arjuna/comments_legacy.php:58
+msgid "H:i"
+msgstr ""
+
+#: Arjuna/comments_legacy.php:65
+#: Arjuna/functions.php:876
+msgid "Your comment is awaiting moderation."
+msgstr "Jūsų komentaras laukia patvirtinimo."
+
+#: Arjuna/functions.php:272
+msgid "Arjuna Options"
+msgstr "Arjuna nustatymai"
+
+#: Arjuna/functions.php:281
+msgid "The Arjuna options have been saved."
+msgstr "Arjuna nustatymai išsaugoti"
+
+#: Arjuna/functions.php:285
+msgid "Arjuna Theme Options"
+msgstr "Arjuna temos nustatymai"
+
+#: Arjuna/functions.php:289
+#, fuzzy, php-format
+msgid "Thank you for using Arjuna, the free WordPress theme designed by %s."
+msgstr "Ačių kad atsisiuntėte Arjuna, nemokamą Word press temą, sukurtą %s."
+
+#: Arjuna/functions.php:293
+msgid "Report Bugs"
+msgstr "Pranešti apie nesklandumus"
+
+#: Arjuna/functions.php:294
+msgid "Report a Bug"
+msgstr "Pranešti apie nesklandumą"
+
+#: Arjuna/functions.php:294
+msgid "Please include your Wordpress version, browser details and a screenshot, if necessary."
+msgstr "Prašome įterpti jūsų Wordpress versiją, naršyklės parametrus ir atvaizdą, jei reikalinga."
+
+#: Arjuna/functions.php:297
+msgid "Useful Links"
+msgstr "Naudingos nuorodos"
+
+#: Arjuna/functions.php:298
+msgid "Changelog"
+msgstr "Papildymų sąrašas"
+
+#: Arjuna/functions.php:299
+msgid "FAQ"
+msgstr "DUK"
+
+#: Arjuna/functions.php:300
+msgid "Roadmap"
+msgstr "Žemėlapis"
+
+#: Arjuna/functions.php:301
+msgid "Leave Feedback"
+msgstr "Palikti atsiliepimą"
+
+#: Arjuna/functions.php:304
+msgid "Support &amp; Sales"
+msgstr "Palaikymas  &amp; Pardavimai"
+
+#: Arjuna/functions.php:305
+msgid "Contact Sales"
+msgstr "Susisiekti su pardavimais"
+
+#: Arjuna/functions.php:305
+msgid "Need installation or integration support? Need something customized or extended?"
+msgstr "Reikia įdiegimo ar integracijos pagalbos? Reikia kažką pakoreguoti ar išplėsti?"
+
+#: Arjuna/functions.php:310
+msgid "Arjuna is completely free. If you like this project and want to support further development and maintenance, please"
+msgstr "Arjuna yra nemokama. Jei jūms patinka šis projekta ir jūs norite prisidėti prie tobulinimo ir priežiūros, prašom"
+
+#: Arjuna/functions.php:314
+#, fuzzy
+msgid "Header"
+msgstr "Viršustinės juostos meniu"
+
+#: Arjuna/functions.php:318
+msgid "First Header Menu"
+msgstr "Pirmosios juostos meniu"
+
+#: Arjuna/functions.php:322
+msgid "Enabled"
+msgstr "Įjungtas"
+
+#: Arjuna/functions.php:324
+msgid "Enable this menu"
+msgstr "Įjungti šį meniu"
+
+#: Arjuna/functions.php:326
+msgid "If disabled, the menu will be hidden."
+msgstr "Jei išjungtas, meniu bus paslėptas"
+
+#: Arjuna/functions.php:330
+#: Arjuna/functions.php:426
+msgid "Dropdown"
+msgstr "Išskleisti"
+
+#: Arjuna/functions.php:334
+#: Arjuna/functions.php:430
+msgid "No dropdown menu"
+msgstr "Neišskleisti meniu"
+
+#: Arjuna/functions.php:338
+#: Arjuna/functions.php:434
+msgid "One-level dropdown menu"
+msgstr "Vieno lygio išskleidžiamas meniu"
+
+#: Arjuna/functions.php:342
+#: Arjuna/functions.php:438
+msgid "Two-level dropdown menu"
+msgstr "Dviejų lygių išskleidžiamas meniu"
+
+#: Arjuna/functions.php:347
+msgid "Alignment"
+msgstr "Lygiavimas"
+
+#: Arjuna/functions.php:351
+msgid "Left"
+msgstr "Kairė"
+
+#: Arjuna/functions.php:355
+msgid "Right"
+msgstr "Dešinė"
+
+#: Arjuna/functions.php:360
+#: Arjuna/functions.php:443
+msgid "Menu lists only"
+msgstr "Tik meniu sarašai"
+
+#: Arjuna/functions.php:364
+#: Arjuna/functions.php:447
+msgid "Pages"
+msgstr "Puslapiai"
+
+#: Arjuna/functions.php:368
+#: Arjuna/functions.php:451
+#: Arjuna/sidebar.php:34
+msgid "Categories"
+msgstr "Kategorijos"
+
+#: Arjuna/functions.php:373
+#: Arjuna/functions.php:456
+msgid "Sorting Order"
+msgstr "Rūšiavimo tvarka"
+
+#: Arjuna/functions.php:376
+#: Arjuna/functions.php:390
+#: Arjuna/functions.php:459
+#: Arjuna/functions.php:473
+msgid "Sort menu items in"
+msgstr "Rūšiuoti meniu elementus"
+
+#: Arjuna/functions.php:378
+#: Arjuna/functions.php:392
+#: Arjuna/functions.php:461
+#: Arjuna/functions.php:475
+msgid "ascending"
+msgstr "didėjimo tvarka"
+
+#: Arjuna/functions.php:379
+#: Arjuna/functions.php:393
+#: Arjuna/functions.php:462
+#: Arjuna/functions.php:476
+msgid "descending"
+msgstr "mažėjimo tvarka"
+
+#: Arjuna/functions.php:381
+#: Arjuna/functions.php:395
+#: Arjuna/functions.php:464
+#: Arjuna/functions.php:478
+msgid "order by"
+msgstr "rūšiuoti pagal"
+
+#: Arjuna/functions.php:383
+#: Arjuna/functions.php:466
+msgid "Category Name"
+msgstr "Kategorijos pavadinimas"
+
+#: Arjuna/functions.php:384
+#: Arjuna/functions.php:467
+msgid "Category ID"
+msgstr "Kategorijos ID"
+
+#: Arjuna/functions.php:385
+#: Arjuna/functions.php:468
+msgid "Post Count"
+msgstr "Įrašų kiekis"
+
+#: Arjuna/functions.php:386
+#: Arjuna/functions.php:469
+msgid "Category Slug"
+msgstr "Kategorijos \"Slug\""
+
+#: Arjuna/functions.php:397
+#: Arjuna/functions.php:480
+msgid "Page Title"
+msgstr "Puslapio antraštė"
+
+#: Arjuna/functions.php:398
+#: Arjuna/functions.php:481
+msgid "Page ID"
+msgstr "Puslapio ID"
+
+#: Arjuna/functions.php:399
+#: Arjuna/functions.php:482
+msgid "Page Slug"
+msgstr "Puslapio \"Slug\""
+
+#: Arjuna/functions.php:400
+#: Arjuna/functions.php:483
+msgid "Page Order"
+msgstr "Puslapių tvarka"
+
+#: Arjuna/functions.php:410
+msgid "Second Header Menu"
+msgstr "Antrosios juostos meniu"
+
+#: Arjuna/functions.php:414
+msgid "Home Button"
+msgstr "Pradžios Mygtukas"
+
+#: Arjuna/functions.php:416
+msgid "Display Home button"
+msgstr "Rodyti Pradžios mygtuką"
+
+#: Arjuna/functions.php:420
+msgid "Separators"
+msgstr "Skirtukai"
+
+#: Arjuna/functions.php:422
+msgid "Visually separate the menu buttons"
+msgstr "Vizualiai atskirti meniu mygtukus"
+
+#: Arjuna/functions.php:493
+#: Arjuna/functions.php:497
+#, fuzzy
+msgid "Header Image"
+msgstr "Viršustinės juostos meniu"
+
+#: Arjuna/functions.php:502
+msgid "Light Blue"
+msgstr "Šviesiai mėlyna"
+
+#: Arjuna/functions.php:507
+msgid "Dark Blue"
+msgstr "Tamsiai mėlyna"
+
+#: Arjuna/functions.php:514
+msgid "General Options"
+msgstr "Pagrindiniai nustatymai"
+
+#: Arjuna/functions.php:515
+msgid "Sidebar"
+msgstr "Šoninis meniu"
+
+#: Arjuna/functions.php:519
+msgid "Sidebar Position"
+msgstr "Šonini meniu vieta"
+
+#: Arjuna/functions.php:524
+msgid "Right sidebar"
+msgstr "Dešinysis šoninis meniu"
+
+#: Arjuna/functions.php:529
+msgid "Left sidebar"
+msgstr "Kairysis šoninis meniu"
+
+#: Arjuna/functions.php:534
+msgid "No sidebar"
+msgstr "Be  šoninio meniu"
+
+#: Arjuna/functions.php:539
+msgid "Sidebar Width"
+msgstr "Šoninio meniu plotis"
+
+#: Arjuna/functions.php:541
+msgid "Small"
+msgstr "Mažas"
+
+#: Arjuna/functions.php:542
+msgid "Normal"
+msgstr "Normalus"
+
+#: Arjuna/functions.php:543
+msgid "Large"
+msgstr "Vidutinis"
+
+#: Arjuna/functions.php:544
+msgid "If you intend to use the two column sidebar, we recommend to choose either the normal or the large sidebar."
+msgstr "Jei jūs ketinate naudoti dviejų stulpelių šoninį meniu, mes rekomenduojame pasiringti normalų ar didelį šoninį meniu"
+
+#: Arjuna/functions.php:548
+msgid "Default Widgets"
+msgstr "Numatytieji valdikliai"
+
+#: Arjuna/functions.php:550
+msgid "Display default sidebar widgets if the widget bars are empty."
+msgstr "Rodyti numatytuosius šoninės juostos valdikliu, jei valdiklių juosta tuščia"
+
+#: Arjuna/functions.php:551
+msgid "If enabled, these widgets will be displayed if the widget bar is empty: <b>sidebar_full_top:</b> Recent Posts and Browse by Tags, <b>sidebar_left:</b> Categories, <b>sidebar_right:</b> Meta"
+msgstr "Jei įjungta, šie valdikliai bus rodomi jei valdiklių juosta tuščia : <b>sidebar_full_top:</b> Recent Posts and Browse by Tags, <b>sidebar_left:</b> Categories, <b>sidebar_right:</b> Meta"
+
+#: Arjuna/functions.php:555
+msgid "RSS Button"
+msgstr "RSS Mygtukas"
+
+#: Arjuna/functions.php:557
+msgid "Display an RSS button on the very top of the sidebar."
+msgstr "Rodyti RSS mygtuką pačiame šoninės juostoje viršuje"
+
+#: Arjuna/functions.php:561
+msgid "Twitter Button"
+msgstr "Twitter Mygtukas"
+
+#: Arjuna/functions.php:563
+msgid "Display a Twitter button on the very top of the sidebar."
+msgstr "Rodyti Twitter mygtuką pačiame šoninės juostos viršuje"
+
+#: Arjuna/functions.php:572
+msgid "Single Post Pages"
+msgstr "Vien įrašų puslapiai"
+
+#: Arjuna/functions.php:576
+msgid "Display Author"
+msgstr "Rodyti autorių"
+
+#: Arjuna/functions.php:578
+msgid "Include the author of a post in the post header."
+msgstr "Įtraukti įrašo autorių į įrašo antraštę"
+
+#: Arjuna/functions.php:582
+msgid "Display Time"
+msgstr "Rodyti laiką"
+
+#: Arjuna/functions.php:584
+msgid "Include the time and date of when the post has been published, instead of only the date."
+msgstr "Įtraukti įrašo paskelbimo laiką ir datą, vietoje datos"
+
+#: Arjuna/functions.php:588
+msgid "Navigation Links"
+msgstr "Navigacijos nuorodos"
+
+#: Arjuna/functions.php:590
+msgid "Display links to the previous and next posts above each post."
+msgstr "Rodyti nuorodas į senesnius ir naujesnius įrašus, virš kiekvieno įrašo"
+
+#: Arjuna/functions.php:591
+msgid "Display links to the previous and next posts below each post."
+msgstr "Rodyti nuorodas į senesnius ir naujesnius įrašus, po kiekvienu įrašu"
+
+#: Arjuna/functions.php:592
+msgid "Note: The links will only be shown on permalink pages, i.e. the URL where one single post/page is displayed."
+msgstr "Pastaba: Nuorodos bus rodomos \"permalink\" puslapiuose, t.y.URL kuriame rodomas vienas įrašas/puslapis "
+
+#: Arjuna/functions.php:602
+msgid "Display comments as follows"
+msgstr "Rodyti komentarus taip"
+
+#: Arjuna/functions.php:607
+msgid "Aligned to the left"
+msgstr "Lygiuotus kairėje"
+
+#: Arjuna/functions.php:612
+msgid "Aligned to the right"
+msgstr "Lygiuotus dešinėje"
+
+#: Arjuna/functions.php:617
+msgid "Alternate between left and right alignment"
+msgstr "Tarp kairio ir dešinio lygiavimo"
+
+#: Arjuna/functions.php:622
+msgid "Date Format"
+msgstr "Datos formatas"
+
+#: Arjuna/functions.php:624
+msgid "Passed Time (Example: <em>&quot;Written by admin about 3 days ago.&quot;</em>)"
+msgstr "Praleistas laikas (Pavyzdys: <em>&quot;Parašytas administratoriaus prieš 3  dienas.&quot;</em>)"
+
+#: Arjuna/functions.php:625
+#, fuzzy, php-format
+msgid "Default Date Format (Example: <em>&quot;Written by admin on %s&quot;</em>)"
+msgstr "Standartinis datos formatas (Pavyzdys: <em>&quot;Parašytas administratoriausn %s&quot;</em>)"
+
+#: Arjuna/functions.php:626
+msgid "The default date format can be customized in Settings &gt; General."
+msgstr "Datos formata gali būti keičiamas Settings &gt; General"
+
+#: Arjuna/functions.php:632
+msgid "Blog"
+msgstr "Tinklaraštis"
+
+#: Arjuna/functions.php:636
+msgid "Pagination"
+msgstr "Numeravimas"
+
+#: Arjuna/functions.php:638
+#, fuzzy
+msgid "Use Arjuna pagination"
+msgstr "Arjuna nustatymai"
+
+#: Arjuna/functions.php:639
+msgid "If enabled, Arjuna will use its own native pagination to allow your users to navigate the blog using pages."
+msgstr "Jei įjungta, Arjuna naudos savo numeravimo būdą, kad leisti naudotojams vaikščioti tinklaraštyje naudojant puslapius"
+
+#: Arjuna/functions.php:643
+#, fuzzy
+msgid "Page Range"
+msgstr "Išsaugoti pakeitimus"
+
+#: Arjuna/functions.php:652
+msgid "The number of page buttons that will appear before and after the current page button."
+msgstr "Puslapio mygtukų skaičių, kuris bus rodomas prieš ir po dabartinio puslapio mygtuko."
+
+#: Arjuna/functions.php:656
+msgid "Page Anchors"
+msgstr "Puslapio santrauka"
+
+#: Arjuna/functions.php:665
+msgid "The number of page buttons that will always appear at the beginning and the end of the pagination."
+msgstr "Puslapio mygtukų skaičius, kuris atsiras numeracijos priekyje ir pabaigoje"
+
+#: Arjuna/functions.php:669
+#, fuzzy
+msgid "Page Gap"
+msgstr "Puslapis %"
+
+#: Arjuna/functions.php:678
+msgid "The number of page buttons in a gap before an ellipsis (...) is display."
+msgstr "Puslapio mygtukų skaičius kuris bus rodomas tarp skliaustelių (...)"
+
+#: Arjuna/functions.php:683
+msgid "Use WordPress default"
+msgstr "Naudoti Wordpress numatytą"
+
+#: Arjuna/functions.php:684
+msgid "The default depends on your WordPress version and whether you have any pagination plugins activated. If the wp-paginate or wp-pagenavi plugin is activated, then Arjuna will use these plugins to create the pagination."
+msgstr "Tai priklauso nuo jūsų Wordpress versijos ir ar jūs turite įjungtų puslapių numeravimo įskiepių. Jei WP-paginate ar wp-pagenavi įskiepis įjungtas, Arjuna naudos šiuos įskiepius numeravimui"
+
+#: Arjuna/functions.php:690
+msgid "Miscellaneous"
+msgstr "Įvairūs"
+
+#: Arjuna/functions.php:694
+msgid "Append to page title"
+msgstr "Puslapio antraštės papildymas"
+
+#: Arjuna/functions.php:696
+#, php-format
+msgid "Blog Name (&quot; - %s&quot;)"
+msgstr "Tinklaraščio pavadinimas (&quot; - %s&quot;)"
+
+#: Arjuna/functions.php:697
+msgid "Custom:"
+msgstr "Sąvitas:"
+
+#: Arjuna/functions.php:698
+msgid "This will be appended to the page title of every web page (posts, pages, categories, etc.)"
+msgstr "Tai bus pridėta prie puslapio antraštės kiekviename puslapyje (įrašai, puslapiai, kategorijos ir tt.)"
+
+#: Arjuna/functions.php:702
+msgid "Footer Style"
+msgstr "Apatinės juostos stilius"
+
+#: Arjuna/functions.php:715
+#, fuzzy
+msgid "Custom CSS"
+msgstr "Sąvitas:"
+
+#: Arjuna/functions.php:721
+#, php-format
+msgid "This feature is disabled because Arjuna does not have write permissions to %s."
+msgstr "Ši funkcija išjungta, nes Arjuna neturi įrašymo galimybės į %s."
+
+#: Arjuna/functions.php:722
+msgid "Arjuna needs write permissions to create a new file \"user-style.css\", which will contain the custom CSS."
+msgstr "Arjunai reikia rašymo leidimų kad sukurti naują bylą  \"user-style.css\", kurioje bus patalpintas asmeninis CSS"
+
+#: Arjuna/functions.php:724
+msgid "Enable custom CSS rules"
+msgstr "Įjungti asmenines CSS taisykles"
+
+#: Arjuna/functions.php:725
+msgid "If enabled, Arjuna will create a user stylesheet with your custom CSS rules. The user stylesheet will be included with every page call. If you intend to make some minor changes to the stylesheet, enabling this option ensures that you can safely upgrade Arjuna without losing your custom CSS."
+msgstr "Jeigu įjungta, Arjuna sukurs vartotojo stilių su jūsų asmeninėmis CSS taisyklėmis. Vartotojo stilius bus įtrauktas į kiekvieną puslapį. Jei ketinate atlikti tam tikrus nedidelius pakeitimus stiliui,  ši galimybė užtikrina, kad galite saugiai atnaujinti Arjuna neprarandant savo individualizuotos CSS."
+
+#: Arjuna/functions.php:740
+msgid "Performance Optimization"
+msgstr "Charakteristikų optimizavimas"
+
+#: Arjuna/functions.php:744
+msgid "Internet Explorer 6 Optimization"
+msgstr "Internet Explorer 6 optimizavimas"
+
+#: Arjuna/functions.php:746
+msgid "Enable IE6 performance optimization"
+msgstr "Įjungti IE6 charakteristikų optimizavimą"
+
+#: Arjuna/functions.php:748
+msgid "If turned on, Arjuna will attempt to detect IE6 and serve a stand-alone CSS file specifically made for IE6."
+msgstr "Jei įjungta, Arjuna bandys aptikti IE6 ir pateikti atskirą CSS bylą, specialiai sukurtą IE6"
+
+#: Arjuna/functions.php:748
+msgid "Note: IE6 will still work the same if this option is turned off, however, you and your IE6 users will save an estimated 28kb (11 image and 2 CSS files) in bandwidth for first-time visitors. IE6 also might render more rapidly if this is turned on."
+msgstr "Pastaba: IE6 vistiek veiks taip pat, jei šis pasirinkimas išjungtas, bet jūs ir jūsų IE6 naudotojai sutaupysite apie 28kb (11paveikslėlių ir 2 CSS bylas) srauto pirmą kartą apsilankiusiems. "
+
+#: Arjuna/functions.php:755
+msgid "Save Changes"
+msgstr "Išsaugoti pakeitimus"
+
+#: Arjuna/functions.php:864
+msgid "Written by"
+msgstr "Parašė"
+
+#: Arjuna/functions.php:866
+#, php-format
+msgid "about %s ago"
+msgstr "prieš maždaug  %s "
+
+#: Arjuna/functions.php:868
+msgid "on"
+msgstr "Įjungta"
+
+#: Arjuna/functions.php:873
+msgid "Edit"
+msgstr "Taisyti"
+
+#: Arjuna/functions.php:900
+msgid "1 year"
+msgstr "1 metai"
+
+#: Arjuna/functions.php:900
+#, fuzzy, php-format
+msgid "%d years"
+msgstr "1 metai"
+
+#: Arjuna/functions.php:904
+msgid "1 month"
+msgstr "1 mėnuo"
+
+#: Arjuna/functions.php:904
+#, fuzzy, php-format
+msgid "%d months"
+msgstr "1 mėnuo"
+
+#: Arjuna/functions.php:908
+msgid "1 week"
+msgstr "1 savaitė"
+
+#: Arjuna/functions.php:908
+#, fuzzy, php-format
+msgid "%d weeks"
+msgstr "1 savaitė"
+
+#: Arjuna/functions.php:912
+msgid "1 day"
+msgstr "1 diena"
+
+#: Arjuna/functions.php:912
+#, fuzzy, php-format
+msgid "%d days"
+msgstr "1 diena"
+
+#: Arjuna/functions.php:916
+msgid "1 hour"
+msgstr "1 valanda"
+
+#: Arjuna/functions.php:916
+#, fuzzy, php-format
+msgid "%d hours"
+msgstr "1 valanda"
+
+#: Arjuna/functions.php:920
+msgid "1 minute"
+msgstr "1 minutė"
+
+#: Arjuna/functions.php:920
+#, fuzzy, php-format
+msgid "%d minutes"
+msgstr "1 minutė"
+
+#: Arjuna/functions.php:923
+msgid "1 second"
+msgstr "1 sekundė"
+
+#: Arjuna/functions.php:923
+#, fuzzy, php-format
+msgid "%d seconds"
+msgstr "1 sekundė"
+
+#: Arjuna/functions.php:1007
+#, fuzzy, php-format
+msgid "Page %s of %s"
+msgstr "Puslapis %"
+
+#: Arjuna/functions.php:1046
+#: Arjuna/functions.php:1049
+#, fuzzy, php-format
+msgid "Page %s"
+msgstr "Puslapis %"
+
+#: Arjuna/header.php:10
+msgid "Search Results:"
+msgstr "Paieškos rezultatai"
+
+#: Arjuna/header.php:37
+msgid "Skip to posts"
+msgstr "Praleisti į įrašus"
+
+#: Arjuna/header.php:63
+msgid "Search here..."
+msgstr "Ieškoti čia"
+
+#: Arjuna/header.php:64
+msgid "Find"
+msgstr "Rasti"
+
+#: Arjuna/header.php:70
+msgid "Home"
+msgstr "Pradžia"
+
+#: Arjuna/index.php:51
+#, fuzzy
+msgid "Previous Page"
+msgstr "Ankstesnis"
+
+#: Arjuna/index.php:51
+#, fuzzy
+msgid "Next Page"
+msgstr "Sekantis"
+
+#: Arjuna/page.php:34
+#: Arjuna/page_fullwidth.php:39
+msgid "Pages:"
+msgstr "Puslapiai:"
+
+#: Arjuna/page.php:34
+#: Arjuna/page_fullwidth.php:39
+msgid "Page %"
+msgstr "Puslapis %"
+
+#: Arjuna/page.php:36
+#: Arjuna/page_fullwidth.php:41
+#: Arjuna/single.php:51
+msgid "Edit in Admin"
+msgstr "Taisyti Administratoriuje"
+
+#: Arjuna/page.php:46
+#: Arjuna/page_fullwidth.php:51
+#: Arjuna/single.php:69
+msgid "There is nothing here."
+msgstr "Čia nieko nėra"
+
+#: Arjuna/search.php:8
+#, php-format
+msgid "Search Results on <em>%s</em>"
+msgstr "Paieškos <em>%s</em> rezultatai"
+
+#: Arjuna/search.php:65
+msgid "Your search returned no results."
+msgstr "Jūsų paieška nesėkminga"
+
+#: Arjuna/sidebar.php:17
+msgid "Recent Posts"
+msgstr "Paskutiniai įrašai"
+
+#: Arjuna/sidebar.php:24
+msgid "Browse by Tags"
+msgstr "Naršyti pagal žymes"
+
+#: Arjuna/sidebar.php:46
+msgid "Meta"
+msgstr "Valdymas"
+
+#: Arjuna/single.php:9
+#: Arjuna/single.php:60
+#, fuzzy
+msgid "Previous Post"
+msgstr "Ankstesnis"
+
+#: Arjuna/single.php:10
+#: Arjuna/single.php:61
+#, fuzzy
+msgid "Next Post"
+msgstr "Paskutiniai įrašai"
+
+#~ msgid "Upcoming Features"
+#~ msgstr "Ateities funkcijos"

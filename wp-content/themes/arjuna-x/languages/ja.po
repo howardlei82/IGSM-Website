@@ -1,0 +1,1371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arjuna X 1.6.10\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-29 21:54+0900\n"
+"PO-Revision-Date: 2011-04-29 21:54+0900\n"
+"Last-Translator: T Benjamin Y <good.blossom@gmail.com>\n"
+"Language-Team: T Benjamin Y <good.blossom@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SearchPath-0: arjuna-x\n"
+
+#: arjuna-x/404.php:4
+msgid "Error 404 - Not Found"
+msgstr "エラー 404 - 見つかりません"
+
+#: arjuna-x/404.php:5
+msgid "Sorry, but you are looking for something that isn't here. "
+msgstr "すみません、違うところを探しているようですよ。"
+
+#: arjuna-x/archive.php:8
+#, php-format
+msgid "Browsing Posts in <em>%s</em>"
+msgstr "カテゴリー <em>%s</em> の投稿をブラウズ中…"
+
+#: arjuna-x/archive.php:10
+#, php-format
+msgid "Browsing Posts tagged <em>%s</em>"
+msgstr "タグ <em>%s</em> の投稿をブラウズ中…"
+
+#: arjuna-x/archive.php:12
+#, php-format
+msgid "Browsing Posts published on %s"
+msgstr "%s の投稿をブラウズ中…"
+
+#: arjuna-x/archive.php:14
+#: arjuna-x/archive.php:16
+#, php-format
+msgid "Browsing Posts published in %s"
+msgstr "%s の投稿をブラウズ中…"
+
+#: arjuna-x/archive.php:14
+msgid "F, Y"
+msgstr "Y年n月"
+
+#: arjuna-x/archive.php:16
+msgid "Y"
+msgstr "Y年"
+
+#: arjuna-x/archive.php:19
+#, php-format
+msgid "Browsing Posts published by <em>%s</em>"
+msgstr "<em>%s</em> の投稿をブラウズ中…"
+
+#: arjuna-x/archive.php:21
+msgid "Blog Archives"
+msgstr "ブログアーカイブ"
+
+#: arjuna-x/archive.php:38
+#: arjuna-x/index.php:13
+#: arjuna-x/page.php:18
+#: arjuna-x/page_fullwidth.php:22
+#: arjuna-x/search.php:20
+#: arjuna-x/single.php:15
+msgid "continue reading..."
+msgstr "続きを読む…"
+
+#: arjuna-x/archive.php:49
+#: arjuna-x/index.php:25
+msgid "There is nothing here (yet)."
+msgstr "何もありません(まだ)。"
+
+#: arjuna-x/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "パスワード保護されています。コメントを見るにはパスワードを入力して下さい。"
+
+#: arjuna-x/comments.php:23
+msgid "Comments"
+msgstr "コメント"
+
+#: arjuna-x/comments.php:30
+msgid "Trackbacks"
+msgstr "トラックバック"
+
+#: arjuna-x/comments.php:37
+msgid "Leave a comment"
+msgstr "コメントする"
+
+#: arjuna-x/comments.php:40
+msgid "Trackback"
+msgstr "トラックバック"
+
+#: arjuna-x/comments.php:56
+msgid "No one has commented yet."
+msgstr "まだコメントはありません。"
+
+#: arjuna-x/comments.php:58
+msgid "Comments are closed."
+msgstr "コメントは締め切られました。"
+
+#: arjuna-x/comments.php:74
+msgid "No trackbacks yet."
+msgstr "まだトラックバックはありません。"
+
+#: arjuna-x/comments.php:76
+msgid "Trackbacks are disabled."
+msgstr "トラックバックはできません。"
+
+#: arjuna-x/functions.php:134
+msgid "Light Blue"
+msgstr "ライトブルー"
+
+#: arjuna-x/functions.php:135
+msgid "Bristol Blue"
+msgstr "ブリストルブルー"
+
+#: arjuna-x/functions.php:136
+msgid "Dark Blue"
+msgstr "ダークブルー"
+
+#: arjuna-x/functions.php:137
+msgid "Regimental Blue"
+msgstr "レジメンタルブルー"
+
+#: arjuna-x/functions.php:138
+msgid "Khaki"
+msgstr "カーキ"
+
+#: arjuna-x/functions.php:139
+msgid "Sea Green"
+msgstr "シーグリーン"
+
+#: arjuna-x/functions.php:140
+msgid "Light Red"
+msgstr "ライトレッド"
+
+#: arjuna-x/functions.php:141
+msgid "Purple"
+msgstr "パープル"
+
+#: arjuna-x/functions.php:142
+msgid "Light Gray"
+msgstr "ライトグレー"
+
+#: arjuna-x/functions.php:143
+msgid "Dark Gray"
+msgstr "ダークグレー"
+
+#: arjuna-x/functions.php:619
+#: arjuna-x/functions.php:626
+msgid "The uploaded file is not a valid image. Only JPEG, PNG and GIF is supported."
+msgstr "アップロードされたファイルは扱えません。JPEG、PNG、GIFだけをサポートします。"
+
+#: arjuna-x/functions.php:718
+msgid "Arjuna Options"
+msgstr "Arjunaの設定"
+
+#: arjuna-x/functions.php:737
+msgid "The Arjuna options have been saved."
+msgstr "Arjunaの設定を保存しました。"
+
+#: arjuna-x/functions.php:742
+msgid "Arjuna Theme Options"
+msgstr "Arjunaのテーマ設定"
+
+#: arjuna-x/functions.php:745
+msgid "This browser is outdated. Please <a href=\"http://www.microsoft.com/windows/internet-explorer/default.aspx\">upgrade</a> your browser to enjoy this website to its fullest extent."
+msgstr "お使いのブラウザーは古くありませんか。ブラウザーを<a href=\"http://windows.microsoft.com/ja-JP/internet-explorer/downloads/ie\">アップグレード</a>して、このサイトのすべてをお楽しみ下さい。"
+
+#: arjuna-x/functions.php:750
+#, php-format
+msgid "Thank you for using Arjuna, the free WordPress theme designed by %s."
+msgstr "ご利用ありがとうございます。Arjunaは %s がデザインしたフリーのWordPressテーマです。"
+
+#: arjuna-x/functions.php:752
+msgid "Follow Us"
+msgstr ""
+
+#: arjuna-x/functions.php:753
+msgid "to receive news, updates, and more."
+msgstr "ニュースやアップデート等を入手しましょう。"
+
+#: arjuna-x/functions.php:762
+msgid "Report Bugs"
+msgstr "バグの報告"
+
+#: arjuna-x/functions.php:763
+msgid "Report a Bug"
+msgstr "バグを報告する"
+
+#: arjuna-x/functions.php:763
+msgid "Please include your Wordpress version, browser details and a screenshot, if necessary."
+msgstr "お使いのWordpressのバージョン、ブラウザの詳細、スクリーンショットを必要に応じて添付して下さい。"
+
+#: arjuna-x/functions.php:766
+msgid "Useful Links"
+msgstr "便利なリンク"
+
+#: arjuna-x/functions.php:767
+msgid "Changelog"
+msgstr "変更履歴"
+
+#: arjuna-x/functions.php:768
+msgid "FAQ"
+msgstr "よくある質問"
+
+#: arjuna-x/functions.php:769
+msgid "Roadmap"
+msgstr "ロードマップ"
+
+#: arjuna-x/functions.php:770
+msgid "Leave Feedback"
+msgstr "フィードバックを残す"
+
+#: arjuna-x/functions.php:773
+msgid "Support &amp; Sales"
+msgstr "サポート &amp; セールス"
+
+#: arjuna-x/functions.php:774
+msgid "Contact Sales"
+msgstr "セールスに連絡"
+
+#: arjuna-x/functions.php:774
+msgid "Need installation or integration support? Need something customized or extended?"
+msgstr "インストールやインテグレーションのサポート、何かカスタマイズや拡張されたものがご入用ですか？"
+
+#: arjuna-x/functions.php:779
+msgid "Arjuna is completely free. Therefore, please understand that we do NOT offer free support. If you require support of any kind other than fixing a bug that is related to Arjuna, please request a quote from us."
+msgstr "Arjunaはまったく無料でご利用頂けます。ですが無償サポートは提供していないことをご了解下さい。Arjunaのバグを直す以外のサポートが必要な場合は、見積りをご依頼下さい。"
+
+#: arjuna-x/functions.php:791
+msgid "General Blog Appearance"
+msgstr "ブログの全般的な外観"
+
+#: arjuna-x/functions.php:794
+msgid "Logo"
+msgstr "ロゴ"
+
+#: arjuna-x/functions.php:799
+msgid "Header Logo"
+msgstr "ヘッダーのロゴ"
+
+#: arjuna-x/functions.php:807
+msgid "The custom logo will be included in the header, aligned to the left and vertically centered."
+msgstr "カスタムロゴは、ヘッダーの中で左寄せ、縦中央に置かれます。"
+
+#: arjuna-x/functions.php:809
+#, php-format
+msgid "You do not have write permissions for the upload directory %s. Please check with your webmaster or host to set write permissions for this directory."
+msgstr "ディレクトリ %s へアップロードする権限がありません。ウェブマスターやホスト管理者に問い合わせて、このディレクトリの書き込み権限を貰って下さい。"
+
+#: arjuna-x/functions.php:820
+msgid "First Header Menu"
+msgstr "上側のヘッダーメニュー"
+
+#: arjuna-x/functions.php:825
+#: arjuna-x/functions.php:979
+#: arjuna-x/functions.php:1320
+#: arjuna-x/functions.php:1593
+msgid "Enabled"
+msgstr "有効化"
+
+#: arjuna-x/functions.php:827
+#: arjuna-x/functions.php:981
+msgid "Enable this menu"
+msgstr "このメニューを有効化"
+
+#: arjuna-x/functions.php:829
+#: arjuna-x/functions.php:983
+msgid "If disabled, the menu will be hidden."
+msgstr "チェックを外すとメニューは表示されません。"
+
+#: arjuna-x/functions.php:833
+#: arjuna-x/functions.php:993
+msgid "Dropdown"
+msgstr "ドロップダウン"
+
+#: arjuna-x/functions.php:837
+#: arjuna-x/functions.php:997
+msgid "No dropdown menu"
+msgstr "ドロップダウンメニュー無し"
+
+#: arjuna-x/functions.php:841
+#: arjuna-x/functions.php:1001
+msgid "One-level dropdown menu"
+msgstr "一階層のドロップダウンメニュー"
+
+#: arjuna-x/functions.php:845
+#: arjuna-x/functions.php:1005
+msgid "Two-level dropdown menu"
+msgstr "二階層のドロップダウンメニュー"
+
+#: arjuna-x/functions.php:849
+msgid "Alignment"
+msgstr "配置"
+
+#: arjuna-x/functions.php:853
+msgid "Left"
+msgstr "左寄せ"
+
+#: arjuna-x/functions.php:857
+msgid "Right"
+msgstr "右寄せ"
+
+#: arjuna-x/functions.php:862
+#: arjuna-x/functions.php:1016
+#: arjuna-x/functions.php:1552
+msgid "Use"
+msgstr "使用するもの"
+
+#: arjuna-x/functions.php:866
+#: arjuna-x/functions.php:1021
+msgid "WordPress Custom Menus"
+msgstr "WordPressのカスタムメニュー"
+
+#: arjuna-x/functions.php:870
+#: arjuna-x/functions.php:1025
+msgid "Legacy Menus"
+msgstr "従来のメニュー"
+
+#: arjuna-x/functions.php:877
+#: arjuna-x/functions.php:1034
+msgid "Menu lists only"
+msgstr "メニューに表示するもの"
+
+#: arjuna-x/functions.php:881
+#: arjuna-x/functions.php:1038
+msgid "Pages"
+msgstr "ページ"
+
+#: arjuna-x/functions.php:885
+#: arjuna-x/functions.php:1042
+#: arjuna-x/sidebar.php:30
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: arjuna-x/functions.php:890
+#: arjuna-x/functions.php:1047
+msgid "Sorting Order"
+msgstr "ソート順"
+
+#: arjuna-x/functions.php:893
+#: arjuna-x/functions.php:907
+#: arjuna-x/functions.php:1050
+#: arjuna-x/functions.php:1064
+msgid "Sort menu items in"
+msgstr "メニュー項目を"
+
+#: arjuna-x/functions.php:895
+#: arjuna-x/functions.php:909
+#: arjuna-x/functions.php:1052
+#: arjuna-x/functions.php:1066
+msgid "ascending"
+msgstr "昇順で表示。"
+
+#: arjuna-x/functions.php:896
+#: arjuna-x/functions.php:910
+#: arjuna-x/functions.php:1053
+#: arjuna-x/functions.php:1067
+msgid "descending"
+msgstr "降順で表示。"
+
+#: arjuna-x/functions.php:898
+#: arjuna-x/functions.php:912
+#: arjuna-x/functions.php:1055
+#: arjuna-x/functions.php:1069
+msgid "order by"
+msgstr "ソート対象は"
+
+#: arjuna-x/functions.php:900
+#: arjuna-x/functions.php:1057
+msgid "Category Name"
+msgstr "カテゴリー名"
+
+#: arjuna-x/functions.php:901
+#: arjuna-x/functions.php:1058
+msgid "Category ID"
+msgstr "カテゴリーID"
+
+#: arjuna-x/functions.php:902
+#: arjuna-x/functions.php:1059
+msgid "Post Count"
+msgstr "投稿数"
+
+#: arjuna-x/functions.php:903
+#: arjuna-x/functions.php:1060
+msgid "Category Slug"
+msgstr "カテゴリースラグ(URL)"
+
+#: arjuna-x/functions.php:914
+#: arjuna-x/functions.php:1071
+msgid "Page Title"
+msgstr "ページタイトル"
+
+#: arjuna-x/functions.php:915
+#: arjuna-x/functions.php:1072
+msgid "Page ID"
+msgstr "ページID"
+
+#: arjuna-x/functions.php:916
+#: arjuna-x/functions.php:1073
+msgid "Page Slug"
+msgstr "ページスラグ(URL)"
+
+#: arjuna-x/functions.php:917
+#: arjuna-x/functions.php:1074
+msgid "Page Order"
+msgstr "ページ順序"
+
+#: arjuna-x/functions.php:923
+#: arjuna-x/functions.php:1080
+msgid "Menu Items"
+msgstr "メニュー項目"
+
+#: arjuna-x/functions.php:926
+#: arjuna-x/functions.php:1083
+msgid "Include categories"
+msgstr "表示するカテゴリー"
+
+#: arjuna-x/functions.php:936
+#: arjuna-x/functions.php:1093
+msgid "Exclude categories"
+msgstr "表示しないカテゴリー"
+
+#: arjuna-x/functions.php:943
+msgid "Note: While the above fields show empty categories, the theme will only display categories that have at least one published post in them."
+msgstr "注: 上の欄に、投稿のないカテゴリーがあっても、このテーマは公開された投稿が1件以上あるカテゴリーだけを表示します。"
+
+#: arjuna-x/functions.php:946
+#: arjuna-x/functions.php:1103
+msgid "Include pages"
+msgstr "表示するページ"
+
+#: arjuna-x/functions.php:956
+#: arjuna-x/functions.php:1113
+msgid "Exclude pages"
+msgstr "表示しないページ"
+
+#: arjuna-x/functions.php:974
+msgid "Second Header Menu"
+msgstr "下側のヘッダーメニュー"
+
+#: arjuna-x/functions.php:987
+msgid "Separators"
+msgstr "セパレーター"
+
+#: arjuna-x/functions.php:989
+msgid "Visually separate the menu buttons"
+msgstr "メニューボタンをはっきりと区切る"
+
+#: arjuna-x/functions.php:1010
+msgid "Home Button"
+msgstr "ホームボタン"
+
+#: arjuna-x/functions.php:1012
+msgid "Display Home button"
+msgstr "ホームボタンを表示する"
+
+#: arjuna-x/functions.php:1028
+msgid "If you use WP Custom Menus, please assign a custom menu in [[LINK_START]]Appearance > Menus[[LINK_END]]. Otherwise, the menu will fall back to displaying all pages."
+msgstr "WPカスタムメニューを使うには、[[LINK_START]]外観 > メニュー[[LINK_END]] でメニューを作成して下さい。そうしなければ全てのページを表示するメニューになります。"
+
+#: arjuna-x/functions.php:1100
+msgid "Note: While the above fields show empty categories, the theme will only display categories that have at least one published post in them.</span>"
+msgstr "注: 上の欄に投稿のないカテゴリーがあっても、このテーマは公開された投稿が1件以上あるカテゴリーだけを表示します。</span>"
+
+#: arjuna-x/functions.php:1130
+msgid "Background &amp; Color Schemes"
+msgstr "背景と色使い"
+
+#: arjuna-x/functions.php:1135
+msgid "Background Style"
+msgstr "背景のスタイル"
+
+#: arjuna-x/functions.php:1139
+msgid "Blueish gradient"
+msgstr "ブルーの濃淡"
+
+#: arjuna-x/functions.php:1140
+msgid "Gray gradient"
+msgstr "グレーの濃淡"
+
+#: arjuna-x/functions.php:1141
+msgid "Gray gradient (reverse)"
+msgstr "グレーの濃淡(逆向き)"
+
+#: arjuna-x/functions.php:1142
+msgid "Khaki gradient"
+msgstr "カーキの濃淡"
+
+#: arjuna-x/functions.php:1154
+msgid "Solid Color"
+msgstr "単色"
+
+#: arjuna-x/functions.php:1157
+msgid "Button Style"
+msgstr "ボタンのスタイル"
+
+#: arjuna-x/functions.php:1163
+msgid "If the background is a solid color, you can choose the style of the buttons yourself."
+msgstr "背景が単色の時はボタンのスタイルを選択できます。"
+
+#: arjuna-x/functions.php:1167
+msgid "Header Image"
+msgstr "ヘッダー画像"
+
+#: arjuna-x/functions.php:1191
+msgid "Footer Style"
+msgstr "フッターのスタイル"
+
+#: arjuna-x/functions.php:1200
+msgid "Match Header Image"
+msgstr "ヘッダー画像に合わせる"
+
+#: arjuna-x/functions.php:1211
+#: arjuna-x/functions.php:1251
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: arjuna-x/functions.php:1213
+#, php-format
+msgid "Note: To see how the sidebar and its widget bars work in Arjuna, please read our %sFAQ%s."
+msgstr "注: サイドバーとウィジェットをArjunaがどのように表示するかについては %sFAQ%s をご覧下さい。"
+
+#: arjuna-x/functions.php:1217
+msgid "Sidebar Position"
+msgstr "サイドバーの位置"
+
+#: arjuna-x/functions.php:1222
+msgid "Right sidebar"
+msgstr "右に置く"
+
+#: arjuna-x/functions.php:1227
+msgid "Left sidebar"
+msgstr "左に置く"
+
+#: arjuna-x/functions.php:1232
+msgid "No sidebar"
+msgstr "サイドバー無し"
+
+#: arjuna-x/functions.php:1237
+msgid "Sidebar Width"
+msgstr "サイドバーの幅"
+
+#: arjuna-x/functions.php:1249
+msgid "Content Area"
+msgstr "コンテンツ領域"
+
+#: arjuna-x/functions.php:1257
+msgid "Use the slider to adjust the width of the sidebar."
+msgstr "スライダーを操作してサイドバーの幅を調整します。"
+
+#: arjuna-x/functions.php:1261
+msgid "Default Widgets"
+msgstr "既定のウィジェット"
+
+#: arjuna-x/functions.php:1263
+msgid "Display default sidebar widgets if the widget bars are empty."
+msgstr "ウィジェットバーが空ならデフォルトのサイドバーウィジェットを表示する。"
+
+#: arjuna-x/functions.php:1264
+msgid "If enabled, the following widgets will be displayed if the widget bar is empty: <b>Sidebar Top:</b> Recent Posts and Browse by Tags, <b>Sidebar Left:</b> Categories, <b>Siderbar Right:</b> Meta"
+msgstr "チェックを入れると、ウィジェットバーが空なら以下のウィジェットが表示されます。<b>サイドバー上部:</b> 最近の記事・タグでブラウズ、<b>サイドバー左側:</b> カテゴリー、<b>サイドバー右側:</b> メタ"
+
+#: arjuna-x/functions.php:1268
+msgid "Sidebar Buttons"
+msgstr "サイドバーのボタン"
+
+#: arjuna-x/functions.php:1275
+msgid "Use extended button."
+msgstr "拡張ボタンを使う。"
+
+#: arjuna-x/functions.php:1276
+#: arjuna-x/functions.php:1284
+#: arjuna-x/functions.php:1292
+#: arjuna-x/functions.php:1300
+msgid "Label"
+msgstr "ラベル"
+
+#: arjuna-x/functions.php:1282
+msgid "Your Twitter URL"
+msgstr "TwitterのURL"
+
+#: arjuna-x/functions.php:1290
+msgid "Your Facebook URL"
+msgstr "FacebookのURL"
+
+#: arjuna-x/functions.php:1298
+msgid "Your LinkedIn URL"
+msgstr "LinkedInのURL"
+
+#: arjuna-x/functions.php:1304
+msgid "Choose which buttons will be included on the very top of the sidebar."
+msgstr "サイドバーの一番上に表示するボタンを選択します。"
+
+#: arjuna-x/functions.php:1305
+msgid "The extended RSS button will allow visitors to choose between all available RSS feeds, depending on the page they are currently browsing."
+msgstr "拡張RSSボタンを使うと、訪問者はRSSフィードを選ぶことができます。選択できるRSSフィードはブラウズ中のページによって異なります。"
+
+#: arjuna-x/functions.php:1315
+msgid "Search"
+msgstr "検索"
+
+#: arjuna-x/functions.php:1322
+msgid "Enable WordPress search"
+msgstr "WordPressサーチを有効にする"
+
+#: arjuna-x/functions.php:1324
+msgid "If disabled, the search field will not be included in the header."
+msgstr "チェックを外すと、検索フィールドはヘッダーに表示されません。"
+
+#: arjuna-x/functions.php:1330
+msgid "Position Search"
+msgstr "検索ボックスの位置"
+
+#: arjuna-x/functions.php:1334
+msgid "Top right (in header)"
+msgstr "右上 (ヘッダー内)"
+
+#: arjuna-x/functions.php:1338
+msgid "Bottom right (in header)"
+msgstr "右下 (ヘッダー内)"
+
+#: arjuna-x/functions.php:1348
+msgid "General Options"
+msgstr "全般的なオプション"
+
+#: arjuna-x/functions.php:1351
+msgid "Index Pages"
+msgstr "インデックスページ"
+
+#: arjuna-x/functions.php:1353
+msgid "Index pages include the homepage (unless it is static), archives, category and tag listing pages as well as search results pages. Basically any page that displays a listing of posts."
+msgstr "インデックスページとは、ホームページ (静的でないもの)、アーカイブ、カテゴリーおよびタグ毎の一覧ページ、それと検索結果ページです。一般的には、投稿のリストを表示するページです。"
+
+#: arjuna-x/functions.php:1357
+msgid "Display Tags"
+msgstr "タグの表示"
+
+#: arjuna-x/functions.php:1359
+msgid "Display the tags of a post right below each post."
+msgstr "投稿のタグを、投稿の直下に表示する。"
+
+#: arjuna-x/functions.php:1363
+msgid "Display Categories"
+msgstr "カテゴリーの表示"
+
+#: arjuna-x/functions.php:1365
+msgid "Display the categories of a post right below each post."
+msgstr "投稿のカテゴリーを、投稿の直下に表示する。"
+
+#: arjuna-x/functions.php:1375
+msgid "Posts and Pages"
+msgstr "投稿とページ"
+
+#: arjuna-x/functions.php:1380
+msgid "Display Author"
+msgstr "作成者の表示"
+
+#: arjuna-x/functions.php:1382
+msgid "Include the author of a post/page."
+msgstr "投稿やページの作成者を表示する。"
+
+#: arjuna-x/functions.php:1386
+msgid "Display Time"
+msgstr "時刻の表示"
+
+#: arjuna-x/functions.php:1388
+msgid "Include the time and date of when the post/page has been published, instead of only the date."
+msgstr "投稿やページが公開された日付だけでなく、時刻も表示する。"
+
+#: arjuna-x/functions.php:1392
+msgid "Display Info Bar for Pages"
+msgstr "ページの情報バーの表示"
+
+#: arjuna-x/functions.php:1394
+msgid "Display the info bar right below the title of pages."
+msgstr "ページのタイトル直下に情報バーを表示する。"
+
+#: arjuna-x/functions.php:1395
+msgid "The info bar usually includes the author of the page, the publish date, and the comments button. If turned off, this option entirely hides the bar so that only the title of the page is shown."
+msgstr "情報バーは普通、ページの作成者、公開日、コメントボタンを表示します。チェックを外すとバーは表示されず、ページのタイトルだけが表示されます。"
+
+#: arjuna-x/functions.php:1399
+msgid "Navigation Links"
+msgstr "ナビゲーション用リンク"
+
+#: arjuna-x/functions.php:1401
+msgid "Display links to the previous and next posts above each post."
+msgstr "各投稿の上側に、前の記事と次の記事へのリンクを表示する。"
+
+#: arjuna-x/functions.php:1402
+msgid "Display links to the previous and next posts below each post."
+msgstr "各投稿の下側に、前の記事と次の記事へのリンクを表示する。"
+
+#: arjuna-x/functions.php:1403
+msgid "Note: The links will only be shown on permalink pages, i.e. the URL where one single post is displayed."
+msgstr "注: これらのリンクは、単一の投稿またはページが表示されている時(URLがパーマリンク)だけ表示されます。"
+
+#: arjuna-x/functions.php:1413
+msgid "Comments &amp; Trackbacks"
+msgstr "コメントとトラックバック"
+
+#: arjuna-x/functions.php:1418
+msgid "Display comments as follows"
+msgstr "コメントを次のように表示"
+
+#: arjuna-x/functions.php:1423
+msgid "Aligned to the left"
+msgstr "左寄せ"
+
+#: arjuna-x/functions.php:1428
+msgid "Aligned to the right"
+msgstr "右寄せ"
+
+#: arjuna-x/functions.php:1433
+msgid "Alternate between left and right alignment"
+msgstr "左右交互に寄せる"
+
+#: arjuna-x/functions.php:1438
+msgid "Date Format"
+msgstr "日付の書式"
+
+#: arjuna-x/functions.php:1440
+msgid "Passed Time (Example: <em>&quot;Written by admin about 3 days ago.&quot;</em>)"
+msgstr "経過時間 (例: <em>&quot;書いた人 admin 約 3 日 前.&quot;</em>)"
+
+#: arjuna-x/functions.php:1441
+#, php-format
+msgid "Default Date Format (Example: <em>&quot;Written by admin on %s&quot;</em>)"
+msgstr "標準の日付形式 (例: <em>&quot;書いた人 admin @ %s&quot;</em>)"
+
+#: arjuna-x/functions.php:1442
+msgid "The default date format can be customized in Settings &gt; General."
+msgstr "標準の日付形式は WordPress のメニュー <strong>設定 &gt; 一般</strong> で設定できます。"
+
+#: arjuna-x/functions.php:1446
+msgid "Comment Display"
+msgstr "コメントの表示"
+
+#: arjuna-x/functions.php:1448
+msgid "Hide any traces of comments when they are disabled for <strong>Pages</strong>."
+msgstr "<strong>ページ</strong>について、コメントが禁止されていたら過去のコメントを隠す。"
+
+#: arjuna-x/functions.php:1449
+msgid "Hide any traces of comments when they are disabled for <strong>Posts</strong>."
+msgstr "<strong>投稿</strong>について、コメントが禁止されていたら過去のコメントを隠す。"
+
+#: arjuna-x/functions.php:1450
+msgid "Note: If enabled, the comments tab section as well as the comment form on pages/posts will be removed."
+msgstr "注: チェックを入れると、ページや投稿のコメント表示エリアとコメント入力フォームが隠されます。"
+
+#: arjuna-x/functions.php:1454
+msgid "Trackback Display"
+msgstr "トラックバックの表示"
+
+#: arjuna-x/functions.php:1456
+msgid "Hide any traces of trackbacks and pingbacks when they are disabled for <strong>Pages</strong>."
+msgstr "<strong>ページ</strong>について、トラックバックとピンバックが禁止されていたらそれらの過去の履歴を隠す。"
+
+#: arjuna-x/functions.php:1457
+msgid "Hide any traces of trackbacks and pingbacks when they are disabled for <strong>Posts</strong>."
+msgstr "<strong>投稿</strong>について、トラックバックとピンバックが禁止されていたらそれらの過去の履歴を隠す。"
+
+#: arjuna-x/functions.php:1458
+msgid "Note: If enabled, the trackbacks tab section on pages/posts will be removed."
+msgstr "注: チェックを入れると、ページや投稿のトラックバック表示エリアが隠されます。"
+
+#: arjuna-x/functions.php:1468
+msgid "Excerpts"
+msgstr "投稿の抜粋"
+
+#: arjuna-x/functions.php:1473
+msgid "Show excerpts on"
+msgstr "抜粋の表示"
+
+#: arjuna-x/functions.php:1475
+msgid "Homepage/Index page"
+msgstr "ホームページ/インデックスページ"
+
+#: arjuna-x/functions.php:1476
+msgid "Category &amp; tag pages"
+msgstr "カテゴリーとタグのページ"
+
+#: arjuna-x/functions.php:1477
+msgid "Archive pages"
+msgstr "アーカイブのページ"
+
+#: arjuna-x/functions.php:1478
+msgid "Search pages"
+msgstr "検索結果のページ"
+
+#: arjuna-x/functions.php:1479
+msgid "Author pages"
+msgstr "作成者のページ"
+
+#: arjuna-x/functions.php:1480
+msgid "Note: If enabled, an excerpt will be shown instead of the full post on selected pages. If a post does not have a custom excerpt, an automatic excerpt of the first 55 words will be displayed."
+msgstr "注: チェックを入れると、そのページに投稿の全文を表示する代わりに抜粋を表示します。ある投稿がそれ用の抜粋を持たない時は、最初の55ワードを自動的に抜粋として表示します。"
+
+#: arjuna-x/functions.php:1490
+#: arjuna-x/functions.php:1495
+msgid "Pagination"
+msgstr "ページ割り"
+
+#: arjuna-x/functions.php:1497
+msgid "Use Arjuna pagination"
+msgstr "Arjuna自身のページ割りを使用"
+
+#: arjuna-x/functions.php:1498
+msgid "If enabled, Arjuna will use its own native pagination to allow your users to navigate the blog using pages."
+msgstr "チェックを入れると、Arjuna自身でページ割りを行い、ブログをページ単位で読むことができます。"
+
+#: arjuna-x/functions.php:1502
+msgid "Page Range"
+msgstr "ページ範囲"
+
+#: arjuna-x/functions.php:1509
+msgid "The number of page buttons that will appear before and after the current page button."
+msgstr " &mdash; 現在のページの前後に表示するページボタンの数。"
+
+#: arjuna-x/functions.php:1513
+msgid "Page Anchors"
+msgstr "ページアンカー"
+
+#: arjuna-x/functions.php:1520
+msgid "The number of page buttons that will always appear at the beginning and the end of the pagination."
+msgstr " &mdash; ページ割りの最初と最後に必ず表示するページボタンの数。"
+
+#: arjuna-x/functions.php:1524
+msgid "Page Gap"
+msgstr "ページギャップ"
+
+#: arjuna-x/functions.php:1531
+msgid "The number of page buttons in a gap before an ellipsis (...) is displayed."
+msgstr " &mdash; ギャップがこのページ数を超えると省略表示(...)する。"
+
+#: arjuna-x/functions.php:1536
+msgid "Use WordPress default"
+msgstr "WordPressのデフォルトのページ割りを使用"
+
+#: arjuna-x/functions.php:1537
+msgid "The default depends on your WordPress version and whether you have any pagination plugins activated. If the wp-paginate or wp-pagenavi plugin is activated, then Arjuna will use these plugins to create the pagination."
+msgstr "デフォルトは、WordPressのバージョンと、ページ割りプラグインが有効かどうかによって変わります。wp-paginate または wp-pagenavi プラグインが有効なら、Arjunaはそれを使ってページ割りを行います。"
+
+#: arjuna-x/functions.php:1547
+msgid "RSS Feeds"
+msgstr "RSSフィード"
+
+#: arjuna-x/functions.php:1556
+msgid "Default RSS Feeds"
+msgstr "既定のRSSフィード"
+
+#: arjuna-x/functions.php:1560
+msgid "Google Feedburner"
+msgstr ""
+
+#: arjuna-x/functions.php:1567
+msgid "Redirect Feeds to"
+msgstr "フィードのリダイレクト先"
+
+#: arjuna-x/functions.php:1570
+msgid "Arjuna will redirect all of your existing feeds, including category and tag feeds, to Google Feedburner."
+msgstr "Arjunaは、カテゴリーとタグのフィードを含む、あなたのすべてのフィードをGoogle FeedburnerのこのURLへリダイレクトします。"
+
+#: arjuna-x/functions.php:1574
+msgid "Redirect Comment Feeds to"
+msgstr "コメントフィードのリダイレクト先"
+
+#: arjuna-x/functions.php:1577
+msgid "Arjuna will redirect your comment feeds to Google Feedburner to this URL."
+msgstr "Arjunaは、あなたのコメントフィードをGoogle FeedburnerのこのURLへリダイレクトします。"
+
+#: arjuna-x/functions.php:1587
+msgid "Twitter Widget"
+msgstr "Twitterウィジェット"
+
+#: arjuna-x/functions.php:1589
+msgid "Note: The minimum sidebar width for the twitter widget to not overflow the sidebar is 280px. Please adjust your sidebar accordingly."
+msgstr "注: twitterウィジェットがサイドバーをはみ出さない為には、サイドバーの幅を280px以上に調整して下さい。"
+
+#: arjuna-x/functions.php:1597
+#: arjuna-x/functions.php:1642
+#: arjuna-x/functions.php:1655
+msgid "Yes"
+msgstr "はい"
+
+#: arjuna-x/functions.php:1601
+#: arjuna-x/functions.php:1646
+#: arjuna-x/functions.php:1659
+msgid "No"
+msgstr "いいえ"
+
+#: arjuna-x/functions.php:1608
+msgid "Widget Title"
+msgstr "ウィジェットのタイトル"
+
+#: arjuna-x/functions.php:1611
+msgid "The title of the sidebar widget."
+msgstr "サイドバーウィジェットのタイトルです。"
+
+#: arjuna-x/functions.php:1615
+msgid "Twitter Username"
+msgstr "Twitterのユーザー名"
+
+#: arjuna-x/functions.php:1621
+msgid "Height"
+msgstr "高さ"
+
+#: arjuna-x/functions.php:1627
+msgid "Number of Tweets"
+msgstr "つぶやきの数"
+
+#: arjuna-x/functions.php:1638
+msgid "Scrollbar"
+msgstr "スクロールバーの使用"
+
+#: arjuna-x/functions.php:1651
+msgid "Show Timestamp"
+msgstr "タイムスタンプの表示"
+
+#: arjuna-x/functions.php:1670
+msgid "Miscellaneous"
+msgstr "その他の設定"
+
+#: arjuna-x/functions.php:1675
+msgid "Append to page title"
+msgstr "ページタイトルへの追加"
+
+#: arjuna-x/functions.php:1677
+#, php-format
+msgid "Blog Name (&quot; - %s&quot;)"
+msgstr "ブログ名 (&quot; - %s&quot;)"
+
+#: arjuna-x/functions.php:1678
+#: arjuna-x/functions.php:1686
+msgid "Custom:"
+msgstr "カスタム:"
+
+#: arjuna-x/functions.php:1679
+msgid "This will be appended to the page title of every web page (posts, pages, categories, etc.)"
+msgstr "すべてのwebページ（投稿、ページ、カテゴリー等）のタイトルに追加されます。"
+
+#: arjuna-x/functions.php:1683
+msgid "Footer Copyright Notice"
+msgstr "フッターのコピーライト告知"
+
+#: arjuna-x/functions.php:1685
+#, php-format
+msgid "Blog Name (&quot;%s&quot;)"
+msgstr "ブログ名 (&quot;%s&quot;)"
+
+#: arjuna-x/functions.php:1687
+msgid "The copyright notice will be displayed in the footer."
+msgstr "コピーライト告知はフッターに表示されます。"
+
+#: arjuna-x/functions.php:1691
+msgid "Enable JavaScript menus"
+msgstr "JavaScriptメニュー"
+
+#: arjuna-x/functions.php:1693
+msgid "Enable JavaScript dropdown menus. This will improve usability of the menus. If JavaScript is disabled, CSS-based dropdown menus will be used instead."
+msgstr "JavaScriptによるドロップダウンメニューを有効にする。これによりメニューが便利になります。JavaScriptが無効な時は、CSSによるドロップダウンメニューが代わりに使われます。"
+
+#: arjuna-x/functions.php:1697
+msgid "Show IE6 Notice"
+msgstr "IE6の通知"
+
+#: arjuna-x/functions.php:1699
+msgid "Display a notice to Internet Explorer 6 users to update their browsers."
+msgstr "Internet Explorer 6 のユーザーにアップデートを促す告知を表示する。"
+
+#: arjuna-x/functions.php:1703
+msgid "Custom CSS"
+msgstr "カスタムCSS"
+
+#: arjuna-x/functions.php:1710
+#, php-format
+msgid "Arjuna needs write permissions to create a new file %s, which will contain the custom CSS."
+msgstr "カスタムCSSを保持するファイル %s をArjunaが作成する為に、書込みパーミッションが必要です。"
+
+#: arjuna-x/functions.php:1712
+msgid "Enable custom CSS rules"
+msgstr "カスタムCSSルールを有効にする"
+
+#: arjuna-x/functions.php:1713
+msgid "If enabled, Arjuna will include your custom CSS rules with every page call. If you intend to make some minor changes to the theme, enabling this option ensures that you can safely upgrade Arjuna without losing your custom CSS. We recommend to use child themes for more serious customizations."
+msgstr "チェックを入れると、ArjunaはあなたのカスタムCSS規則を含むユーザースタイルシートを生成します。ユーザースタイルシートはすべてのページに適用されます。テーマにちょっとした変更をするつもりなら、カスタムCSSを失わずにArjunaを安全にアップグレードする為、このオプションを有効にしておくとよいでしょう。大規模なカスタマイズには子テーマの使用をお薦めします。"
+
+#: arjuna-x/functions.php:1729
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: arjuna-x/functions.php:1840
+msgid "Written by"
+msgstr "書いた人"
+
+#: arjuna-x/functions.php:1842
+#: arjuna-x/functions.php:1882
+#, php-format
+msgid "about %s ago"
+msgstr "約 %s 前"
+
+#: arjuna-x/functions.php:1844
+#: arjuna-x/functions.php:1884
+msgid "on"
+msgstr "@"
+
+#: arjuna-x/functions.php:1849
+#: arjuna-x/functions.php:1888
+msgid "Edit"
+msgstr "編集する"
+
+#: arjuna-x/functions.php:1852
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントはモデレート待ちです。"
+
+#: arjuna-x/functions.php:1880
+msgid "Pinged by"
+msgstr "ピンバック元"
+
+#: arjuna-x/functions.php:1891
+msgid "Your trackback is awaiting moderation."
+msgstr "あなたのトラックバックはモデレート待ちです。"
+
+#: arjuna-x/functions.php:1922
+msgid "1 year"
+msgstr "1 年"
+
+#: arjuna-x/functions.php:1922
+#, php-format
+msgid "%d years"
+msgstr "%d 年"
+
+#: arjuna-x/functions.php:1926
+msgid "1 month"
+msgstr "1 ヵ月"
+
+#: arjuna-x/functions.php:1926
+#, php-format
+msgid "%d months"
+msgstr "%d ヵ月"
+
+#: arjuna-x/functions.php:1930
+msgid "1 week"
+msgstr "1 週間"
+
+#: arjuna-x/functions.php:1930
+#, php-format
+msgid "%d weeks"
+msgstr "%d 週間"
+
+#: arjuna-x/functions.php:1934
+msgid "1 day"
+msgstr "1 日"
+
+#: arjuna-x/functions.php:1934
+#, php-format
+msgid "%d days"
+msgstr "%d 日"
+
+#: arjuna-x/functions.php:1938
+msgid "1 hour"
+msgstr "1 時間"
+
+#: arjuna-x/functions.php:1938
+#, php-format
+msgid "%d hours"
+msgstr "%d 時間"
+
+#: arjuna-x/functions.php:1942
+msgid "1 minute"
+msgstr "1 分"
+
+#: arjuna-x/functions.php:1942
+#, php-format
+msgid "%d minutes"
+msgstr "%d 分"
+
+#: arjuna-x/functions.php:1945
+msgid "1 second"
+msgstr "1 秒"
+
+#: arjuna-x/functions.php:1945
+#, php-format
+msgid "%d seconds"
+msgstr "%d 秒"
+
+#: arjuna-x/functions.php:2027
+#: arjuna-x/functions.php:2101
+#, php-format
+msgid "Page %s of %s"
+msgstr "ページ %s / %s"
+
+#: arjuna-x/functions.php:2069
+#: arjuna-x/functions.php:2072
+#: arjuna-x/functions.php:2114
+#: arjuna-x/functions.php:2117
+#, php-format
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: arjuna-x/functions.php:2153
+msgid "Comment Pages:"
+msgstr "コメントページ:"
+
+#: arjuna-x/functions.php:2154
+msgid "Previous"
+msgstr "前へ"
+
+#: arjuna-x/functions.php:2154
+msgid "Next"
+msgstr "次へ"
+
+#: arjuna-x/functions.php:2498
+msgid "Please go to Appearance > Arjuna Options to configure your Arjuna twitter widget."
+msgstr "&quot;外観 &gt; Arjunaの設定&quot; を開いてtwitterウィジェットを設定して下さい。"
+
+#: arjuna-x/functions.php:2505
+#: arjuna-x/functions.php:2514
+msgid "Arjuna Twitter Profile Widget"
+msgstr ""
+
+#: arjuna-x/functions.php:2509
+msgid "Display Twitter Goodies Profile Widget"
+msgstr ""
+
+#: arjuna-x/functions.php:2528
+msgid "Home"
+msgstr "ホーム"
+
+#: arjuna-x/header.php:19
+msgid "Skip to posts"
+msgstr "投稿へジャンプ"
+
+#: arjuna-x/page.php:11
+#: arjuna-x/page_fullwidth.php:15
+msgid "Permalink to"
+msgstr "パーマリンク"
+
+#: arjuna-x/page.php:20
+#: arjuna-x/page_fullwidth.php:24
+msgid "Pages:"
+msgstr "ページ:"
+
+#: arjuna-x/page.php:20
+#: arjuna-x/page_fullwidth.php:24
+msgid "Page %"
+msgstr "ページ %"
+
+#: arjuna-x/page.php:32
+#: arjuna-x/page_fullwidth.php:37
+#: arjuna-x/single.php:36
+msgid "There is nothing here."
+msgstr "何もありません。"
+
+#: arjuna-x/search.php:8
+#, php-format
+msgid "Search Results on <em>%s</em>"
+msgstr "<em>%s</em> での検索結果"
+
+#: arjuna-x/search.php:32
+msgid "Your search returned no results."
+msgstr "見つかりませんでした。"
+
+#: arjuna-x/sidebar.php:12
+msgid "Recent Posts"
+msgstr "最近の記事"
+
+#: arjuna-x/sidebar.php:19
+msgid "Browse by Tags"
+msgstr "タグでブラウズ"
+
+#: arjuna-x/sidebar.php:44
+msgid "Meta"
+msgstr "メタ"
+
+#: arjuna-x/single.php:18
+msgid "Previous Page"
+msgstr "前の記事"
+
+#: arjuna-x/single.php:18
+msgid "Next Page"
+msgstr "次の記事"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:9
+#: arjuna-x/templates/comments/reply-form-basic.php:14
+msgid "Leave a Comment"
+msgstr "コメントする"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:9
+#: arjuna-x/templates/comments/reply-form-basic.php:15
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "%s へ返信する"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:11
+#: arjuna-x/templates/comments/reply-form-basic.php:16
+msgid "Cancel Reply"
+msgstr "返信をキャンセル"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:15
+#: arjuna-x/templates/comments/reply-form-basic.php:18
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr "コメントするには %sログイン%s して下さい。"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:20
+#: arjuna-x/templates/comments/reply-form-advanced.php:31
+#: arjuna-x/templates/comments/reply-form-basic.php:3
+#: arjuna-x/templates/comments/reply-form-basic.php:10
+msgid "Your name"
+msgstr "あなたの名前"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:21
+#: arjuna-x/templates/comments/reply-form-advanced.php:32
+#: arjuna-x/templates/comments/reply-form-basic.php:4
+#: arjuna-x/templates/comments/reply-form-basic.php:11
+msgid "Your email"
+msgstr "メールアドレス"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:22
+#: arjuna-x/templates/comments/reply-form-advanced.php:33
+#: arjuna-x/templates/comments/reply-form-basic.php:5
+#: arjuna-x/templates/comments/reply-form-basic.php:12
+msgid "Your website"
+msgstr "ウェブサイトURL"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:23
+#: arjuna-x/templates/comments/reply-form-advanced.php:43
+#: arjuna-x/templates/comments/reply-form-basic.php:6
+#: arjuna-x/templates/comments/reply-form-basic.php:17
+msgid "Your comment"
+msgstr "コメント"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:26
+#: arjuna-x/templates/comments/reply-form-basic.php:19
+#, php-format
+msgid "Logged in as %s."
+msgstr "%s でログイン中。"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:26
+#: arjuna-x/templates/comments/reply-form-basic.php:19
+msgid "Log out of this account"
+msgstr "アカウントからログアウト"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:26
+#: arjuna-x/templates/comments/reply-form-basic.php:19
+msgid "Logout"
+msgstr "ログアウト"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:45
+msgid "Subscribe to comments"
+msgstr "コメントを購読する"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:46
+msgid "Leave comment"
+msgstr "コメントする"
+
+#: arjuna-x/templates/core/head-title-tag.php:5
+msgid "Search Results:"
+msgstr "検索結果:"
+
+#: arjuna-x/templates/core/pagination.php:4
+msgid "Prev"
+msgstr "前へ"
+
+#: arjuna-x/templates/core/pagination.php:15
+msgid "Newer Entries"
+msgstr "次の記事"
+
+#: arjuna-x/templates/core/pagination.php:16
+msgid "Older Entries"
+msgstr "前の記事"
+
+#: arjuna-x/templates/header/search.php:9
+msgid "Search here..."
+msgstr "ここから検索..."
+
+#: arjuna-x/templates/header/search.php:10
+msgid "Find"
+msgstr "検索"
+
+#: arjuna-x/templates/post/post-footer.php:10
+#: arjuna-x/templates/post/single-post-footer.php:7
+msgid "<i>none</i>"
+msgstr "<i>なし</i>"
+
+#: arjuna-x/templates/post/post-footer.php:15
+msgid "Read more"
+msgstr "もっと読む"
+
+#: arjuna-x/templates/post/post-header.php:8
+#: arjuna-x/templates/post/single-post-header.php:8
+msgid " at "
+msgstr " @ "
+
+#: arjuna-x/templates/post/post-header.php:17
+#: arjuna-x/templates/post/single-post-header.php:17
+msgid "Pass required"
+msgstr "認証が必要です"
+
+#: arjuna-x/templates/post/post-header.php:19
+#: arjuna-x/templates/post/single-post-header.php:19
+msgid "Comments off"
+msgstr "コメントはできません"
+
+#: arjuna-x/templates/post/post-header.php:21
+#: arjuna-x/templates/post/single-post-header.php:21
+msgid "No comments"
+msgstr "コメントなし"
+
+#: arjuna-x/templates/post/post-header.php:21
+#: arjuna-x/templates/post/single-post-header.php:21
+msgid "1 comment"
+msgstr "1 件のコメント"
+
+#: arjuna-x/templates/post/post-header.php:21
+#: arjuna-x/templates/post/single-post-header.php:21
+#, php-format
+msgid "% comments"
+msgstr "% 件のコメント"
+
+#: arjuna-x/templates/post/single-page-footer.php:2
+#: arjuna-x/templates/post/single-post-footer.php:11
+msgid "Edit in Admin"
+msgstr "管理画面で編集"
+
+#: arjuna-x/templates/post/single-post-bottom-links.php:2
+#: arjuna-x/templates/post/single-post-top-links.php:2
+msgid "Previous Post"
+msgstr "前の記事"
+
+#: arjuna-x/templates/post/single-post-bottom-links.php:3
+#: arjuna-x/templates/post/single-post-top-links.php:3
+msgid "Next Post"
+msgstr "次の記事"
+
+#: arjuna-x/templates/sidebar/icons.php:11
+#, php-format
+msgid "Posts in %s"
+msgstr "%s の投稿"
+
+#: arjuna-x/templates/sidebar/icons.php:15
+#: arjuna-x/templates/sidebar/icons.php:21
+#, php-format
+msgid "Posts by %s"
+msgstr "%s による投稿"
+
+#: arjuna-x/templates/sidebar/icons.php:20
+msgid "Post Comments"
+msgstr "投稿へのコメント"
+
+#: arjuna-x/templates/sidebar/icons.php:25
+msgid "Search Results"
+msgstr "検索結果"
+
+#: arjuna-x/templates/sidebar/icons.php:29
+msgid "Latest Posts"
+msgstr "最近の投稿"
+
+#: arjuna-x/templates/sidebar/icons.php:30
+msgid "Latest Comments"
+msgstr "最近のコメント"
+

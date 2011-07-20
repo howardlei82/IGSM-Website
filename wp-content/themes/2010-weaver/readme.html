@@ -1,0 +1,825 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Twenty Ten Weaver Theme</title>
+  <style type="text/css">
+<!--
+body {
+	background: #eeeeee;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #000000;
+	text-align: left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	background-color: #F5F5DC;
+}
+#container {
+	background-color: #00CC00;
+}
+#mainContent {
+	background-color: #FFFFCD;
+}
+
+.oneColFixCtr #container {
+	width: 750px;  /* using 20px less than a full 800px width allows for browser chrome and avoids a horizontal scroll bar */
+	background: #FFFFCD;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	border: 1px solid #000000;
+	text-align: left; /* this overrides the text-align: center on the body element. */
+}
+.oneColFixCtr #mainContent {
+	padding: 0 20px; /* remember that padding is the space inside the div box and margin is the space outside the div box */
+	font-size:12px;
+}
+h3 {
+	font-size: medium;
+	font-weight: bold;
+	color: #000066;
+	text-decoration: underline;
+}
+h2 {
+	font-size: large;
+	font-weight: bold;
+	color: #000066;
+	text-decoration: underline;
+	margin-top: 40pt;
+}
+.codebox {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 10px;
+	font-style: normal;
+	background-color: #E8E8E8;
+	margin: 10px;
+	padding: 4px;
+	border: 1px solid #333333;
+	color: #000000;
+	width: 80%;
+}
+h1 {
+	font-size: x-large;
+	font-weight: bold;
+	color: #000066;
+	text-decoration: underline;
+}
+.attrs {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color:#000000;
+	text-decoration: none;
+}
+.css {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 9pt;
+	font-style: normal;
+}
+.box {
+	color: #000000;
+	text-decoration: none;
+	margin: 5px;
+	padding: 5px;
+	border: thin solid #000000;
+}
+.nospace {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.style2 {color: #CC0000}
+.style3 {font-family: "Courier New", Courier, monospace}
+.style4 {font-family: monospace}
+-->
+  </style>
+</head>
+<body class="oneColFixCtr">
+<div id="container">
+<div id="mainContent">
+<h2><b>2010 Weaver Theme Documentation -- Version 1.5</b></h2>
+<h4><a href="#v5releasenotes" title="Important notes about V 1.4">See
+Version 1.5 Release Notes for new features and changes.</a></h4>
+<h3>Table of Contents</h3>
+<ul>
+  <li><a href="#get_started">How to get started</a></li>
+  <li><a href="#DesignHints">Design Hints</a></li>
+  <li><a href="#PredefinedThemes">Weaver Predefined Sub-Themes</a></li>
+  <li><a href="#MainOptions">Weaver Main Options</a></li>
+  <li><a href="#AdvancedOptions">Weaver Advanced Options</a></li>
+  <li><a href="#PageTemplates">Weaver Page Templates</a></li>
+  <li><a href="#FeaturedImage">The Featured Image</a></li>
+  <li><a href="#CustomMenus">Custom Menus</a></li>
+  <li><a href="#language_support">Using Weaver in your language</a></li>
+  <li><a href="#TechNotes">Technical Notes</a></li>
+  <li><a href="#divhierarchy">Weaver HTML&lt;div&gt;Hierarchy</a></li>
+  <li><a href="#v3releasenotes" title="Important notes about V 1.3">Version 1.3 Release Notes</a></li>
+  <li><a href="#v4releasenotes" title="Important notes about V 1.4">Version 1.4 Release Notes</a></li>
+  <li><a href="#v5releasenotes" title="Important notes about V 1.4">See
+Version 1.5 Release Notes for new features and changes.</a></li>
+</ul>
+<p>The <em>2010 Weaver</em> (Weaver) WordPress theme is based on the new WordPress 3 standard <em>Twenty Ten</em> theme.
+<em>2010 Weaver</em> allows you to change many of the colors and
+other aspects of the standard <em>Twenty Ten</em> theme. In addition,
+it allows you to easily add whatever special code you might need (such
+as advertising tracking code), all without having to get into the
+depths of WordPress theme code.</p>
+<p><em>Weaver </em>allows you to build a custom site look by tweaking
+many of the style rules for your WordPress blog. You can get a very
+customized look just by picking colors and layout options. While the <em>Main
+and
+Advanced Options</em> control panels may look overwhelming, they
+really aren't that hard to use once you play with them a bit. This <em>Help</em>
+document has lots more information to help you design your own site
+look by changing many of the the standard <em>Twenty Ten</em> theme
+styles. Don't know what a style is - don't worry, you just have to pick
+colors and click on check marks.</p>
+<h3><a name="get_started" id="get_started"></a>How to get started:</h3>
+<ol>
+  <li>Select one of the predefined sub-themes. There are over a dozen
+to choose from.</li>
+  <li>Go to the <em>Main Options</em> panel. You'll see a list of
+options you can change. Play around with them, and see how the theme
+you selected changes. This may be enough to get a custom theme you like.</li>
+  <li>If you have ad-sense code, or other code from a similar site, you
+can easily add it to your site in the <em>Advanced Options</em> panel.</li>
+  <li>Finally, read the help page. There are lots of tips there, as
+well as fairly detailed explanations of exactly which CSS rules Weaver
+supports, and hints on how to go beyond the basics and really customize
+your site.</li>
+</ol>
+<h4>Twenty Ten Weaver?</h4>
+<p>Previously, there were two different versions of Weaver: Twenty Ten Weaver and 2010 Weaver. There was a subtle technical difference between the two versions, but as of Version 1.5, only the 2010 Weaver version is available.</p>
+<h4>Using With WordPress Multisite</h4>
+<p>2010 Weaver will work with no additional
+settings on WordPress Multisite installations. Because the <em>Advanced
+Options</em> tab allows people to add JavaScript, the <em>Advanced
+Options</em> and <em>Save/Restore</em> tabs may be <em>disabled</em>
+by changing a value in the Weaver settings php file. Administrators of
+Multisite installations can edit the <span class="style3">/wp-content/themes/2010-weaver/ttw-settings.php</span>
+file and change the <span class="style3">'TTW_MULTISITE_ALLOPTIONS'</span>
+definition to <span class="style3">false</span>, which will then
+disable the Advanced Options and Save/Restore tabs. This setting might
+make a Multisite installation slightly more secure.</p>
+<h3><a name="DesignHints" id="DesignHints"></a>Design Hints</h3>
+<p>This section has a few hints on designing your own theme.</p>
+<h4>Choosing Colors</h4>
+<p>Good themes use related colors. Many times (but not always), when
+you look at the Main Options page, you'll notice that all the colors of
+the should "look good". They don't have to, but having a nicely
+matching set of colors.</p>
+<p>The color picker has an interesting feature. Once you pick a color
+from the left section, the right bar shows different brightness levels
+of that color. This is especially useful for making a color lighter or
+darker.</p>
+<p>Some themes use the same colors for all links, some vary. But using
+the same link hover color for all the different kind of links lends
+consistency to your theme. The same is true for the other colors - try
+for a consistent look in your theme.</p>
+<h4>Testing</h4>
+<p>There a a couple of tricks that can help make testing you theme
+easier. First is the preview window at the bottom of the theme settings
+tabs. However, you might find it easier to open a new tab in your
+browser. Open the theme admin page on one tab, and the main site on the
+other. After you make a change (and save them), you can toggle to the
+second tab and refresh the page.</p>
+<p>Another important thing is to change just one thing at a time. This
+may seem to take longer, but you will really be able to see the effect
+of your change this way and be sure it does what you want.</p>
+<h4>Saving Option Settings</h4>
+<p>After you make any changes to the values of the Main or Advanced
+Options, you must save your changes. If you navigate away from the
+design tabs without first saving your values, everything will be lost.
+This is typical behavior for most WordPress settings screens.</p>
+<p>After you save your settings, the preview window at the bottom of
+the 2010 Weaver admin page will be updated to show the effects of
+your settings.</p>
+<h4>Saving Your Own Theme</h4>
+<p>Once you have a design you like, you can click the "<em>Save in My
+Saved Theme</em>" button near the bottom of the <em>Main Options </em>tab
+to
+save your theme. You restore that saved theme by selecting it from
+the Sub-Theme list. Your saved theme will then overwrite all options,
+including the <em>Advanced Options</em>. This is the one way to
+preserve all your work, so when you get something you like, save it.
+You can then fiddle and fine tune more without losing your previous
+work.</p>
+<p>You can also use the Save/Restore tab to save your theme definition to a file on your computer, or a file on your site. You can later restore the definitions, or even use them on another Weaver site. If you are experimenting, it is a good idea to save copies of your work so you can get back to where you were.</p>
+<h4>Sidebar and Content Widths</h4>
+<p>This table gives the maximum width of the usable areas of sidebars
+and other areas depending on which sidebar scheme you've selected - <em>using
+the
+standard width of 940px.</em> Usable area is the maximum width of
+an image you could put in the area and still maintain the appropriate
+margins in area. These numbers will change if you use a custom theme
+width.</p>
+<table border="1" cellpadding="4" cellspacing="2" width="700">
+  <tbody>
+    <tr>
+      <td width="15%">&nbsp;</td>
+      <td width="14%">Content</td>
+      <td width="14%">Content<br>
+(single col)</td>
+      <td width="14%">Primary<br>
+Widget Area</td>
+      <td width="14%">Secondary<br>
+Widget Area</td>
+      <td width="14%">Footer<br>
+Widget Areas</td>
+      <td width="14%">Top/Bottom<br>
+Widget Areas</td>
+    </tr>
+    <tr>
+      <td>Default sidebar<br>
+1 right</td>
+      <td>670px</td>
+      <td>800px</td>
+      <td>210px</td>
+      <td>210px</td>
+      <td>220px</td>
+      <td>570px</td>
+    </tr>
+    <tr>
+      <td>Right sidebar<br>
+wider</td>
+      <td>590px</td>
+      <td>800px</td>
+      <td>290px</td>
+      <td>290px</td>
+      <td>220px</td>
+      <td>510px</td>
+    </tr>
+    <tr>
+      <td>One Left</td>
+      <td>630px</td>
+      <td>800px</td>
+      <td>210px</td>
+      <td>210px</td>
+      <td>220px</td>
+      <td>590px</td>
+    </tr>
+    <tr>
+      <td>
+      <p>Two sidebars<br>
+left and right</p>
+      </td>
+      <td>460px</td>
+      <td>800px</td>
+      <td>200px</td>
+      <td>200px</td>
+      <td>220px</td>
+      <td>390px</td>
+    </tr>
+    <tr>
+      <td>
+      <p>Two sidebars<br>
+right side</p>
+      </td>
+      <td>490px</td>
+      <td>800px</td>
+      <td>210px</td>
+      <td>160px</td>
+      <td>220px</td>
+      <td>410px</td>
+    </tr>
+    <tr>
+      <td>Two sidebars<br>
+left side</td>
+      <td>500px</td>
+      <td>800px</td>
+      <td>205px</td>
+      <td>160px</td>
+      <td>220px</td>
+      <td>410px</td>
+    </tr>
+    <tr>
+      <td>No sidebars</td>
+      <td>860px</td>
+      <td>800px</td>
+      <td>n/a</td>
+      <td>n/a</td>
+      <td>220px</td>
+      <td>790px</td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<h3><a name="PredefinedThemes" id="PredefinedThemes"></a>Weaver Predefined Sub-Themes</h3>
+<p><em>Weaver</em> comes with over a dozen predefined themes. You can use
+them as-is, or as a starting point for your own designs. When you
+select a new sub-theme, <em><strong>all</strong></em> the options
+values from the <em>2010 Weaver Main Options</em> are cleared
+and set to the new values of the sub-theme. Most of the Advanced
+Options are not changed - except the Special Overrides are set to the
+values required by the new sub-theme.</p>
+<h2><a name="MainOptions" id="MainOptions"></a>Weaver Main Options</h2>
+<p>The Main Options tab provides you with over 70 &quot;checkbox&quot; options for customizing your theme. The options have been grouped according to the part of the theme they affect. Each option includes an explanation. Please note that you can provide values for the color boxes in a couple of ways. The easiest way is to click on a color, and a color selection palette will pop up. You can also provide values directly. This includes hex values as well as text values. The text values can include standard web colors such as <em>red</em>, <em>blue</em>, etc.; <em>transparent</em>; or even <em>rgba()</em> values. This gives you maximum flexibility for specifying colors.</p>
+<p>You can also add extra CSS styling to many of the elements included in the Main Options tab. Please see the CSS Help tab to get more details on using this feature.</p>
+<h2><a name="AdvancedOptions" id="AdvancedOptions"></a>Weaver Advanced Options</h2>
+<p>The Advanced Options page allows you to save pieces of HTML code
+required by third-party plugins and widgets. You can also use them to
+save Google Maps/Analytics/AdSense JavaScript snippets. You will need
+to understand a bit of HTML coding to used these fields effectively.</p>
+<p>The values you put here are saved in the WordPress database, and
+will survive theme upgrades and other changes. When you select a new
+sub-theme, all the <em>Advanced Options</em> are left untouched
+(except the <em>Special Theme Overrides</em>, which are set by the new
+sub-theme). However, if you pick "My Saved Theme", then all Advanced
+options are replaced. The idea is that you can use the Advanced Options
+to set up things you want, and try different sub-theme looks without
+losing your work. But if you restore "My Saved Theme", then you should
+get back what you really saved.</p>
+<p>PLEASE NOTE: NO validation is made on the field values, so be
+careful not to paste invalid code. Invalid code is usually harmless,
+but it can make your site display incorrectly. If your site looks
+broken after you add stuff here, please double check that what you
+entered uses valid HTML commands. Also note that backslashes will be
+stripped.</p>
+<hr> <label><b>&lt;HEAD&gt; Section</b></label>
+<p>
+  This input area is one of the most important options in Weaver for customizing your site. Code entered into this box is included right before the
+  </HEAD>
+  tag in your site. The most important use for this area is to enter custom CSS rules to control the look of your site. Note: The Snippets tab (above) contains many examples of CSS rules to customize your site. This field can also for entering JavaScript or links to JavaScript files or anything else that belongs in the
+  &lt;HEAD&gt;
+  . For example, Google Analytics code belongs here.  </p>
+<p><br>
+
+  <strong>HTML Code Insertion Areas </strong></p>
+<p>The options in this section allow you to insert HTML code into various regions of you page. These areas must use HTML markup code, and all can include WP shortcodes. Important: You almost certainly will need to provide CSS styling rules for these code blocks, either as in-tag style="..." rules, or by adding CSS rules the the
+  &lt;HEAD&gt; Section above.
+
+  Note: Providing margin style values, including negative values, can be used to control the spacing before and after these code blocks.</p>
+<label><b>Site Header Insert Code</b></label>
+<p>This must be HTML markup code (including WP shortcodes), and will be
+inserted into the #branding div header area right above where the
+standard site header image goes. You can use it for logos, better site
+name text - whatever. When used in combination with hiding the site
+title, header image, and the menu, you can design a completely custom
+header. </p>
+<p>Note that this code will be after or before the default Primary menu
+depending on the move menu setting. You can completely replace the
+default menu (hide it), but you will have to hard-wire the links to
+pages in your replacement menu. </p>
+<p>If you hide the title, image, and header, no other code is generated
+in the #branding div, so the code here can be a complete header
+replacement. You will almost certainly need to add some CSS style, too.
+(We've added a class called ttw-center which you can use to div-wrap
+your insert code to center it:<br>
+<span class="css">&lt;div class="ttw-center"&gt;[shortcode]&lt;/div&gt;</span>)
+</p>
+<p>You can also override the CSS <span class="css">#branding </span>rule,
+create
+a new <span class="css">div</span>, or use in-line styling. One
+of the most flexible capabilities of the section is the ability to
+embed WordPress shortcodes. This might be most useful for adding a
+rotating header image using a plugin such as Meteor Slides or WP-Cycle.</p>
+<p>For example, assume you've installed the Meteor Slides plugin, and
+have uploaded your rotating header images for the plugin to use. To add
+this slide show header image, you should first disable the default
+header image by setting the header image size to zero in the <em>Main
+Options</em> tab. Then, add this code to the Site Header Insert Code
+box:</p>
+<p><span class="css">&lt;div
+class="ttw-center"&gt;[meteor_slideshow]&lt;/div&gt;</span></p>
+<p>Note that the built-in <span class="css">ttw-center</span> CSS
+class will ensure the slide show is displayed properly. Without
+appropriate CSS styling, you may get unexpected placement of the plugin
+output. The <span class="css">ttw-center</span> class will usually do
+what you want.</p>
+<label><b>Site Footer Area</b></label>
+<p>This code will be inserted into the site footer area, right before the
+  before the "Powered by" credits, but after any Footer widgets. This
+  could include extra information, visit counters, etc. You can use HTML
+  here, so include style tags if you want! And like the Site Header
+  Insert Code section, you can also use shortcodes.</p>
+<p><strong>Pre-Header, Post-Header, Pre-Footer, Post-Footer, Pre-Sidebar</strong></p>
+<p>These areas can be used to insert HTML and shortcodes in the given areas of a site page.<br>
+  <br>
+</p>
+<label></label>
+<p>
+  <label><b>"Custom Header Page Template" Code and Options</b></label>
+  <br />
+  This block functions exactly the same as Site Header Insert Code when used with pages created with the Custom Header (see Adv Opts admin) page template. The template creates pages that use only this code to display a header (they don't use the standard site header image), plus the options below.  </p>
+  <p>
+    <label><b>"Blank Page Template" Options</b></label>
+    <br />
+    This block functions exactly the same as Site Header Insert Code when used with pages created with the Custom Header (see Adv Opts admin) page template. The template creates pages that use only this code to display a header (they don't use the standard site header image), plus the options listed below the box.</p>
+  <p>
+    <label><b>SEO Tags</b></label>
+    <br />
+Every site should have at least "description" and "keywords" meta tags for basic SEO (Search Engine Optimization) support. Please edit these tags to provide more information about your site, which is inserted into the <HEAD> section of your site. You might want to check out other WordPress SEO plugins if you need more advanced SEO. Note that this information is not part of your theme settings, and will not be included when you save or restore your theme.
+<br />
+      </p>
+  <p>
+    <label><b>Site Copyright</b></label>
+    <br />
+If you fill this in, the default copyright notice in the footer will be replaced with the text here. It will not automatically update from year to year. Use &copy; to display ©. You can use other HTML as well.</p>
+  <p>
+    <label><b>The Last Thing</b></label>
+    <br />
+This code is inserted right before the closing <span class="css">&lt;/body&gt;</span> tag. This is the best place for your Google analytics code other final
+code that is not usually displayed.<br />
+<br />
+<label><b>Predefined Theme CSS Rules</b></label>
+<br />
+The entries in this field are usually generated by some of the example
+  themes provided with 2010 Weaver. You may have to edit these rules to adjust the look, but
+  it is generally better to use the regular <span class="css">&lt;HEAD&gt;</span> overrides. (Note: this code is included before the standard <span
+ class="css">&lt;HEAD&gt;</span> section code above.)
+    </p>
+  <h2><a name="PageTemplates" id="PageTemplates"></a>Page Templates</h2>
+  <p>Weaver provides you with several additional page templates for creating static pages:</p>
+  <ol>
+	<li><em>Alternative Sidebar Left</em> - page with sidebar on left. There is a widget area called the Alternative Widget Area. The two Alternative Sidebar templates use  the Alternative Widget Area exclusively - they don't use any other widget areas (except for the footer widgets).<br />
+	  <br />
+	</li>
+	<li><em>Alternative Sidebar Right</em>- same, on right.<br />
+	  <br />
+	</li>
+	<li><em>Blank Content Area</em> - Provides a totally blank content area inside the #wrapper div. (This means the page will match the overall look of your site.) It Al lets you provide totally custom HTML on a page. It doesn't show the page title you set when creating the page, nor does it display comments. You can optionally hide the header and footer areas using the check boxes on the Advanced Options tab. This template is good for entering raw HTML using the HTML editor tab. This page does not use any widget areas except when the footer is displayed, and will take the full width of the #wrapper area.<br />
+	  <br />
+	</li>
+	<li><em>Custom Header</em> - Provides a standard page, but uses a new custom header block found on the Advanced Options page. Doesn't show standard header image, and you can optionally hide menus and site title/description.<br />
+	  <br />
+	</li>
+	<li><em>Two Column Content</em> - Allows you to create a content page with two columns of content using the standard &lt;!--more--&gt; page tag (entered using the page break icon from the Visual Editor). If you break the content into more than two areas, they will automatically be placed vertically (in other words, you can use more than one &lt;!--more--&gt; tag.<br />
+	  <br />
+	</li>
+    <li>One column, iframe full width - This template is designed especially for using an iframe external site embed on a regular static page. If you have an old site in html that you don't want to convert to WordPress, or some other site you want to take on the apprearance of your site, then this is the page template for you. It hides the standard page title so the external site can take the full page space. You can enable comments, if you wish. To embed and external site, simply add an iframe html command to your page:<br />
+      <span class="style4">&lt;iframe src=&quot;http://example.com&quot; style=&quot;width:100%;height:600px;border: 0px&quot;&gt;&lt;/iframe&gt; </span><br />
+    (You'll need to use the &quot;html&quot; page editor view to add this command, and you can include other content as well for titles or introduction material.) You can adjust the height to best display the external page, as well as the width if you want. The page will continue to fill the full width even if you change the overall site width. While this template is designed for using iframes, it really can be used however you like - kind of like the Blank Content Area template, but allowing comments.<br />
+      <br />
+    </li>
+    <li>One column, no sidebar - This template gives you a single column layout with no sidebar. By default, the single column only uses about 90% of the full width and leaves some padding on the side. This page template is based on the similar page template found in Twenty Ten.</li>
+  </ol>
+  <h2><a name="FeaturedImage" id="FeaturedImage"></a>The Featured Image</h2>
+  <p>You may have seen the Set <em>Featured Image</em> option on your post and static page edit panel. What is it good for? With
+	Weaver's new options, it is good for a lot. The old, default Twenty Ten behavior was to display the <em>Featured Image</em> as a replacement header image
+	for pages and post where it was set. That still works (as long a the Featured Image is as wide as the standard header image). An option to stop that behavior is included in the header section.</p>
+  <p>In addition,
+    you can now have the Featured Image be automatically displayed whenever you display a post - in any combination of excerpted posts and full length posts.
+    Here's how:</p>
+  <ol>
+    <li>Click the <em>Set  Featured Image</em> from the post/page edit panel. It is usually on the lower right. (To change the Featured Image, you first have to delete the current one, and then set a new one all over.)<br />
+      <br />
+    </li>
+    <li>Pick an image. This will pop up the Add Media interface. After you upload a new image, or pick one from your media library, you'll be shown the info about the image. Important step: at the bottom, click the <em>Use as featured image</em> link. Close that box.<br />
+      <br />
+    </li>
+    <li>Select one or both of the Weaver Main Options tab options in the Post Page Specific section: <em>Show Featured Image for full posts</em> and/or <em>Show the Featured Image for excerpted posts</em>.</li>
+  </ol>
+  <p>For excerpted posts, a thumbnail will be displayed at the top left of the post. For full length posts, the full image will be displayed at the top of the post.</p>
+  <h2><a name="CustomMenus" id="CustomMenus"></a>Custom Menus</h2>
+<p>One of the new features included with WordPress 3 is support for
+custom menus. By using the <em>Appearance-&gt;Menus</em> panel, you
+can create a menu completely under your control. While the standard
+Twenty Ten only supports one custom menu, Weaver supports two. If you
+have defined two custom menus, they will be placed above and below the
+site header image.</p>
+<p>Custom Menus can let you really customize site navigation. One
+typical use of multiple menus is one for pages, the other organized by
+category or tags. But you have complete control. However, which menus
+show can be a bit confusing. There are three specific cases of
+specifying menus that are most likely to be useful:</p>
+<ol>
+  <li><strong>No Custom Menus Defined</strong><br>
+This might be the most common case. If you don't use the <em>Menus</em>
+panel, and don't define any custom menus, then the theme will
+automatically generate a menu based on your pages (including Home)
+using the page order defined in the page editor when you create pages.
+This is the legacy method, and works fine for many situations.<br>
+    <br>
+  </li>
+  <li><strong>Defining One or Two Custom Menus</strong><br>
+You can also define one or two custom menus. The two menus supported by
+Weaver are called the Primary and Secondary Menus. If you define a
+Primary Menu, then it will be the main menu bar normally under the
+Header Image. If you don't define a Secondary menu, then only one will
+be displayed. If you define the Secondary Menu, then it will normally
+be displayed above the Header Image. You can switch the order of the
+two menus either using the <em>Main Options</em> tab, or by switching
+the order in the <em>Menus</em> panel.<br>
+    <br>
+Normally, both menu bars will use the same menu bar color scheme. When
+you've selected the rounded area option, the top menu bar will have the
+top edge rounded, and the bottom menu bar the lower edge rounded. This
+look great with a square Header Image.<br>
+    <br>
+You can use CSS snippets to change the color of the Secondary menu bar
+- it uses <span class="css">#access2</span> for its CSS tags.<br>
+    <br>
+  </li>
+  <li><strong>Define Only Secondary Custom Menu</strong><br>
+If you define only the Secondary Menu and leave the Primary Navigation
+theme location blank, then Weaver will display two menu bars - the
+Secondary Menu bar on top as you defined, and the default menu with
+pages (as discussed in #1 above) on the bottom menu bar.</li>
+</ol>
+<h3><a name="MiscNotes" id="MiscNotes"></a>Miscellaneous Notes<br>
+    <br>
+  </h3>
+<ul><li><strong>Things you can't do</strong><br>
+Because of the design of 2010 Weaver started as a "strict" child theme of
+Twenty Ten, there are some things you can't really do using CSS
+overrides because the order of the elements on a page are &quot;hard wired&quot;. For example, the Sidebars are placed outside of the main
+content area. The information about posts (&quot;Posted on ... by ...&quot; and the &quot;Posted in category&quot;) must be above and below the post.<br />
+<br />
+</li>
+  <li><strong>Wording of User Text</strong><br />
+    The wording of the end User (site visitor) messages is fixed (e.g., Posted on, Previous Post, etc.). This is due to internationalization issues. Weaver was based on the default WordPress Twenty Ten theme, and can use all of its language translations so that Weaver can be used in many languages. (This is the user interface only - the Admin interface is likely to remain in English for the foreseeable future because of its complexity and lengthy help messages.)
+    <br>
+  </li>
+</ul>
+
+<h2><a name="language_support" id="language_support"></a>Using Weaver in your language</h2>
+
+First of all, WordPress and Twenty Ten have translations available for many languages. If you need to make your site display in a language other than English, the place to start is the <a href="http://codex.wordpress.org/Installing_WordPress_in_Your_Language">Installing WordPress in Your Language</a> page at WordPress.org. You have to install both the WordPress translations for your language, plus the <em>theme</em> translations. But since Twenty Ten is the standard theme, its translations should be automatically included when you install WordPress for your language.
+
+Because 2010 Weaver is based on the default Twenty Ten theme, it uses all the same text phrases found on the visitor side of your site that Twenty Ten does. (The Weaver admin panel, on the other hand, is still strictly English - it is has so much help and explanations, that it would be very difficult to translate.)
+
+But the important part is that you can easily use the language translation files for Twenty Ten with 2010 Weaver so that people who visit your site will see your native language.
+
+Here's what you need to do. The goal is to copy some files from the Twenty Ten theme directory to the 2010 Weaver directory. You may need to use your site's host control panel interface (e.g., cPanel), or use your ftp access. Here's the steps.
+<ol>
+	<li>Find Twenty Ten's language directory. It will usually be at "<span style="font-family: courier new,courier;">/your-site-root-directory/wp-content/themes/twentyten/languages</span>". That directory contains the language files. Once your site has been installed for your language, that directory should contain 2 or 3 files (perhaps more). Two of those files will match your language setting. For example, if you have installed the Spanish version of WordPress, you'll find &lt;<span style="font-family: courier new,courier;">es_ES.po</span> and <span style="font-family: courier new,courier;">es_ES.mo</span> there. (There is some chance you'll have only .mo file(s).)</li>
+	<li>Copy the language files (e.g., <span style="font-family: courier new,courier;">es_ES.po</span> and <span style="font-family: courier new,courier;">es_ES.mo</span>) from the Twenty Ten directory to 2010 Weaver's directory: (<span style="font-family: courier new,courier;">/your-site-root-directory/wp-content-themes/2010-weaver/languages</span>). Use your cPanel or ftp to do this.</li>
+	<li>Your site should now display your native language when visitors see it.</li>
+</ol>
+
+<h2><a name="TechNotes" id="TechNotes"></a>Technical Notes</h2>
+<p>The <em>Weaver</em> theme was designed as a child theme of the <em>Twenty
+Ten</em> theme, which is the  standard for WordPress 3. Many of the features used by Weaver are completely influenced by Twenty Ten. As of Version 1.5, Weaver has started to move away from the strict child-theme approach, and will become a true standalone theme when Version 2.0 is released (that won't likely happen until well into 2011). However, it the strong influence of Twenty Ten will always remain, as will the dependence on Twenty Ten's visitor interface side language translations.</p>
+<h2><a name="divhierarchy" id="divhierarchy"></a>Weaver HTML
+&lt;div&gt; Hierarchy</h2>
+<p>The Weaver theme generates content that is wrapped in HTML
+&lt;div&gt;'s with a set of conventional names. A typical site page
+will have the following hierarchy. Knowing this can help you make
+additional custom modifications. (Another useful thing to do is to use
+the "View Document Source" option of your web browser to see the actual
+HTML generated by WordPress for your site content.)</p>
+<pre class="codebox">#wrapper<br>	#header<br>		#masthead<br><br>  # main<br>	    #container<br>			#content<br>				#comments<br><br>		#primary<br>		#secondary<br>	#footer<br>		#colophon</pre>
+<p>&nbsp;</p>
+<h3><a name="MoreHelpSug" id="MoreHelpSug"></a>More Help - Suggestions</h3>
+<p>The <em>2010 Weaver</em> page at WPWeaver.info allows
+comments. You can leave questions or comments there. No promises on how
+quickly you will get a response, however. I have a lot of other
+projects going, and travel some, so I might not get a chance to respond
+immediately, but I will try. If this theme becomes popular, I might
+create a support forum for it. But for now - just comments.</p>
+<p>Thanks for checking out <em>2010 Weaver</em>. Hope you create
+a beautiful WordPress theme with it!<!-- end #mainContent --> </p>
+<p>&nbsp;</p>
+<hr>
+<h2><a name="v3releasenotes" id="v3releasenotes"></a>Version 1.3
+Release Notes </h2>
+<p>Weaver Version 1.3 has some significant enhancements and <a
+ href="#changes13">changes</a> over previous versions. It is possible
+you will have to make a couple of minor changes to your theme to have
+it look exactly the way it did before.</p>
+<strong>More Header Options</strong>
+<ul>
+  <li>Option for Header Image to be a link to site</li>
+  <li>Move Site Title and Description over Header Image</li>
+  <li>Gradient on Menu Bar</li>
+  <li>New special purpose header widget area for social links and more</li>
+  <li>Support for <a
+ href="http://wordpress.org/extend/plugins/dynamic-headers/">Dynamic
+Headers</a> plugin (gives you total control over which header image
+appears on which page and more)</li>
+</ul>
+<strong>Improved Widget Area Options</strong>
+<ul>
+  <li>Top and Bottom Widget Areas can be full width</li>
+  <li>Better control on which pages Top and Bottom Widget areas show</li>
+</ul>
+<strong>Other new and improved features</strong>
+<ul>
+  <li>Color picker boxes now allow text - e.g. <em>blue, transparent,
+inherit</em>, etc.</li>
+  <li>Improved Save/Restore of your own designed sub-themes</li>
+  <li>Optional styling for tables - gets around the huge default
+padding in Twenty Ten</li>
+  <li>More options, including none, for list bullets</li>
+  <li>New Admin options (e.g., hide site preview)</li>
+  <li>Significantly faster generating pages</li>
+  <li>Theme extensions (e.g., Slider) now done with plugins</li>
+  <li>Separate Multi-Weaver discontinued - now merged into Weaver.
+Significant new features for WP Multisite.</li>
+</ul>
+<p><strong><a name="changes13" id="changes13"></a>Changes to Weaver
+Functionality</strong></p>
+<p><strong>1. Area Background Colors</strong></p>
+<p>The most significant change to Weaver involves how the background
+colors of the major areas are handled. These background colors are set
+in the Theme Background Colors section of the Main Options tab of the
+admin page. These are the areas, and the corresponding CSS &lt;div&gt;
+names:</p>
+<table class="attrs">
+  <tbody>
+    <tr>
+      <td align="left" width="25%">Wrapper Page BG:&nbsp;</td>
+      <td style="padding-left: 10px;"><small>Background for top level
+#wrapper div - default BG if you don't change others. <span class="css">{#wrapper}</span></small></td>
+    </tr>
+    <tr>
+      <td align="left">Main Area BG:&nbsp;</td>
+      <td style="padding-left: 10px;"><small>Background for main page
+#main div - wraps container, content and sidebars (uses wrapper bg if
+not set). <span class="css">{#main}</span></small></td>
+    </tr>
+    <tr>
+      <td align="left">Container Area BG:&nbsp;</td>
+      <td style="padding-left: 10px;"><small>Background for #container
+div - wraps content and sidebars (uses wrapper bg if not set). <span
+ class="css">{#container}</span></small></td>
+    </tr>
+    <tr>
+      <td align="left">Content BG:&nbsp;</td>
+      <td style="padding-left: 10px;"><small>Background for post and
+page content area (uses main bg if not set). <span class="css">{#content}</span></small></td>
+    </tr>
+    <tr>
+      <td align="left">XX Widget Area BG:&nbsp;</td>
+      <td style="padding-left: 10px;"><small>Background for the four
+widget areas. <span class="css">{#primary, etc.}</span></small></td>
+    </tr>
+    <tr>
+      <td align="left">Footer BG:&nbsp;</td>
+      <td style="padding-left: 10px;"><small>Background for the footer
+area. <span class="css">{#footer}</span></small></td>
+    </tr>
+    <tr>
+      <td align="left">Outside BG:&nbsp;</td>
+      <td style="padding-left: 10px;"><small>Background color that
+wraps entire page. Using Appearance-&gt;Background will override this
+value, or allow a background image instead.<span class="css">{body}</span></small></td>
+    </tr>
+  </tbody>
+</table>
+<p>Previous versions of Weaver had gotten this wrong in two ways.
+First, it used White as the background colors for the &lt;div&gt;'s
+nested inside the #wrapper &lt;div&gt;. This was partly from a
+limitation in the color picker that didn't allow <em>transparent</em>
+as a value. It turns out that <em>transparent</em> is the "correct"
+value for these &lt;div&gt;'s. The <a href="#divhierarchy">chart</a>
+that shows the &lt;div&gt; hierarchy can help understand how these
+&lt;div&gt;'s interact.</p>
+<p>If you've set colors for most of your own BG areas, then it is
+likely you will see no difference in how your theme looks. However, 1.3
+has added the "Container" setting. The previous versions incorrectly
+set the #container &lt;div&gt; using the "Content BG" setting. Each of
+these settings now apply to the correct &lt;div&gt;. <span
+ class="style2">If you have an issue with your content area not having
+the correct background color or incorrect rounded corners, try setting
+the new Container Area BG to the old value, and set the current Content
+BG to <em>transparent</em> and things should be fine.</span></p>
+<p><strong>2. Theme Save File Extension</strong></p>
+<p>The file extension used for Weaver saved theme files. Previously,
+the extension was <span class="style3">.txt</span>. That has been
+changed to <span class="style3">.wvr</span>. The actual format of the
+file has not changed. If you have old themes saved, simply rename them
+and change the extension from <span class="style3">.txt</span> to <span
+ class="style3">.wvr</span>.</p>
+<p><strong>3. SEO Tags</strong></p>
+<p>A new advanced option called "SEO Tags" has been added. Search
+Engine Optimization is somewhat of a black art, and this provides
+minimal support. The difference is that previously, the meta tags now
+included here were in the &lt;HEAD&gt; Section, which meant your tags
+were saved in any themes you saved, which isn't exactly correct. Now,
+these SEO meta tags are not saved with theme settings, but are just
+site specific. If you had filled in the meta tags on your old versions,
+you should remove them from the &lt;HEAD&gt; Section, and copy them
+here.</p>
+<p><strong>4. The Last Thing</strong></p>
+<p>Just as the SEO tags don't belong with the theme, the code you
+include in this section are site specific. They will not longer be
+saved with a theme. If you have an old saved theme, however, the
+settings will be copied over automatically.</p>
+<p>&nbsp;</p>
+<hr>
+<h2><a name="v4releasenotes" id="v4releasenotes"></a>Version 1.4
+Release Notes </h2>
+Weaver 1.4 has a few changes and some new features. This is a summary
+of the changes:<br>
+<ol>
+  <li>Two new sub-themes<br>
+Transparent Dark and Transparent Light. These two themes use
+transparent backgrounds, and can make truly beautiful sites when used
+with an appropriate background image or solid color.<br>
+    <br>
+  </li>
+  <li>Icons for Post Meta Info<br>
+A set of icons suitable for using with the Meta Information above and
+below Blog Posts has been included. You can use the default set (a gray
+theme that works well with almost any color) with a Main Options check
+mark, or use custom CSS in the &lt;HEAD&gt; Section. There is also a
+check mark option to remove the fill-in text (e.g., 'Posted on', 'by',
+etc.) in the info lines, which allows a very nice icon-only look. There
+are a number of icons available for your custom use in the
+/wp-content/themes/2010-weaver/images/icons directory.<br>
+    <br>
+  </li>
+  <li>Advanced Option to customize copyright<br>
+You can now put a totally customized copyright notice in the footer to
+replace the automatically generated one. There is also a check mark to
+hide the "Powered by" credit if you really don't want to give credit to
+WordPress and WPWeaver.<br>
+    <br>
+  </li>
+  <li>Advanced Option to Clear the Weaver database<br>
+Sometimes it is just best to start over. This new option allows you to
+clear the existing Weaver settings back to the original default values.<br>
+    <br>
+  </li>
+  <li>Internet Explorer fixes<br>
+Code was added to support rounded corners in the upcoming IE 9. A long
+unreported problem with a bug in IE that made it display the color
+boxes&nbsp; was fixed to work around the problem.<br>
+  </li>
+</ol>
+<br>
+<hr>
+<h2><a name="v5releasenotes" id="v5releasenotes"></a>Version 1.5
+Release Notes
+</h2>
+<p>Weaver Version 1.5 represents a major revision of Weaver and has many new features, many in response to requests from some of our more advanced users.
+ Virtually every element of your WordPress site can now be easily customized from the Main Options tab. The new features add even more flexibility to how you can customize Weaver.</p>
+
+<p>New feature summary:</p>
+
+<ul>
+	<li>The most important new feature added to Version 1.5 is the ability to easily add custom CSS styling to specific elements of a WP site. If you don't know CSS, there is a new CSS Help document that introduces you to this powerful feature. But you don't need to use this feature if you don't want to - there's still plenty of customization that can be done just with the &quot;check-box&quot; interface. But more advanced users can now apply CSS to specific page elements very easily.<br />
+	  <br />
+	</li>
+	<li>The Main Options admin tab has been reorganized into more logical sections, makes it easier to find the options for each part of your site. The Advance Options page was reorganized to accommodate the HTML new code areas.<br />
+	  <br />
+	  </li>
+	<li>Five new page templates:<br />
+	  <br />
+<ol>
+	<li><em>Alternative Sidebar Left</em> - page with sidebar on left. Sidebar uses new, Alternative Widget Area, exclusive to the Alternative Sidebar templates.</li>
+	<li><em>Alternative Sidebar Right</em>- same, on right.</li>
+	<li><em>Blank Content Area</em> - Provides a totally blank content area inside the #wrapper div. Lets you provide totally custom HTML on a page. Doesn't show page title or comments. Optionally hide header and footer.</li>
+	<li><em>Custom Header</em> - Provides a standard page, but uses a new custom header block found on the Advanced Options page. Doesn't show standard header image, and can optionally hide menus and site title/description.</li>
+	<li><em>Two Column Content</em> - Allows you to create a content page with two columns of content using the standard &lt;!--more--&gt; page tag. If you break the content into more than two areas, they will automatically be placed vertically.<br />
+      <br />
+    </li>
+    </ol>
+</li>
+	<li>Two new Widget Areas - one for the new Alternative page templates, and one for specialized post pages (e.g., Archive, Single Post, etc.).<br />
+	  <br />
+	</li>
+	<li>More control over post excerpts. You can set the excerpt length (and even stop auto excerpts), and force posts on the main blog page to be excerpted.<br />
+	  <br />
+	  </li>
+	<li><em>Featured Image</em> done right! You may have seen the "Featured Image" option on your post and static page edit panel. What is it good for? With
+	Weaver's new options, it is good for a lot. The old, default Twenty Ten behavior was to display the "Featured Image" as a replacement header image
+	for pages where it was set. That still works (as long a the Featured Image is as wide as the standard header image). There is an option to stop that behavior. Instead,
+	you can have the Featured Image be automatically displayed whenever you display a post - in any combination of excerpted posts and full length posts.
+	For excerpted posts, a thumbnail will be displayed. For full length posts, the full image will be displayed. Finally, Featured Image works the way it should.
+	<br /> <br /></li>
+	<li>A new text widget called 'Weaver Text 2' was added. This widget allow you to add two columns of text, especially useful for the wider top and bottom widget areas. It also supports shortcodes, and add shortcode support to the standard Text widget.<br />
+	  <br />
+	</li>
+	<li>Five new HTML code areas on Advanced Options page. These areas allow you to add arbitrary HTML (including WP shortcodes) above and below the header,  above and below the footer, and above the sidebar.<br />
+	    <br />
+	  </li>
+	<li>Five different table styles to select from.<br />
+	  <br />
+	</li>
+	<li>Control over media library image display - border color and caption text color.<br />
+	  <br />
+	</li>
+	<li>Option to completely hide footer area - can be used in conjunction with the new footer HTML code areas.<br />
+	  <br />
+	  </li>
+	<li>Background control for posts. You can now use a distinct background for your posts. Using the new CSS slide-open, you
+	can also add borders to posts.<br />
+	  <br />
+	</li>
+	<li>Background control for sticky posts and input areas. You can now easily make these areas match your theme.<br />
+	  <br />
+	</li>
+	<li>Sidebar border adjustment. Before, if you tried to add wide borders to the sidebar areas, they would tend
+	to float below the main content area. This was due to the fact that supporting the different sidebar arrangements
+	required server-side calculations. This new value allows you to add an adjustment factor for those calculations
+	if you've added styling for wide borders on your sidebars.<br />
+	<br />
+	<li>New CSS id's were added to the special post pages (e.g., archive, category, etc.) to allow using CSS to hide the extra title on those pages. See the Snippets.<br />
+	  <br />
+	</li>
+	<li>Additional Weaver defined CSS id's and classes to help style some fine details of various page elements (e.g., the &quot;previous&quot; and &quot;next&quot; page links). See the <em>Weaver CSS Elements</em> in the Snippets document.<br />
+	  <br />
+	  </li>
+	<li>Some small adjustments to the margins and placement of the top and bottom widget areas were made.<br />
+	  <br />
+	  </li>
+	<li>Automatically display a small warning at the bottom of page that encourages visitors using old versions of Internet Explorer to upgrade to the latest version (can be turned off).<br />
+	  <br />
+	</li>
+	<li>"Main Options" CSS style rules now come from .css file instead of being included inline. This is a settable option. This should slightly speed up site load, and some people think it will lead to better SEO placement.</li>
+    </ul>
+<br>
+<br>
+</div>
+</div>
+</body>
+</html>

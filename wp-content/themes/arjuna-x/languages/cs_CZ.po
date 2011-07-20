@@ -1,0 +1,1076 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arjuna X 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-12 01:53+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: SRS Solutions <info@srssolutions.com>\n"
+"Language-Team: SRS Solutions <info@srssolutions.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+#: Arjuna/404.php:4
+msgid "Error 404 - Not Found"
+msgstr "Chyba 404 - Nenalezeno"
+
+#: Arjuna/404.php:5
+msgid "Sorry, but you are looking for something that isn't here. "
+msgstr "Promiňte, ale to co hledáte zde není."
+
+#: Arjuna/archive.php:8
+#, php-format
+msgid "Browsing Posts in <em>%s</em>"
+msgstr "Prohlížet příspěvky v kategorii: <em>%s</em>"
+
+#: Arjuna/archive.php:10
+#, php-format
+msgid "Browsing Posts tagged <em>%s</em>"
+msgstr "Prohlížet příspěvky se štítkem: <em>%s</em>"
+
+#: Arjuna/archive.php:12
+#, php-format
+msgid "Browsing Posts published on %s"
+msgstr "Prohlížet příspěvky publikované %s"
+
+#: Arjuna/archive.php:14
+#: Arjuna/archive.php:16
+#, php-format
+msgid "Browsing Posts published in %s"
+msgstr "Prohlížet příspěvky publikované v %s"
+
+#: Arjuna/archive.php:14
+msgid "F, Y"
+msgstr "F, Y"
+
+#: Arjuna/archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: Arjuna/archive.php:19
+#, php-format
+msgid "Browsing Posts published by <em>%s</em>"
+msgstr "Prohlížet příspěvky od <em>%s</em>"
+
+#: Arjuna/archive.php:21
+msgid "Blog Archives"
+msgstr "Archív"
+
+#: Arjuna/archive.php:28
+#: Arjuna/index.php:9
+#: Arjuna/page.php:11
+#: Arjuna/page.php:16
+#: Arjuna/page_fullwidth.php:15
+#: Arjuna/page_fullwidth.php:20
+#: Arjuna/search.php:15
+#: Arjuna/single.php:16
+msgid "Permalink to"
+msgstr "Trvalý odkaz"
+
+#: Arjuna/archive.php:33
+#: Arjuna/index.php:14
+#: Arjuna/page.php:21
+#: Arjuna/page_fullwidth.php:25
+#: Arjuna/search.php:20
+#: Arjuna/single.php:21
+msgid " at "
+msgstr " v "
+
+#: Arjuna/archive.php:42
+#: Arjuna/index.php:23
+#: Arjuna/page.php:30
+#: Arjuna/page_fullwidth.php:34
+#: Arjuna/search.php:28
+#: Arjuna/single.php:30
+msgid "Pass required"
+msgstr "Vyžadováno heslo"
+
+#: Arjuna/archive.php:44
+#: Arjuna/index.php:25
+#: Arjuna/page.php:32
+#: Arjuna/page_fullwidth.php:36
+#: Arjuna/search.php:30
+#: Arjuna/single.php:32
+msgid "Comments off"
+msgstr "Komentáře zakázány"
+
+#: Arjuna/archive.php:46
+#: Arjuna/index.php:27
+#: Arjuna/page.php:34
+#: Arjuna/page_fullwidth.php:38
+#: Arjuna/search.php:32
+#: Arjuna/single.php:34
+msgid "No comments"
+msgstr "Bez komentářů"
+
+#: Arjuna/archive.php:46
+#: Arjuna/index.php:27
+#: Arjuna/page.php:34
+#: Arjuna/page_fullwidth.php:38
+#: Arjuna/search.php:32
+#: Arjuna/single.php:34
+msgid "1 comment"
+msgstr "1 komentář"
+
+#: Arjuna/archive.php:46
+#: Arjuna/index.php:27
+#: Arjuna/page.php:34
+#: Arjuna/page_fullwidth.php:38
+#: Arjuna/search.php:32
+#: Arjuna/single.php:34
+msgid "% comments"
+msgstr "% komentářů"
+
+#: Arjuna/archive.php:53
+#: Arjuna/index.php:34
+#: Arjuna/page.php:42
+#: Arjuna/page_fullwidth.php:46
+#: Arjuna/search.php:38
+#: Arjuna/single.php:41
+msgid "continue reading..."
+msgstr "celý článek..."
+
+#: Arjuna/archive.php:61
+#: Arjuna/index.php:42
+#: Arjuna/search.php:46
+#: Arjuna/single.php:49
+msgid "<i>none</i>"
+msgstr "<i>žádný</i>"
+
+#: Arjuna/archive.php:65
+#: Arjuna/index.php:46
+#: Arjuna/search.php:50
+msgid "Read more"
+msgstr "Celý článek"
+
+#: Arjuna/archive.php:77
+#: Arjuna/index.php:64
+#: Arjuna/search.php:59
+msgid "Newer Entries"
+msgstr "Novější záznamy"
+
+#: Arjuna/archive.php:78
+#: Arjuna/index.php:65
+#: Arjuna/search.php:60
+msgid "Older Entries"
+msgstr "Starší záznamy"
+
+#: Arjuna/archive.php:83
+#: Arjuna/index.php:71
+msgid "There is nothing here (yet)."
+msgstr "Zatím zde nic není."
+
+#: Arjuna/comments.php:13
+#: Arjuna/comments_legacy.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tento příspěvek je chráněn heslem. Vložte heslo pro prohlížení komentářů."
+
+#: Arjuna/comments.php:21
+#: Arjuna/comments_legacy.php:18
+#: Arjuna/functions.php:891
+msgid "Comments"
+msgstr "Komentáře"
+
+#: Arjuna/comments.php:23
+#: Arjuna/comments_legacy.php:20
+msgid "Leave a comment"
+msgstr "Napiš komentář"
+
+#: Arjuna/comments.php:26
+#: Arjuna/comments_legacy.php:23
+msgid "Trackback"
+msgstr "Trackback"
+
+#: Arjuna/comments.php:37
+msgid "Comment Pages:"
+msgstr "Stránky komentářů:"
+
+#: Arjuna/comments.php:38
+#: Arjuna/comments_legacy.php:81
+msgid "Previous"
+msgstr "Předchozí"
+
+#: Arjuna/comments.php:38
+#: Arjuna/comments_legacy.php:81
+msgid "Next"
+msgstr "Následující"
+
+#: Arjuna/comments.php:40
+#: Arjuna/comments_legacy.php:83
+msgid "Older Comments"
+msgstr "Starší komentáře"
+
+#: Arjuna/comments.php:41
+#: Arjuna/comments_legacy.php:84
+msgid "Newer Comments"
+msgstr "Novější komentáře"
+
+#: Arjuna/comments.php:48
+#: Arjuna/comments_legacy.php:91
+msgid "No one has commented yet."
+msgstr "Nikdo zatím nepřidal komentář."
+
+#: Arjuna/comments.php:50
+#: Arjuna/comments_legacy.php:93
+msgid "Comments are closed."
+msgstr "Komentáře jsou uzavřeny."
+
+#: Arjuna/comments.php:60
+#: Arjuna/comments_legacy.php:102
+msgid "Leave a Comment"
+msgstr "Zanechat komentář"
+
+#: Arjuna/comments.php:62
+msgid "Cancel Reply"
+msgstr "Zrušit odpověď"
+
+#: Arjuna/comments.php:66
+#: Arjuna/comments_legacy.php:104
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Musíš %sbýt přihlášen%s k přidání komentáře."
+
+#: Arjuna/comments.php:69
+#: Arjuna/comments.php:78
+#: Arjuna/comments_legacy.php:107
+#: Arjuna/comments_legacy.php:114
+msgid "Your name"
+msgstr "Tvé jméno (vyžadováno)"
+
+#: Arjuna/comments.php:70
+#: Arjuna/comments.php:79
+#: Arjuna/comments_legacy.php:108
+#: Arjuna/comments_legacy.php:115
+msgid "Your email"
+msgstr "Tvůj email (vyžadováno, nezobrazí se)"
+
+#: Arjuna/comments.php:71
+#: Arjuna/comments.php:80
+#: Arjuna/comments_legacy.php:109
+#: Arjuna/comments_legacy.php:116
+msgid "Your website"
+msgstr "Tvůj web (nepovinné)"
+
+#: Arjuna/comments.php:72
+#: Arjuna/comments.php:89
+#: Arjuna/comments_legacy.php:110
+#: Arjuna/comments_legacy.php:119
+msgid "Your comment"
+msgstr "Tvůj komentář"
+
+#: Arjuna/comments.php:75
+#: Arjuna/comments_legacy.php:112
+#, php-format
+msgid "Logged in as %s."
+msgstr "Přihlášen jako %s."
+
+#: Arjuna/comments.php:75
+#: Arjuna/comments_legacy.php:112
+msgid "Log out of this account"
+msgstr "Odhlásit se z tohoto účtu"
+
+#: Arjuna/comments.php:75
+#: Arjuna/comments_legacy.php:112
+msgid "Logout"
+msgstr "Odhlásit se"
+
+#: Arjuna/comments.php:91
+#: Arjuna/comments_legacy.php:121
+msgid "Subscribe to comments"
+msgstr "Přihlásit se k odběru komentářů"
+
+#: Arjuna/comments.php:92
+#: Arjuna/comments_legacy.php:122
+msgid "Leave comment"
+msgstr "Odeslat komentář"
+
+#: Arjuna/comments_legacy.php:58
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s na %2$s"
+
+#: Arjuna/comments_legacy.php:58
+msgid "H:i"
+msgstr "H:i"
+
+#: Arjuna/comments_legacy.php:65
+#: Arjuna/functions.php:1187
+msgid "Your comment is awaiting moderation."
+msgstr "Tvůj komentář čeká na schválení."
+
+#: Arjuna/functions.php:352
+msgid "Arjuna Options"
+msgstr "Nastavení Arjuna"
+
+#: Arjuna/functions.php:362
+msgid "The Arjuna options have been saved."
+msgstr "Nastavení Arjuny bylo uloženo."
+
+#: Arjuna/functions.php:366
+msgid "Arjuna Theme Options"
+msgstr "Nastavení vzhledu Arjuna"
+
+#: Arjuna/functions.php:370
+#, php-format
+msgid "Thank you for using Arjuna, the free WordPress theme designed by %s."
+msgstr "Děkujeme za stažení Arjuny, grafického vzhledu pro Wordpress, které navrhl %s"
+
+#: Arjuna/functions.php:370
+msgid "Follow Us"
+msgstr ""
+
+#: Arjuna/functions.php:374
+msgid "Report Bugs"
+msgstr "Nahlášení závad"
+
+#: Arjuna/functions.php:375
+msgid "Report a Bug"
+msgstr "Nahlásit závadu"
+
+#: Arjuna/functions.php:375
+msgid "Please include your Wordpress version, browser details and a screenshot, if necessary."
+msgstr "Prosím vložte také svou verzi WordPressu, detaily o prohlížeči a screenshot, pokud je to potřeba."
+
+#: Arjuna/functions.php:378
+msgid "Useful Links"
+msgstr "Užitečné odkazy"
+
+#: Arjuna/functions.php:379
+msgid "Changelog"
+msgstr "Záznam změn"
+
+#: Arjuna/functions.php:380
+msgid "FAQ"
+msgstr "FAQ"
+
+#: Arjuna/functions.php:381
+msgid "Roadmap"
+msgstr "Plán"
+
+#: Arjuna/functions.php:382
+msgid "Leave Feedback"
+msgstr "Vložit feedback"
+
+#: Arjuna/functions.php:385
+msgid "Support &amp; Sales"
+msgstr "Podpora a prodej"
+
+#: Arjuna/functions.php:386
+msgid "Contact Sales"
+msgstr "Kontakt prodeje"
+
+#: Arjuna/functions.php:386
+msgid "Need installation or integration support? Need something customized or extended?"
+msgstr "Potřebuješ pomoci s instalací nebo integrací? Potřebuješ něco upravit nebo rozšířit?"
+
+#: Arjuna/functions.php:391
+msgid "Arjuna is completely free. Therefore, please understand that we do NOT offer free support. If you require support of any kind other than fixing a bug that is related to Arjuna, please request a quote from us."
+msgstr ""
+
+#: Arjuna/functions.php:395
+msgid "Header"
+msgstr "Hlavička"
+
+#: Arjuna/functions.php:399
+msgid "First Header Menu"
+msgstr "První nabídku v hlavičce"
+
+#: Arjuna/functions.php:403
+msgid "Enabled"
+msgstr "Povolit"
+
+#: Arjuna/functions.php:405
+msgid "Enable this menu"
+msgstr "Povolit tuto nabídku"
+
+#: Arjuna/functions.php:407
+msgid "If disabled, the menu will be hidden."
+msgstr "Pokud je zakázána, nabídka bude skrytá."
+
+#: Arjuna/functions.php:411
+#: Arjuna/functions.php:595
+msgid "Dropdown"
+msgstr "Rozbalovací"
+
+#: Arjuna/functions.php:415
+#: Arjuna/functions.php:599
+msgid "No dropdown menu"
+msgstr "Nerozbalovací nabídka"
+
+#: Arjuna/functions.php:419
+#: Arjuna/functions.php:603
+msgid "One-level dropdown menu"
+msgstr "Jednoúrovňová rozbalovací nabídka"
+
+#: Arjuna/functions.php:423
+#: Arjuna/functions.php:607
+msgid "Two-level dropdown menu"
+msgstr "Dvouúrovňová rozbalovací nabídka"
+
+#: Arjuna/functions.php:427
+msgid "Alignment"
+msgstr "Zarovnaní"
+
+#: Arjuna/functions.php:431
+msgid "Left"
+msgstr "Levé"
+
+#: Arjuna/functions.php:435
+msgid "Right"
+msgstr "Pravé"
+
+#: Arjuna/functions.php:440
+#: Arjuna/functions.php:612
+msgid "Menu lists only"
+msgstr "Pouze seznamy nabídek"
+
+#: Arjuna/functions.php:444
+#: Arjuna/functions.php:616
+msgid "Pages"
+msgstr "Stránky"
+
+#: Arjuna/functions.php:448
+#: Arjuna/functions.php:620
+#: Arjuna/sidebar.php:37
+msgid "Categories"
+msgstr "Rubriky"
+
+#: Arjuna/functions.php:453
+#: Arjuna/functions.php:625
+msgid "Sorting Order"
+msgstr "Řadit dle"
+
+#: Arjuna/functions.php:456
+#: Arjuna/functions.php:470
+#: Arjuna/functions.php:628
+#: Arjuna/functions.php:642
+msgid "Sort menu items in"
+msgstr "Řadit položky nabídky"
+
+#: Arjuna/functions.php:458
+#: Arjuna/functions.php:472
+#: Arjuna/functions.php:630
+#: Arjuna/functions.php:644
+msgid "ascending"
+msgstr "vzestupně"
+
+#: Arjuna/functions.php:459
+#: Arjuna/functions.php:473
+#: Arjuna/functions.php:631
+#: Arjuna/functions.php:645
+msgid "descending"
+msgstr "sestupně"
+
+#: Arjuna/functions.php:461
+#: Arjuna/functions.php:475
+#: Arjuna/functions.php:633
+#: Arjuna/functions.php:647
+msgid "order by"
+msgstr "třídit podle"
+
+#: Arjuna/functions.php:463
+#: Arjuna/functions.php:635
+msgid "Category Name"
+msgstr "Jméno rubriky"
+
+#: Arjuna/functions.php:464
+#: Arjuna/functions.php:636
+msgid "Category ID"
+msgstr "ID kategorie"
+
+#: Arjuna/functions.php:465
+#: Arjuna/functions.php:637
+msgid "Post Count"
+msgstr "Počet příspěvků"
+
+#: Arjuna/functions.php:466
+#: Arjuna/functions.php:638
+msgid "Category Slug"
+msgstr "Odkaz kategorie"
+
+#: Arjuna/functions.php:477
+#: Arjuna/functions.php:649
+msgid "Page Title"
+msgstr "Názvu stránky"
+
+#: Arjuna/functions.php:478
+#: Arjuna/functions.php:650
+msgid "Page ID"
+msgstr "ID stránky"
+
+#: Arjuna/functions.php:479
+#: Arjuna/functions.php:651
+msgid "Page Slug"
+msgstr "Odkazu stránky"
+
+#: Arjuna/functions.php:480
+#: Arjuna/functions.php:652
+msgid "Page Order"
+msgstr "Řazení stránek"
+
+#: Arjuna/functions.php:486
+#: Arjuna/functions.php:658
+msgid "Menu Items"
+msgstr ""
+
+#: Arjuna/functions.php:490
+#: Arjuna/functions.php:662
+#, fuzzy
+msgid "Include categories"
+msgstr "Rubriky"
+
+#: Arjuna/functions.php:506
+#: Arjuna/functions.php:678
+#, fuzzy
+msgid "Exclude categories"
+msgstr "Rubriky"
+
+#: Arjuna/functions.php:527
+#: Arjuna/functions.php:699
+msgid "Include pages"
+msgstr ""
+
+#: Arjuna/functions.php:543
+#: Arjuna/functions.php:715
+msgid "Exclude pages"
+msgstr ""
+
+#: Arjuna/functions.php:579
+msgid "Second Header Menu"
+msgstr "Druhá nabídka v hlavičce"
+
+#: Arjuna/functions.php:583
+msgid "Home Button"
+msgstr "Tlačítko Domů"
+
+#: Arjuna/functions.php:585
+msgid "Display Home button"
+msgstr "Zobrazit tlačítko Domů"
+
+#: Arjuna/functions.php:589
+msgid "Separators"
+msgstr "Oddělovače"
+
+#: Arjuna/functions.php:591
+msgid "Visually separate the menu buttons"
+msgstr "Vizuálně odděluje tlačítka v menu"
+
+#: Arjuna/functions.php:751
+#: Arjuna/functions.php:755
+msgid "Header Image"
+msgstr "Obrázek v hlavičce"
+
+#: Arjuna/functions.php:760
+msgid "Light Blue"
+msgstr "Světle modrý"
+
+#: Arjuna/functions.php:765
+msgid "Dark Blue"
+msgstr "Tmavě modrý"
+
+#: Arjuna/functions.php:770
+msgid "Khaki"
+msgstr ""
+
+#: Arjuna/functions.php:775
+msgid "Sea Green"
+msgstr ""
+
+#: Arjuna/functions.php:782
+msgid "General Options"
+msgstr "Obecná nastavení"
+
+#: Arjuna/functions.php:783
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: Arjuna/functions.php:787
+msgid "Sidebar Position"
+msgstr "Umístění postranního panelu"
+
+#: Arjuna/functions.php:792
+msgid "Right sidebar"
+msgstr "Pravý panel"
+
+#: Arjuna/functions.php:797
+msgid "Left sidebar"
+msgstr "Levý panel"
+
+#: Arjuna/functions.php:802
+msgid "No sidebar"
+msgstr "Bez panelu"
+
+#: Arjuna/functions.php:807
+msgid "Sidebar Width"
+msgstr "Šířka panelu"
+
+#: Arjuna/functions.php:809
+msgid "Small"
+msgstr "Malý"
+
+#: Arjuna/functions.php:810
+msgid "Normal"
+msgstr "Normální"
+
+#: Arjuna/functions.php:811
+msgid "Large"
+msgstr "Velký"
+
+#: Arjuna/functions.php:812
+msgid "If you intend to use the two column sidebar, we recommend to choose either the normal or the large sidebar."
+msgstr "Pokud chcete používat dvousloupcový postranní panel, doporučujeme vybrat normální nebo velký panel."
+
+#: Arjuna/functions.php:816
+msgid "Default Widgets"
+msgstr "Výchozí widgety"
+
+#: Arjuna/functions.php:818
+msgid "Display default sidebar widgets if the widget bars are empty."
+msgstr "Zobrazí výchozí widgety pokud nejsou žádné widgety nastaveny."
+
+#: Arjuna/functions.php:819
+msgid "If enabled, these widgets will be displayed if the widget bar is empty: <b>sidebar_full_top:</b> Recent Posts and Browse by Tags, <b>sidebar_left:</b> Categories, <b>sidebar_right:</b> Meta"
+msgstr "Pokud je povoleno tyto widgety budou použity, pokud nejsou žádné widgety aktivní: <b>sidebar_full_top:</b> Nejnovější příspěvky a Štítky, <b>sidebar_left:</b> Rubriky, <b>sidebar_right:</b> Meta"
+
+#: Arjuna/functions.php:823
+msgid "RSS Button"
+msgstr "Tlačítko RSS"
+
+#: Arjuna/functions.php:825
+msgid "Display an RSS button on the very top of the sidebar."
+msgstr "Zobrazí tlačítko RSS úplně na vrcholu postranního panelu."
+
+#: Arjuna/functions.php:829
+msgid "Twitter Button"
+msgstr "Tlačítko Twitteru"
+
+#: Arjuna/functions.php:831
+msgid "Display a Twitter button on the very top of the sidebar."
+msgstr "Zobrazí tlačítko Twitteru úplně na vrcholu postranního panelu"
+
+#: Arjuna/functions.php:838
+#, fuzzy
+msgid "Facebook Button"
+msgstr "Tlačítko Domů"
+
+#: Arjuna/functions.php:840
+#, fuzzy
+msgid "Display a Facebook button on the very top of the sidebar."
+msgstr "Zobrazí tlačítko RSS úplně na vrcholu postranního panelu."
+
+#: Arjuna/functions.php:847
+#, fuzzy
+msgid "Display Button Labels"
+msgstr "Zobrazit tlačítko Domů"
+
+#: Arjuna/functions.php:849
+msgid "Display labels next to the buttons (RSS, Twitter and Facebook)."
+msgstr ""
+
+#: Arjuna/functions.php:858
+#, fuzzy
+msgid "Single Posts and Pages"
+msgstr "Stránky s jediným příspěvkem"
+
+#: Arjuna/functions.php:862
+msgid "Display Author"
+msgstr "Zobrazit autora"
+
+#: Arjuna/functions.php:864
+msgid "Include the author of a post in the post header."
+msgstr "Zahrnout jméno autora do hlavičky příspěvku."
+
+#: Arjuna/functions.php:868
+msgid "Display Time"
+msgstr "Zobrazit čas"
+
+#: Arjuna/functions.php:870
+msgid "Include the time and date of when the post has been published, instead of only the date."
+msgstr "Zahrnout datum a čas, kdy byl příspěvek publikován místo pouhého data."
+
+#: Arjuna/functions.php:874
+msgid "Display Info Bar for Pages"
+msgstr ""
+
+#: Arjuna/functions.php:876
+msgid "Display the info bar right below the title of pages."
+msgstr ""
+
+#: Arjuna/functions.php:877
+msgid "The info bar usually includes the author of the page, the publish date and the comments button. This options entirely hides the bar so that only the title is shown."
+msgstr ""
+
+#: Arjuna/functions.php:881
+msgid "Navigation Links"
+msgstr "Navigační odkazy"
+
+#: Arjuna/functions.php:883
+msgid "Display links to the previous and next posts above each post."
+msgstr "Zobrazovat odkazy na předchozí a následující příspěvek nad každým příspěvkem."
+
+#: Arjuna/functions.php:884
+msgid "Display links to the previous and next posts below each post."
+msgstr "Zobrazovat odkazy na předchozí a následující příspěvek pod každým příspěvkem."
+
+#: Arjuna/functions.php:885
+msgid "Note: The links will only be shown on permalink pages, i.e. the URL where one single post/page is displayed."
+msgstr "Poznámka: Odkazy mohou být zobrazeny jenom na stránkách dostupných pomocí trvalých odkazů, například URL které odkazuje na jeden příspěvěk/stránku."
+
+#: Arjuna/functions.php:895
+msgid "Display comments as follows"
+msgstr "Zobrazit komentáře takto"
+
+#: Arjuna/functions.php:900
+msgid "Aligned to the left"
+msgstr "Zarovnané doleva"
+
+#: Arjuna/functions.php:905
+msgid "Aligned to the right"
+msgstr "Zarovnané doprava"
+
+#: Arjuna/functions.php:910
+msgid "Alternate between left and right alignment"
+msgstr "Střídavě s levým a pravým zarovnáním"
+
+#: Arjuna/functions.php:915
+msgid "Date Format"
+msgstr "Formát data"
+
+#: Arjuna/functions.php:917
+msgid "Passed Time (Example: <em>&quot;Written by admin about 3 days ago.&quot;</em>)"
+msgstr "Minulý čas (Příklad: <em>&quot;Napsal administrátor před 3 dny.&quot;</em>)"
+
+#: Arjuna/functions.php:918
+#, php-format
+msgid "Default Date Format (Example: <em>&quot;Written by admin on %s&quot;</em>)"
+msgstr "Výchozí formát data (Příklad: <em>&quot;Napsal administrátor %s&quot;</em>)"
+
+#: Arjuna/functions.php:919
+msgid "The default date format can be customized in Settings &gt; General."
+msgstr "Výchozí formát data může být změněn v Nastavení &gt; Obecné"
+
+#: Arjuna/functions.php:923
+#, fuzzy
+msgid "Comment Display"
+msgstr "Komentáře"
+
+#: Arjuna/functions.php:925
+msgid "Hide any traces of comments when comments are disabled on <strong>Pages</strong>."
+msgstr ""
+
+#: Arjuna/functions.php:926
+msgid "Hide any traces of comments when comments are disabled on <strong>Posts</strong>."
+msgstr ""
+
+#: Arjuna/functions.php:927
+msgid "Note: If enabled, the section that says Comments and the comments button in the heading of the respective pages/posts will be removed."
+msgstr ""
+
+#: Arjuna/functions.php:933
+msgid "Blog"
+msgstr "Blog"
+
+#: Arjuna/functions.php:937
+msgid "Pagination"
+msgstr "Stránkování"
+
+#: Arjuna/functions.php:939
+msgid "Use Arjuna pagination"
+msgstr "Použít stránkování Arjuny"
+
+#: Arjuna/functions.php:940
+msgid "If enabled, Arjuna will use its own native pagination to allow your users to navigate the blog using pages."
+msgstr "Pokud je povoleno, Arjuna může použít svůj vlastní systém stránkování, který umožní procházet blog pomocí stránek."
+
+#: Arjuna/functions.php:944
+msgid "Page Range"
+msgstr "Rozsah stránek"
+
+#: Arjuna/functions.php:953
+msgid "The number of page buttons that will appear before and after the current page button."
+msgstr "Počet čísel stránek, které se zobrazují před a za aktivní stránkou."
+
+#: Arjuna/functions.php:957
+msgid "Page Anchors"
+msgstr "Kotvy stránky"
+
+#: Arjuna/functions.php:966
+msgid "The number of page buttons that will always appear at the beginning and the end of the pagination."
+msgstr "Čísla stránek, která se vždy zobrazí na začátku a konci stránkování."
+
+#: Arjuna/functions.php:970
+msgid "Page Gap"
+msgstr "Mezery mezi stránkami"
+
+#: Arjuna/functions.php:979
+#, fuzzy
+msgid "The number of page buttons in a gap before an ellipsis (...) is displayed."
+msgstr "Počet čísel stránek, které jsou zobrazeny v mezeře než se zobrazí tři tečky (...)."
+
+#: Arjuna/functions.php:984
+msgid "Use WordPress default"
+msgstr "Použít výchozí z WordPressu"
+
+#: Arjuna/functions.php:985
+msgid "The default depends on your WordPress version and whether you have any pagination plugins activated. If the wp-paginate or wp-pagenavi plugin is activated, then Arjuna will use these plugins to create the pagination."
+msgstr "Výchozí nastavení, které je závislé na tvé verzi WordPessu a také jakémkoli aktivovaném stránkovacím pluginu. Pokud je wp-paginate nebo wp-pagenavi plugin aktivní, Arjuna může použít tyto pluginy pro stránkování."
+
+#: Arjuna/functions.php:991
+msgid "Miscellaneous"
+msgstr "Ostatní"
+
+#: Arjuna/functions.php:995
+msgid "Append to page title"
+msgstr "Připojit ke jménu stránky"
+
+#: Arjuna/functions.php:997
+#, php-format
+msgid "Blog Name (&quot; - %s&quot;)"
+msgstr "Jméno blogu (&quot; - %s&quot;)"
+
+#: Arjuna/functions.php:998
+msgid "Custom:"
+msgstr "Vlastní:"
+
+#: Arjuna/functions.php:999
+msgid "This will be appended to the page title of every web page (posts, pages, categories, etc.)"
+msgstr "Toto bude přidáno ke každému titulu stránky (příspěvku, stránky, rubriky, atd.)"
+
+#: Arjuna/functions.php:1003
+msgid "Footer Style"
+msgstr "Styl patičky"
+
+#: Arjuna/functions.php:1016
+msgid "Custom CSS"
+msgstr "Vlastní CSS"
+
+#: Arjuna/functions.php:1023
+#, fuzzy
+msgid "Arjuna needs write permissions to create a new file &quot;user-style.css&quot;, which will contain the custom CSS."
+msgstr "Arjuna potřebuje právo zápisu pro vytvoření nového souboru \"user-style.css\", ten obsahuje vlastní zápis CSS."
+
+#: Arjuna/functions.php:1025
+msgid "Enable custom CSS rules"
+msgstr "Povolit vlastní CSS pravidla"
+
+#: Arjuna/functions.php:1026
+msgid "If enabled, Arjuna will create a user stylesheet with your custom CSS rules. The user stylesheet will be included with every page call. If you intend to make some minor changes to the stylesheet, enabling this option ensures that you can safely upgrade Arjuna without losing your custom CSS."
+msgstr "Pokud je povoleno, Arjuna vytvoří styl podle tvých vlastních CSS pravidel. Uživatelský styl bude použit na každé volání stránky. Pokud chceš provést změny ve stylu, povolením této volby zajistíš, že při aktualizaci Arjuny nepřijdeš o vlastní styl."
+
+#: Arjuna/functions.php:1035
+msgid "Note:"
+msgstr ""
+
+#: Arjuna/functions.php:1035
+msgid "Arjuna cannot write to the themes directory. The custom CSS rules will be included in the header of each page, between &lt;STYLE&gt; tags."
+msgstr ""
+
+#: Arjuna/functions.php:1044
+msgid "Performance Optimization"
+msgstr "Optimalizace výkonu"
+
+#: Arjuna/functions.php:1048
+msgid "Internet Explorer 6 Optimization"
+msgstr "Optimalizace pro Internet Explorer 6"
+
+#: Arjuna/functions.php:1050
+msgid "Enable IE6 performance optimization"
+msgstr "Povolit optimalizaci výkonu pro IE6"
+
+#: Arjuna/functions.php:1051
+msgid "If turned on, Arjuna will attempt to detect IE6 and serve a stand-alone CSS file specifically made for IE6."
+msgstr "Pokud je zapnuta, Arjuna se pokusí detekovat IE6 a pro zobrazení použije odlišného CSS souboru, který je optimalizován pro IE6."
+
+#: Arjuna/functions.php:1051
+msgid "Note: IE6 will still work the same if this option is turned off, however, you and your IE6 users will save an estimated 28kb (11 image and 2 CSS files) in bandwidth for first-time visitors. IE6 also might render more rapidly if this is turned on."
+msgstr "Poznámka: IE6 může pracovat stejně pokud bude tato volba vypnuta, každopádně ty a tví uživatelé používající IE6 ušetří zhruba 28kb (11 obrázků a 2 CSS soubory) při první návštěvě. Stránka může být mnohem rychleji zobrazena pokud je volba zapnuta."
+
+#: Arjuna/functions.php:1058
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: Arjuna/functions.php:1175
+msgid "Written by"
+msgstr "Napsal"
+
+#: Arjuna/functions.php:1177
+#, php-format
+msgid "about %s ago"
+msgstr "před %s"
+
+#: Arjuna/functions.php:1179
+msgid "on"
+msgstr "v"
+
+#: Arjuna/functions.php:1184
+msgid "Edit"
+msgstr "Upravit"
+
+#: Arjuna/functions.php:1211
+msgid "1 year"
+msgstr "1 rokem"
+
+#: Arjuna/functions.php:1211
+#, php-format
+msgid "%d years"
+msgstr "%d roky"
+
+#: Arjuna/functions.php:1215
+msgid "1 month"
+msgstr "1 měsícem"
+
+#: Arjuna/functions.php:1215
+#, php-format
+msgid "%d months"
+msgstr "%d měsíci"
+
+#: Arjuna/functions.php:1219
+msgid "1 week"
+msgstr "1 týdnem"
+
+#: Arjuna/functions.php:1219
+#, php-format
+msgid "%d weeks"
+msgstr "%d týdny"
+
+#: Arjuna/functions.php:1223
+msgid "1 day"
+msgstr "1 dnem"
+
+#: Arjuna/functions.php:1223
+#, php-format
+msgid "%d days"
+msgstr "%d dny"
+
+#: Arjuna/functions.php:1227
+msgid "1 hour"
+msgstr "1 hodinou"
+
+#: Arjuna/functions.php:1227
+#, php-format
+msgid "%d hours"
+msgstr "%d hodinami"
+
+#: Arjuna/functions.php:1231
+msgid "1 minute"
+msgstr "1 minutou"
+
+#: Arjuna/functions.php:1231
+#, php-format
+msgid "%d minutes"
+msgstr "%d minutami"
+
+#: Arjuna/functions.php:1234
+msgid "1 second"
+msgstr "1 sekundou"
+
+#: Arjuna/functions.php:1234
+#, php-format
+msgid "%d seconds"
+msgstr "%d sekundami"
+
+#: Arjuna/functions.php:1320
+#, php-format
+msgid "Page %s of %s"
+msgstr "Stránka %s z %s"
+
+#: Arjuna/functions.php:1359
+#: Arjuna/functions.php:1362
+#, php-format
+msgid "Page %s"
+msgstr "Stránka %s"
+
+#: Arjuna/header.php:10
+msgid "Search Results:"
+msgstr "Výsledky vyhledávání"
+
+#: Arjuna/header.php:37
+msgid "Skip to posts"
+msgstr "Přeskočit na příspěvky"
+
+#: Arjuna/header.php:63
+msgid "Search here..."
+msgstr "Hledat..."
+
+#: Arjuna/header.php:64
+msgid "Find"
+msgstr "Najdi"
+
+#: Arjuna/header.php:70
+msgid "Home"
+msgstr "Domů"
+
+#: Arjuna/index.php:53
+msgid "Previous Page"
+msgstr "Předchozí stránka"
+
+#: Arjuna/index.php:53
+msgid "Next Page"
+msgstr "Následující stránka"
+
+#: Arjuna/page.php:44
+#: Arjuna/page_fullwidth.php:48
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: Arjuna/page.php:44
+#: Arjuna/page_fullwidth.php:48
+msgid "Page %"
+msgstr "Stránka %"
+
+#: Arjuna/page.php:46
+#: Arjuna/page_fullwidth.php:50
+#: Arjuna/single.php:53
+msgid "Edit in Admin"
+msgstr "Upravit v administraci"
+
+#: Arjuna/page.php:58
+#: Arjuna/page_fullwidth.php:63
+#: Arjuna/single.php:73
+msgid "There is nothing here."
+msgstr "Nic zde není."
+
+#: Arjuna/search.php:8
+#, php-format
+msgid "Search Results on <em>%s</em>"
+msgstr "Výsledky vyhledávání na dotaz <em>%s</em>"
+
+#: Arjuna/search.php:65
+msgid "Your search returned no results."
+msgstr "Vyhledávání nenašlo žádný výsledek."
+
+#: Arjuna/sidebar.php:20
+msgid "Recent Posts"
+msgstr "Nejnovější příspěvky"
+
+#: Arjuna/sidebar.php:27
+msgid "Browse by Tags"
+msgstr "Štítky"
+
+#: Arjuna/sidebar.php:49
+msgid "Meta"
+msgstr "Meta"
+
+#: Arjuna/single.php:9
+#: Arjuna/single.php:64
+msgid "Previous Post"
+msgstr "Předchozí příspěvek"
+
+#: Arjuna/single.php:10
+#: Arjuna/single.php:65
+msgid "Next Post"
+msgstr "Následující příspěvek"
+
+#~ msgid ""
+#~ "Arjuna is completely free. If you like this project and want to support "
+#~ "further development and maintenance, please"
+#~ msgstr ""
+#~ "Arjuna je úplně zdarma. Pokud máš rád tento projekt a chceš podpořit "
+#~ "opravy a vývoj, prosím "
+
+#~ msgid ""
+#~ "This feature is disabled because Arjuna does not have write permissions "
+#~ "to %s."
+#~ msgstr "Tato možnost je zakázána jelikož Arjuna nemůže zapisovat do %s."

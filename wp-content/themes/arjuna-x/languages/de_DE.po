@@ -1,0 +1,1439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arjuna X 1.3.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Markus Liebl <ProjectMedlan@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: arjuna-x/404.php:4
+msgid "Error 404 - Not Found"
+msgstr "Fehler 404 - Nicht gefunden"
+
+#: arjuna-x/404.php:5
+msgid "Sorry, but you are looking for something that isn't here. "
+msgstr "Leider ist das was du suchst nicht hier."
+
+#: arjuna-x/archive.php:8
+#, php-format
+msgid "Browsing Posts in <em>%s</em>"
+msgstr "Durchsuche Beiträge in <em>%s</em>"
+
+#: arjuna-x/archive.php:10
+#, php-format
+msgid "Browsing Posts tagged <em>%s</em>"
+msgstr "Durchsuche Beiträge mit Schlagwörtern <em>%s</em>"
+
+#: arjuna-x/archive.php:12
+#, php-format
+msgid "Browsing Posts published on %s"
+msgstr "Durchsuche Beiträge, die am %s erstellt wurden"
+
+#: arjuna-x/archive.php:14
+#: arjuna-x/archive.php:16
+#, php-format
+msgid "Browsing Posts published in %s"
+msgstr "Durchsuche Beiträge, die in der Kategorie %s erstellt wurden"
+
+#: arjuna-x/archive.php:14
+msgid "F, Y"
+msgstr "F, Y"
+
+#: arjuna-x/archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: arjuna-x/archive.php:19
+#, php-format
+msgid "Browsing Posts published by <em>%s</em>"
+msgstr "Durchsuche Beiträge, die von <em>%s</em> geschrieben wurden"
+
+#: arjuna-x/archive.php:21
+msgid "Blog Archives"
+msgstr "Blog Archiv"
+
+#: arjuna-x/archive.php:38
+#: arjuna-x/index.php:13
+#: arjuna-x/page.php:18
+#: arjuna-x/page_fullwidth.php:22
+#: arjuna-x/search.php:20
+#: arjuna-x/single.php:15
+msgid "continue reading..."
+msgstr "weiter lesen"
+
+#: arjuna-x/archive.php:49
+#: arjuna-x/index.php:25
+msgid "There is nothing here (yet)."
+msgstr "Hier gibt's (noch) nichts."
+
+#: arjuna-x/comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dieser Beitrag ist durch ein Passwort geschützt. Bitte gib das Passwort ein um die Kommentare zu sehen."
+
+#: arjuna-x/comments.php:23
+msgid "Comments"
+msgstr "Kommentare"
+
+#: arjuna-x/comments.php:30
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: arjuna-x/comments.php:37
+msgid "Leave a comment"
+msgstr "Kommentar hinterlassen"
+
+#: arjuna-x/comments.php:40
+msgid "Trackback"
+msgstr "Trackback"
+
+#: arjuna-x/comments.php:56
+msgid "No one has commented yet."
+msgstr "Hier gibt es noch keine Kommentare."
+
+#: arjuna-x/comments.php:58
+msgid "Comments are closed."
+msgstr "Kommentare sind gesperrt"
+
+#: arjuna-x/comments.php:74
+msgid "No trackbacks yet."
+msgstr "Noch keine Trackbacks"
+
+#: arjuna-x/comments.php:76
+msgid "Trackbacks are disabled."
+msgstr "Trackbacks sind deaktiviert."
+
+#: arjuna-x/functions.php:136
+msgid "Light Blue"
+msgstr "Hellblau"
+
+#: arjuna-x/functions.php:137
+msgid "Dark Blue"
+msgstr "Dunkelblau"
+
+#: arjuna-x/functions.php:138
+msgid "Khaki"
+msgstr "Khaki"
+
+#: arjuna-x/functions.php:139
+msgid "Sea Green"
+msgstr "Seegrün"
+
+#: arjuna-x/functions.php:140
+msgid "Light Red"
+msgstr "Leichtes rot"
+
+#: arjuna-x/functions.php:141
+msgid "Purple"
+msgstr "Violett"
+
+#: arjuna-x/functions.php:142
+msgid "Light Gray"
+msgstr "Leichtes grau"
+
+#: arjuna-x/functions.php:143
+msgid "Dark Gray"
+msgstr "Dunkles grau"
+
+#: arjuna-x/functions.php:583
+#: arjuna-x/functions.php:590
+msgid "The uploaded file is not a valid image. Only JPEG, PNG and GIF is supported."
+msgstr "Die Datei, die du hochgeladen habe, ist keine gültige Bilddatei. Es werden nur JPEG, PNG und GIF unterstützt."
+
+#: arjuna-x/functions.php:682
+msgid "Arjuna Options"
+msgstr "Arjuna Einstellungen"
+
+#: arjuna-x/functions.php:702
+msgid "The Arjuna options have been saved."
+msgstr "Die Arjuna Einstellungen wurden gespeichert"
+
+#: arjuna-x/functions.php:707
+msgid "Arjuna Theme Options"
+msgstr "Arjuna Theme Einstellungen"
+
+#: arjuna-x/functions.php:710
+msgid "This browser is outdated. Please <a href=\"http://www.microsoft.com/windows/internet-explorer/default.aspx\">upgrade</a> your browser to enjoy this website to its fullest extent."
+msgstr "Dieser Browser ist veraltet. Bitte <a href=\"http://www.microsoft.com/windows/internet-explorer/default.aspx\">aktualisieren</a> Sie ihren Browser um den vollen Funktionsumfang der Seite nutzen zu können."
+
+#: arjuna-x/functions.php:715
+#, php-format
+msgid "Thank you for using Arjuna, the free WordPress theme designed by %s."
+msgstr "Danke, das du Arjuna, das freie WordPress Theme von %s nutzt."
+
+#: arjuna-x/functions.php:717
+msgid "Follow Us"
+msgstr "Verfolge Uns"
+
+#: arjuna-x/functions.php:718
+msgid "to receive news, updates, and more."
+msgstr "um Nachrichten, Updates und mehr zu empfangen"
+
+#: arjuna-x/functions.php:727
+msgid "Report Bugs"
+msgstr "Fehler melden"
+
+#: arjuna-x/functions.php:728
+msgid "Report a Bug"
+msgstr "Melde einen Fehler"
+
+#: arjuna-x/functions.php:728
+msgid "Please include your Wordpress version, browser details and a screenshot, if necessary."
+msgstr "Bitte teile uns deine Wordpress Version und deinen Browser mit und hänge gegebenenfalls einen Screenshot an."
+
+#: arjuna-x/functions.php:731
+msgid "Useful Links"
+msgstr "Nützliche Links"
+
+#: arjuna-x/functions.php:732
+msgid "Changelog"
+msgstr "Änderungen"
+
+#: arjuna-x/functions.php:733
+msgid "FAQ"
+msgstr "FAQ"
+
+#: arjuna-x/functions.php:734
+msgid "Roadmap"
+msgstr "Projektplan"
+
+#: arjuna-x/functions.php:735
+msgid "Leave Feedback"
+msgstr "Nachricht hinterlassen"
+
+#: arjuna-x/functions.php:738
+msgid "Support &amp; Sales"
+msgstr "Support &amp; Verkauf"
+
+#: arjuna-x/functions.php:739
+msgid "Contact Sales"
+msgstr "Verkauf kontaktieren"
+
+#: arjuna-x/functions.php:739
+msgid "Need installation or integration support? Need something customized or extended?"
+msgstr "Brauchst du Hilfe bei der Installation oder Integration? Muss etwas angepasst oder erweitert werden?"
+
+#: arjuna-x/functions.php:744
+msgid "Arjuna is completely free. Therefore, please understand that we do NOT offer free support. If you require support of any kind other than fixing a bug that is related to Arjuna, please request a quote from us."
+msgstr "Arjuna ist komplett kostenlos. Daher können wir leider KEINEN kostenlosen Support anbieten. Wenn Sie Hilfe benötigen und es sich nicht um einen Fehler im Arjuna handelt, dann fordern Sie bitte ein Angebot von uns an."
+
+#: arjuna-x/functions.php:756
+msgid "General Blog Appearance"
+msgstr "Allgemeine Erscheinungsbild"
+
+#: arjuna-x/functions.php:759
+msgid "Logo"
+msgstr "Logo"
+
+#: arjuna-x/functions.php:764
+msgid "Header Logo"
+msgstr "Header Logo"
+
+#: arjuna-x/functions.php:772
+msgid "The custom logo will be included in the header, aligned to the left and vertically centered."
+msgstr "Das benutzerspezifische Logo wird im Header linksbündig und vertikal zentriert eingebunden."
+
+#: arjuna-x/functions.php:774
+#, php-format
+msgid "You do not have write permissions for the upload directory %s. Please check with your webmaster or host to set write permissions for this directory."
+msgstr "Du hast keine Berechtigungen für das Upload-Verzeichnis %s. Bitte nimm mit deinem Webmaster oder Anbieter Kontakt auf, um die Schreibrechte für diese Verzeichnis zu setzten."
+
+#: arjuna-x/functions.php:785
+msgid "First Header Menu"
+msgstr "Erstes Menü in der Kopfzeile"
+
+#: arjuna-x/functions.php:790
+#: arjuna-x/functions.php:944
+#: arjuna-x/functions.php:1282
+#: arjuna-x/functions.php:1540
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: arjuna-x/functions.php:792
+#: arjuna-x/functions.php:946
+msgid "Enable this menu"
+msgstr "Aktiviere dieses Menü"
+
+#: arjuna-x/functions.php:794
+#: arjuna-x/functions.php:948
+msgid "If disabled, the menu will be hidden."
+msgstr "Wenn deaktiviert wird das Menü nicht angezeigt."
+
+#: arjuna-x/functions.php:798
+#: arjuna-x/functions.php:958
+msgid "Dropdown"
+msgstr "Auswahl"
+
+#: arjuna-x/functions.php:802
+#: arjuna-x/functions.php:962
+msgid "No dropdown menu"
+msgstr "Kein Auswahlmenü"
+
+#: arjuna-x/functions.php:806
+#: arjuna-x/functions.php:966
+msgid "One-level dropdown menu"
+msgstr "Einfaches Auswahlmenü"
+
+#: arjuna-x/functions.php:810
+#: arjuna-x/functions.php:970
+msgid "Two-level dropdown menu"
+msgstr "Zwei-Level Auswahlmenü"
+
+#: arjuna-x/functions.php:814
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: arjuna-x/functions.php:818
+msgid "Left"
+msgstr "Links"
+
+#: arjuna-x/functions.php:822
+msgid "Right"
+msgstr "Rechts"
+
+#: arjuna-x/functions.php:827
+#: arjuna-x/functions.php:981
+#: arjuna-x/functions.php:1499
+msgid "Use"
+msgstr "Benutze"
+
+#: arjuna-x/functions.php:831
+#: arjuna-x/functions.php:985
+msgid "WordPress Custom Menus"
+msgstr "WordPress Custom Menüs"
+
+#: arjuna-x/functions.php:835
+#: arjuna-x/functions.php:989
+msgid "Legacy Menus"
+msgstr "Alte Menüs"
+
+#: arjuna-x/functions.php:842
+#: arjuna-x/functions.php:996
+msgid "Menu lists only"
+msgstr "Nur Menüliste"
+
+#: arjuna-x/functions.php:846
+#: arjuna-x/functions.php:1000
+msgid "Pages"
+msgstr "Seiten"
+
+#: arjuna-x/functions.php:850
+#: arjuna-x/functions.php:1004
+#: arjuna-x/sidebar.php:30
+msgid "Categories"
+msgstr "Kategorien"
+
+#: arjuna-x/functions.php:855
+#: arjuna-x/functions.php:1009
+msgid "Sorting Order"
+msgstr "Sortierreihenfolge"
+
+#: arjuna-x/functions.php:858
+#: arjuna-x/functions.php:872
+#: arjuna-x/functions.php:1012
+#: arjuna-x/functions.php:1026
+msgid "Sort menu items in"
+msgstr "Sortiere Menüpunkte nach"
+
+#: arjuna-x/functions.php:860
+#: arjuna-x/functions.php:874
+#: arjuna-x/functions.php:1014
+#: arjuna-x/functions.php:1028
+msgid "ascending"
+msgstr "aufsteigend"
+
+#: arjuna-x/functions.php:861
+#: arjuna-x/functions.php:875
+#: arjuna-x/functions.php:1015
+#: arjuna-x/functions.php:1029
+msgid "descending"
+msgstr "absteigend"
+
+#: arjuna-x/functions.php:863
+#: arjuna-x/functions.php:877
+#: arjuna-x/functions.php:1017
+#: arjuna-x/functions.php:1031
+msgid "order by"
+msgstr "sortieren nach"
+
+#: arjuna-x/functions.php:865
+#: arjuna-x/functions.php:1019
+msgid "Category Name"
+msgstr "Name der Kategorie"
+
+#: arjuna-x/functions.php:866
+#: arjuna-x/functions.php:1020
+msgid "Category ID"
+msgstr "ID der Kategorie"
+
+#: arjuna-x/functions.php:867
+#: arjuna-x/functions.php:1021
+msgid "Post Count"
+msgstr "Anzahl der Beiträge"
+
+#: arjuna-x/functions.php:868
+#: arjuna-x/functions.php:1022
+msgid "Category Slug"
+msgstr "Kurzinfo zur Kategorie"
+
+#: arjuna-x/functions.php:879
+#: arjuna-x/functions.php:1033
+msgid "Page Title"
+msgstr "Seitentitel"
+
+#: arjuna-x/functions.php:880
+#: arjuna-x/functions.php:1034
+msgid "Page ID"
+msgstr "Seiten ID"
+
+#: arjuna-x/functions.php:881
+#: arjuna-x/functions.php:1035
+msgid "Page Slug"
+msgstr "Kurzinfo zur Seite"
+
+#: arjuna-x/functions.php:882
+#: arjuna-x/functions.php:1036
+msgid "Page Order"
+msgstr "Seiten Reihenfolge"
+
+#: arjuna-x/functions.php:888
+#: arjuna-x/functions.php:1042
+msgid "Menu Items"
+msgstr "Menüpunkte"
+
+#: arjuna-x/functions.php:891
+#: arjuna-x/functions.php:1045
+msgid "Include categories"
+msgstr "Kategorien einschließen"
+
+#: arjuna-x/functions.php:901
+#: arjuna-x/functions.php:1055
+msgid "Exclude categories"
+msgstr "Kategorien ausschließen"
+
+#: arjuna-x/functions.php:908
+msgid "Note: While the above fields show empty categories, the theme will only display categories that have at least one published post in them."
+msgstr "Hinweis: Solange in dem oberen Feld leere Kategorien enthalten sind, wird das Theme nur die eine Kategorie anzeigen, die mindestens einen Beitrag enthalten."
+
+#: arjuna-x/functions.php:911
+#: arjuna-x/functions.php:1065
+msgid "Include pages"
+msgstr "Seiten einschließen"
+
+#: arjuna-x/functions.php:921
+#: arjuna-x/functions.php:1075
+msgid "Exclude pages"
+msgstr "Seiten ausschließen"
+
+#: arjuna-x/functions.php:939
+msgid "Second Header Menu"
+msgstr "Zweites Menü in der Kopfzeile"
+
+#: arjuna-x/functions.php:952
+msgid "Separators"
+msgstr "Trennzeichen"
+
+#: arjuna-x/functions.php:954
+msgid "Visually separate the menu buttons"
+msgstr "Buttons im Menü visuell abgrenzen"
+
+#: arjuna-x/functions.php:975
+msgid "Home Button"
+msgstr "Home Button"
+
+#: arjuna-x/functions.php:977
+msgid "Display Home button"
+msgstr "Home Button anzeigen"
+
+#: arjuna-x/functions.php:1062
+msgid "Note: While the above fields show empty categories, the theme will only display categories that have at least one published post in them.</span>"
+msgstr "Hinweis: Solange in dem oberen Feld leere Kategorien enthalten sind, wird das Theme nur die eine Kategorie anzeigen, die mindestens einen Beitrag enthalten.</span>"
+
+#: arjuna-x/functions.php:1092
+msgid "Background &amp; Color Schemes"
+msgstr "Hintergrund &amp; Farbschemas"
+
+#: arjuna-x/functions.php:1097
+msgid "Background Style"
+msgstr "Hintergrund Style"
+
+#: arjuna-x/functions.php:1101
+msgid "Blueish gradient"
+msgstr "Leicht bläulicher Farbverlauf"
+
+#: arjuna-x/functions.php:1102
+msgid "Gray gradient"
+msgstr "Grauer Farbverlauf"
+
+#: arjuna-x/functions.php:1103
+msgid "Gray gradient (reverse)"
+msgstr "Grauer Farbverlauf (umgekehrt)"
+
+#: arjuna-x/functions.php:1104
+msgid "Khaki gradient"
+msgstr "Khaki Farbverlauf"
+
+#: arjuna-x/functions.php:1116
+msgid "Solid Color"
+msgstr "Solide Farbe"
+
+#: arjuna-x/functions.php:1119
+msgid "Button Style"
+msgstr "Button Style"
+
+#: arjuna-x/functions.php:1125
+msgid "If the background is a solid color, you can choose the style of the buttons yourself."
+msgstr "Wenn du einen einfarbigen Hintergrund verwendest, kannst du den Style der Buttons selber festlegen."
+
+#: arjuna-x/functions.php:1129
+msgid "Header Image"
+msgstr "Bild für die Kopfzeile"
+
+#: arjuna-x/functions.php:1153
+msgid "Footer Style"
+msgstr "Darstellung der Fußzeile"
+
+#: arjuna-x/functions.php:1162
+msgid "Match Header Image"
+msgstr "An den Hintergrund im Header anpassen"
+
+#: arjuna-x/functions.php:1173
+#: arjuna-x/functions.php:1213
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: arjuna-x/functions.php:1175
+#, php-format
+msgid "Note: To see how the sidebar and its widget bars work in Arjuna, please read our %sFAQ%s."
+msgstr "Hinweis: Willst du wissen wie die Sidebar und Widgets in Arjuna arbeiten, dann lese bitte unsere %sFAQ%s."
+
+#: arjuna-x/functions.php:1179
+msgid "Sidebar Position"
+msgstr "Sidebar Position"
+
+#: arjuna-x/functions.php:1184
+msgid "Right sidebar"
+msgstr "Rechte Sidebar"
+
+#: arjuna-x/functions.php:1189
+msgid "Left sidebar"
+msgstr "Linke Sidebar"
+
+#: arjuna-x/functions.php:1194
+msgid "No sidebar"
+msgstr "Keine Sidebar"
+
+#: arjuna-x/functions.php:1199
+msgid "Sidebar Width"
+msgstr "Breite der Sidebar"
+
+#: arjuna-x/functions.php:1211
+msgid "Content Area"
+msgstr "Inhaltsbereich"
+
+#: arjuna-x/functions.php:1219
+msgid "Use the slider to adjust the width of the sidebar."
+msgstr "Benutze den Slider um die Breite der Sidebar anzupassen"
+
+#: arjuna-x/functions.php:1223
+msgid "Default Widgets"
+msgstr "Standard Widgets"
+
+#: arjuna-x/functions.php:1225
+msgid "Display default sidebar widgets if the widget bars are empty."
+msgstr "Anzeigen der Standard-Widgets, wenn die Widgetleiste leer ist"
+
+#: arjuna-x/functions.php:1226
+msgid "If enabled, the following widgets will be displayed if the widget bar is empty: <b>Sidebar Top:</b> Recent Posts and Browse by Tags, <b>Sidebar Left:</b> Categories, <b>Siderbar Right:</b> Meta"
+msgstr "Wenn aktiviert werden folgende Widgets angezeigt, wenn die Widgetleiste leer ist: <b>Sidebar Oben:</b> Letzte Beiträge und Suchen nach Schlagwörtern, <b>Sidebar Links:</b> Kategorien, <b> Sidebar Rechts:</b> Meta"
+
+#: arjuna-x/functions.php:1230
+msgid "Sidebar Buttons"
+msgstr "Sidebar Buttons"
+
+#: arjuna-x/functions.php:1237
+msgid "Use extended button."
+msgstr "Benutze den erweiterten Button"
+
+#: arjuna-x/functions.php:1238
+#: arjuna-x/functions.php:1246
+#: arjuna-x/functions.php:1254
+#: arjuna-x/functions.php:1262
+msgid "Label"
+msgstr "Label"
+
+#: arjuna-x/functions.php:1244
+msgid "Your Twitter URL"
+msgstr "Deine Twitter URL"
+
+#: arjuna-x/functions.php:1252
+msgid "Your Facebook URL"
+msgstr "Deine Facebook URL"
+
+#: arjuna-x/functions.php:1260
+msgid "Your LinkedIn URL"
+msgstr "Deine LinkedIn URL"
+
+#: arjuna-x/functions.php:1266
+msgid "Choose which buttons will be included on the very top of the sidebar."
+msgstr "Wähle zwischen den Buttons die im obersten Bereich der Sidebar eingebunden werden"
+
+#: arjuna-x/functions.php:1267
+msgid "The extended RSS button will allow visitors to choose between all available RSS feeds, depending on the page they are currently browsing."
+msgstr "Der erweiterte RSS Button erlaubt deinen Besucher zwischen allen verfügbaren RSS Feeds zu wählen. Je nach dem auf welcher Seite man sich gerade befindeet."
+
+#: arjuna-x/functions.php:1277
+msgid "Search"
+msgstr "Suche"
+
+#: arjuna-x/functions.php:1284
+msgid "Enable WordPress search"
+msgstr "Aktiviere die Wordpress Suche"
+
+#: arjuna-x/functions.php:1286
+msgid "If disabled, the search field will not be included in the header."
+msgstr "Wenn deaktiviert wird das Suchfeld nicht i m Header angezeigt"
+
+#: arjuna-x/functions.php:1295
+msgid "General Options"
+msgstr "Allgemeine Einstellungen"
+
+#: arjuna-x/functions.php:1298
+msgid "Index Pages"
+msgstr "Index-Seiten"
+
+#: arjuna-x/functions.php:1300
+msgid "Index pages include the homepage (unless it is static), archives, category and tag listing pages as well as search results pages. Basically any page that displays a listing of posts."
+msgstr "Indexseiten beinhalten sowohl die Startseite (außer sie ist statisch), Archive, Kategorien und Tag-Auflistungen, so wie die Seiten der Suchergebnisse. Im Grunde jede Seite die eine Liste mit Beiträgen anzeigt."
+
+#: arjuna-x/functions.php:1304
+msgid "Display Tags"
+msgstr "Tags anzeigen"
+
+#: arjuna-x/functions.php:1306
+msgid "Display the tags of a post right below each post."
+msgstr "Zeige die Tags eines Beitrages über diesem an."
+
+#: arjuna-x/functions.php:1310
+msgid "Display Categories"
+msgstr "Kategorien anzeigen"
+
+#: arjuna-x/functions.php:1312
+msgid "Display the categories of a post right below each post."
+msgstr "Zeige die Kategorien eines Beitrages unter diesem an."
+
+#: arjuna-x/functions.php:1322
+msgid "Posts and Pages"
+msgstr "Beiträge und Seiten"
+
+#: arjuna-x/functions.php:1327
+msgid "Display Author"
+msgstr "Autor anzeigen"
+
+#: arjuna-x/functions.php:1329
+msgid "Include the author of a post/page."
+msgstr "Zeige den Autor eines Artikels/Seite."
+
+#: arjuna-x/functions.php:1333
+msgid "Display Time"
+msgstr "Angezeigte Zeit"
+
+#: arjuna-x/functions.php:1335
+msgid "Include the time and date of when the post/page has been published, instead of only the date."
+msgstr "Zeige das Datum und die Uhrzeit an, wenn ein Beitrag veröffentlich wird -  nicht nur das Datum."
+
+#: arjuna-x/functions.php:1339
+msgid "Display Info Bar for Pages"
+msgstr "Zeige den Infobalken für Seiten an"
+
+#: arjuna-x/functions.php:1341
+msgid "Display the info bar right below the title of pages."
+msgstr "Zeige den Infobalken direkt unter dem Seitentitel an."
+
+#: arjuna-x/functions.php:1342
+msgid "The info bar usually includes the author of the page, the publish date, and the comments button. If turned off, this option entirely hides the bar so that only the title of the page is shown."
+msgstr "Der Infobalken beinhaltet gewöhnlich den Autor der Seite, das Veröffentlichungsdatum und den Button für die Kommentare. Diese Option versteckt den Balken komplett, so dass nur noch der Titel sichtbar ist."
+
+#: arjuna-x/functions.php:1346
+msgid "Navigation Links"
+msgstr "Navigationslinks"
+
+#: arjuna-x/functions.php:1348
+msgid "Display links to the previous and next posts above each post."
+msgstr "Zeige die Links zum vorherigen und nächsten Beitrag über jeden Beitrag an."
+
+#: arjuna-x/functions.php:1349
+msgid "Display links to the previous and next posts below each post."
+msgstr "Zeige die Links zum vorherigen und nächsten Beitrag unter jeden Beitrag an."
+
+#: arjuna-x/functions.php:1350
+msgid "Note: The links will only be shown on permalink pages, i.e. the URL where one single post is displayed."
+msgstr "Hinweis: Dieser Link wird nur bei Permalink Seiten angezeigt, z.B. wenn die URL von einem einzigen Beitrag oder einer einzigen Seite aufgerufen wird"
+
+#: arjuna-x/functions.php:1360
+msgid "Comments &amp; Trackbacks"
+msgstr "Kommentare &amp; Trackbacks"
+
+#: arjuna-x/functions.php:1365
+msgid "Display comments as follows"
+msgstr "Beiträge anzeigen"
+
+#: arjuna-x/functions.php:1370
+msgid "Aligned to the left"
+msgstr "Linksbündig"
+
+#: arjuna-x/functions.php:1375
+msgid "Aligned to the right"
+msgstr "Rechtsbündig"
+
+#: arjuna-x/functions.php:1380
+msgid "Alternate between left and right alignment"
+msgstr "Abwechselnd Linksbündig und Rechsbündig"
+
+#: arjuna-x/functions.php:1385
+msgid "Date Format"
+msgstr "Datumsformat"
+
+#: arjuna-x/functions.php:1387
+msgid "Passed Time (Example: <em>&quot;Written by admin about 3 days ago.&quot;</em>)"
+msgstr "Vergangene Zeit (Beispiel: <em>&quot;Geschrieben von Admin vor 3 Tagen.&quot;</em>)"
+
+#: arjuna-x/functions.php:1388
+#, php-format
+msgid "Default Date Format (Example: <em>&quot;Written by admin on %s&quot;</em>)"
+msgstr "Standard Datumsformat (Beispiel: <em>&quot;Geschrieben von admin am %s&quot;</em>)"
+
+#: arjuna-x/functions.php:1389
+msgid "The default date format can be customized in Settings &gt; General."
+msgstr "Das Standard Datumsformat kann in den Einstellungen -&gt; Allgemein geändert werden"
+
+#: arjuna-x/functions.php:1393
+msgid "Comment Display"
+msgstr "Kommentare"
+
+#: arjuna-x/functions.php:1395
+msgid "Hide any traces of comments when they are disabled for <strong>Pages</strong>."
+msgstr "Verstecke alles, was mit Kommentaren zu tun hat, wenn Kommentare für <strong>Seiten</strong> nicht aktiviert sind."
+
+#: arjuna-x/functions.php:1396
+msgid "Hide any traces of comments when they are disabled for <strong>Posts</strong>."
+msgstr "Verstecke alles, was mit Kommentaren zu tun hat, wenn Kommentare für <strong>Beiträgen</strong> nicht aktiviert sind."
+
+#: arjuna-x/functions.php:1397
+msgid "Note: If enabled, the comments tab section as well as the comment form on pages/posts will be removed."
+msgstr "Hinweis: Wenn aktiviert werden Kommentare und das Eingabeformular für die Kommentare bei allen Seiten / Beiträgen entfernt."
+
+#: arjuna-x/functions.php:1401
+msgid "Trackback Display"
+msgstr "Trackbacks anzeigen"
+
+#: arjuna-x/functions.php:1403
+msgid "Hide any traces of trackbacks and pingbacks when they are disabled for <strong>Pages</strong>."
+msgstr "Verstecke alles, was mit Pingback und Traceback zu tun hat, wenn Pingback und Traceback für <strong>Seiten</strong> nicht aktiviert sind."
+
+#: arjuna-x/functions.php:1404
+msgid "Hide any traces of trackbacks and pingbacks when they are disabled for <strong>Posts</strong>."
+msgstr "Verstecke alles, was mit Pingback und Traceback zu tun hat, wenn Pingback und Traceback für <strong>Beiträgen</strong> nicht aktiviert sind."
+
+#: arjuna-x/functions.php:1405
+msgid "Note: If enabled, the trackbacks tab section on pages/posts will be removed."
+msgstr "Hinweis: Wenn aktiviert wird der Trackback Bereich auf allen Seiten / Beiträgen entfernt."
+
+#: arjuna-x/functions.php:1415
+msgid "Excerpts"
+msgstr "Auszüge"
+
+#: arjuna-x/functions.php:1420
+msgid "Show excerpts on"
+msgstr "Zeige Auszüge nach"
+
+#: arjuna-x/functions.php:1422
+msgid "Homepage/Index page"
+msgstr "Startseite / Indexseite"
+
+#: arjuna-x/functions.php:1423
+msgid "Category &amp; tag pages"
+msgstr "Kategorien &amp; Tags"
+
+#: arjuna-x/functions.php:1424
+msgid "Archive pages"
+msgstr "Archivierte Seiten"
+
+#: arjuna-x/functions.php:1425
+msgid "Search pages"
+msgstr "Suchseiten"
+
+#: arjuna-x/functions.php:1426
+msgid "Author pages"
+msgstr "Autor Seiten"
+
+#: arjuna-x/functions.php:1427
+msgid "Note: If enabled, an excerpt will be shown instead of the full post on selected pages. If a post does not have a custom excerpt, an automatic excerpt of the first 55 words will be displayed."
+msgstr "Hinweis: Wenn aktiviert, wird ein nur Ausschnitt anstatt des gesamten Beitrages auf der ausgewählten Seite angezeigt werden. Wenn ein Beitrag keinen spezifischen Ausschnitt hat, so werden automatisch die ersten 55 Zeichen für einen Ausschnitt verwendet."
+
+#: arjuna-x/functions.php:1437
+#: arjuna-x/functions.php:1442
+msgid "Pagination"
+msgstr "Nummerierung"
+
+#: arjuna-x/functions.php:1444
+msgid "Use Arjuna pagination"
+msgstr "Benutze die Arjuna Nummerierung"
+
+#: arjuna-x/functions.php:1445
+msgid "If enabled, Arjuna will use its own native pagination to allow your users to navigate the blog using pages."
+msgstr "Wenn diese Option aktiviert ist, wird Arjuna seine eigene Nummerierung verwenden, die den Benutzern erlaubt durch die Beiträge über Seiten zu navigieren"
+
+#: arjuna-x/functions.php:1449
+msgid "Page Range"
+msgstr "Bereich"
+
+#: arjuna-x/functions.php:1456
+msgid "The number of page buttons that will appear before and after the current page button."
+msgstr "Die Anzahl der Seiten Buttons, die vor und nach der aktuellen Seite angezeigt werden"
+
+#: arjuna-x/functions.php:1460
+msgid "Page Anchors"
+msgstr "Verankern"
+
+#: arjuna-x/functions.php:1467
+msgid "The number of page buttons that will always appear at the beginning and the end of the pagination."
+msgstr "Die Anzahl der Seiten Buttons die am Anfang und Ende der Nummerierung immer angezeigt werden"
+
+#: arjuna-x/functions.php:1471
+msgid "Page Gap"
+msgstr "Abstand"
+
+#: arjuna-x/functions.php:1478
+msgid "The number of page buttons in a gap before an ellipsis (...) is displayed."
+msgstr "Die Anzahl an Seite Buttons in einem Bereich, bevor ein Auslassungszeichen (...) angezeigt wird."
+
+#: arjuna-x/functions.php:1483
+msgid "Use WordPress default"
+msgstr "Benutze den WordPress Standard"
+
+#: arjuna-x/functions.php:1484
+msgid "The default depends on your WordPress version and whether you have any pagination plugins activated. If the wp-paginate or wp-pagenavi plugin is activated, then Arjuna will use these plugins to create the pagination."
+msgstr "Der Standard hängt von deiner WordPress Version ab und ob du ein Nummerierungs-Plug-In aktiviert hast. Wenn wp-paginate oder wp-pagenavi Plug-In aktiviert sind, dann wird Arjuna diese Plug-Ins für die Nummerierung nutzen."
+
+#: arjuna-x/functions.php:1494
+msgid "RSS Feeds"
+msgstr "RSS Feeds"
+
+#: arjuna-x/functions.php:1503
+msgid "Default RSS Feeds"
+msgstr "Standard RSS Feeds"
+
+#: arjuna-x/functions.php:1507
+msgid "Google Feedburner"
+msgstr "Google Feedburner"
+
+#: arjuna-x/functions.php:1514
+msgid "Redirect Feeds to"
+msgstr "Feeds umleiten nach"
+
+#: arjuna-x/functions.php:1517
+msgid "Arjuna will redirect all of your existing feeds, including category and tag feeds, to Google Feedburner."
+msgstr "Arjuna leitet alle bestehenden feeds, inklusive Kategorie und Tag Feeds, nach Google Feedburner um"
+
+#: arjuna-x/functions.php:1521
+msgid "Redirect Comment Feeds to"
+msgstr "Kommentare umleiten nach"
+
+#: arjuna-x/functions.php:1524
+msgid "Arjuna will redirect your comment feeds to Google Feedburner to this URL."
+msgstr "Arjuna leitet deine Kommentar Feeds nach Google Feedburner um"
+
+#: arjuna-x/functions.php:1534
+msgid "Twitter Widget"
+msgstr "Twitter Widget"
+
+#: arjuna-x/functions.php:1536
+msgid "Note: The minimum sidebar width for the twitter widget to not overflow the sidebar is 280px. Please adjust your sidebar accordingly."
+msgstr "Hinweis: Die minimale Breite der Sidebar für das Twitter Widget ist 280 Pixel. Bitte passe die Sidebar dementsprechend an, damit die Inhalte nicht darüber hinaus dargestellt werden."
+
+#: arjuna-x/functions.php:1544
+#: arjuna-x/functions.php:1589
+#: arjuna-x/functions.php:1602
+msgid "Yes"
+msgstr "Ja"
+
+#: arjuna-x/functions.php:1548
+#: arjuna-x/functions.php:1593
+#: arjuna-x/functions.php:1606
+msgid "No"
+msgstr "Nein"
+
+#: arjuna-x/functions.php:1555
+msgid "Widget Title"
+msgstr "Widget Titel"
+
+#: arjuna-x/functions.php:1558
+msgid "The title of the sidebar widget."
+msgstr "Der Titel des Sidebar Widgets"
+
+#: arjuna-x/functions.php:1562
+msgid "Twitter Username"
+msgstr "Twitter Benutzername"
+
+#: arjuna-x/functions.php:1568
+msgid "Height"
+msgstr "Höhe"
+
+#: arjuna-x/functions.php:1574
+msgid "Number of Tweets"
+msgstr "Anzahl der Tweets"
+
+#: arjuna-x/functions.php:1585
+msgid "Scrollbar"
+msgstr "Scrollbar"
+
+#: arjuna-x/functions.php:1598
+msgid "Show Timestamp"
+msgstr "Zeitstempel anzeigen"
+
+#: arjuna-x/functions.php:1617
+msgid "Miscellaneous"
+msgstr "Verschiedenes"
+
+#: arjuna-x/functions.php:1622
+msgid "Append to page title"
+msgstr "An den Seitentitel anhängen"
+
+#: arjuna-x/functions.php:1624
+#, php-format
+msgid "Blog Name (&quot; - %s&quot;)"
+msgstr "Blog Name (&quot; - %s&quot;)"
+
+#: arjuna-x/functions.php:1625
+#: arjuna-x/functions.php:1633
+msgid "Custom:"
+msgstr "Angepasst:"
+
+#: arjuna-x/functions.php:1626
+msgid "This will be appended to the page title of every web page (posts, pages, categories, etc.)"
+msgstr "Das wird an den Titel jeder Seite angehängt (Beiträge, Seiten, Kategorien, usw.)"
+
+#: arjuna-x/functions.php:1630
+msgid "Footer Copyright Notice"
+msgstr "Fußzeile Copyright Hinweis"
+
+#: arjuna-x/functions.php:1632
+#, php-format
+msgid "Blog Name (&quot;%s&quot;)"
+msgstr "Blog Name (&quot; %s&quot;)"
+
+#: arjuna-x/functions.php:1634
+msgid "The copyright notice will be displayed in the footer."
+msgstr "Der Copyright Hinweis wird in der Fußzeile angezeigt"
+
+#: arjuna-x/functions.php:1638
+msgid "Enable JavaScript menus"
+msgstr "Aktiviere Javascript Menüs"
+
+#: arjuna-x/functions.php:1640
+msgid "Enable JavaScript dropdown menus. This will improve usability of the menus. If JavaScript is disabled, CSS-based dropdown menus will be used instead."
+msgstr "Aktiviere die JavaScript DropDown Menüs. Dies verbessert die Benutzerfreundlichkeit der Menüs. Wenn JavaScript deaktiviert ist, werden CSS-basierte DropDown Menüs verwendet."
+
+#: arjuna-x/functions.php:1644
+msgid "Show IE6 Notice"
+msgstr "Zeige IE6 Hinweis"
+
+#: arjuna-x/functions.php:1646
+msgid "Display a notice to Internet Explorer 6 users to update their browsers."
+msgstr "Zeigen einen Hinweis für die Benutzer des Internet Explorer 6 an, dass sie ihren Browser aktualisieren sollen."
+
+#: arjuna-x/functions.php:1650
+msgid "Custom CSS"
+msgstr "Angepasste CSS"
+
+#: arjuna-x/functions.php:1657
+#, php-format
+msgid "Arjuna needs write permissions to create a new file %s, which will contain the custom CSS."
+msgstr "Arjuna beötigt Schreibrechte um die neue Datei %s anzulegen, welches die benutzerdefinierten CSS Einstellungen enthält"
+
+#: arjuna-x/functions.php:1659
+msgid "Enable custom CSS rules"
+msgstr "Aktiviere benutzerspezifische CSS Regeln"
+
+#: arjuna-x/functions.php:1660
+msgid "If enabled, Arjuna will include your custom CSS rules with every page call. If you intend to make some minor changes to the theme, enabling this option ensures that you can safely upgrade Arjuna without losing your custom CSS. We recommend to use child themes for more serious customizations."
+msgstr "Wenn aktiv, bindet Arjuna deine spezifischen CSS-Regeln bei jedem Seitenaufruf mit ein. Wenn du kleinere Änderungen am Theme vornehmen möchstest, stellt diese Option sicher, dass du Arjuna jeder Zeit aktualisieren kannst, ohne deine spezifischen CSS-Regeln zu verlieren. Wir empfehlen dir 'Child Themes' zu verwenden, wenn du größere Änderungen vornehmen möchstest."
+
+#: arjuna-x/functions.php:1676
+msgid "Save Changes"
+msgstr "Änderungen übernehmen"
+
+#: arjuna-x/functions.php:1787
+msgid "Written by"
+msgstr "Geschrieben von"
+
+#: arjuna-x/functions.php:1789
+#: arjuna-x/functions.php:1829
+#, php-format
+msgid "about %s ago"
+msgstr "vor %s"
+
+#: arjuna-x/functions.php:1791
+#: arjuna-x/functions.php:1831
+msgid "on"
+msgstr "am"
+
+#: arjuna-x/functions.php:1796
+#: arjuna-x/functions.php:1835
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: arjuna-x/functions.php:1799
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf die Freigabe."
+
+#: arjuna-x/functions.php:1827
+msgid "Pinged by"
+msgstr "Angepingt von"
+
+#: arjuna-x/functions.php:1838
+msgid "Your trackback is awaiting moderation."
+msgstr "Dein Trackback wartet auf die Freigabe."
+
+#: arjuna-x/functions.php:1869
+msgid "1 year"
+msgstr "1 Jahr"
+
+#: arjuna-x/functions.php:1869
+#, php-format
+msgid "%d years"
+msgstr "%d Jahre"
+
+#: arjuna-x/functions.php:1873
+msgid "1 month"
+msgstr "1 Monat"
+
+#: arjuna-x/functions.php:1873
+#, php-format
+msgid "%d months"
+msgstr "%d Monate"
+
+#: arjuna-x/functions.php:1877
+msgid "1 week"
+msgstr "1 Woche"
+
+#: arjuna-x/functions.php:1877
+#, php-format
+msgid "%d weeks"
+msgstr "%d Wochen"
+
+#: arjuna-x/functions.php:1881
+msgid "1 day"
+msgstr "1 Tag"
+
+#: arjuna-x/functions.php:1881
+#, php-format
+msgid "%d days"
+msgstr "%d Tage"
+
+#: arjuna-x/functions.php:1885
+msgid "1 hour"
+msgstr "1 Stunde"
+
+#: arjuna-x/functions.php:1885
+#, php-format
+msgid "%d hours"
+msgstr "%d Stunden"
+
+#: arjuna-x/functions.php:1889
+msgid "1 minute"
+msgstr "1 Minute"
+
+#: arjuna-x/functions.php:1889
+#, php-format
+msgid "%d minutes"
+msgstr "%d Minuten"
+
+#: arjuna-x/functions.php:1892
+msgid "1 second"
+msgstr "1 Sekunde"
+
+#: arjuna-x/functions.php:1892
+#, php-format
+msgid "%d seconds"
+msgstr "%d Sekunden"
+
+#: arjuna-x/functions.php:1974
+#: arjuna-x/functions.php:2048
+#, php-format
+msgid "Page %s of %s"
+msgstr "Seite %s von %s"
+
+#: arjuna-x/functions.php:2016
+#: arjuna-x/functions.php:2019
+#: arjuna-x/functions.php:2061
+#: arjuna-x/functions.php:2064
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: arjuna-x/functions.php:2100
+msgid "Comment Pages:"
+msgstr "Kommentarseite"
+
+#: arjuna-x/functions.php:2101
+msgid "Previous"
+msgstr "Vorherige"
+
+#: arjuna-x/functions.php:2101
+msgid "Next"
+msgstr "Nächste"
+
+#: arjuna-x/functions.php:2445
+msgid "Please go to Appearance > Arjuna Options to configure your Arjuna twitter widget."
+msgstr "Bitte gehe zu Darstellung -> Arjuna Optionen, um das Twitter Widget zu konfigurieren"
+
+#: arjuna-x/functions.php:2451
+#: arjuna-x/functions.php:2460
+msgid "Arjuna Twitter Profile Widget"
+msgstr "Arjuna Twitter Profil Widget"
+
+#: arjuna-x/functions.php:2455
+msgid "Display Twitter Goodies Profile Widget"
+msgstr "Zeige Twitter Goodies Profil Widget an"
+
+#: arjuna-x/header.php:19
+msgid "Skip to posts"
+msgstr "Springe zu Beiträge"
+
+#: arjuna-x/page.php:11
+#: arjuna-x/page_fullwidth.php:15
+msgid "Permalink to"
+msgstr "Link zu"
+
+#: arjuna-x/page.php:20
+#: arjuna-x/page_fullwidth.php:24
+msgid "Pages:"
+msgstr "Seiten: "
+
+#: arjuna-x/page.php:20
+#: arjuna-x/page_fullwidth.php:24
+msgid "Page %"
+msgstr "Seite %"
+
+#: arjuna-x/page.php:32
+#: arjuna-x/page_fullwidth.php:37
+#: arjuna-x/single.php:36
+msgid "There is nothing here."
+msgstr "Hier gibt es nichts."
+
+#: arjuna-x/search.php:8
+#, php-format
+msgid "Search Results on <em>%s</em>"
+msgstr "Suchergebnisse für <em>%s</em>"
+
+#: arjuna-x/search.php:32
+msgid "Your search returned no results."
+msgstr "Deine Suche liefert keine Treffer."
+
+#: arjuna-x/sidebar.php:12
+msgid "Recent Posts"
+msgstr "Kürzlich veröffentlicht"
+
+#: arjuna-x/sidebar.php:19
+msgid "Browse by Tags"
+msgstr "Suche nach Schlagwörtern"
+
+#: arjuna-x/sidebar.php:44
+msgid "Meta"
+msgstr "Meta"
+
+#: arjuna-x/single.php:18
+msgid "Previous Page"
+msgstr "Vorherige Seite"
+
+#: arjuna-x/single.php:18
+msgid "Next Page"
+msgstr "Nächste Seite"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:9
+#: arjuna-x/templates/comments/reply-form-basic.php:14
+msgid "Leave a Comment"
+msgstr "Hinterlasse einen Kommentar"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:9
+#: arjuna-x/templates/comments/reply-form-basic.php:15
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Hinterlasse einen Kommentar bei %s"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:11
+#: arjuna-x/templates/comments/reply-form-basic.php:16
+msgid "Cancel Reply"
+msgstr "Antwort abbrechen"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:15
+#: arjuna-x/templates/comments/reply-form-basic.php:18
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Du must %seingelogged%s sein um einen Kommentar abzugeben."
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:20
+#: arjuna-x/templates/comments/reply-form-advanced.php:31
+#: arjuna-x/templates/comments/reply-form-basic.php:3
+#: arjuna-x/templates/comments/reply-form-basic.php:10
+msgid "Your name"
+msgstr "Dein Name"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:21
+#: arjuna-x/templates/comments/reply-form-advanced.php:32
+#: arjuna-x/templates/comments/reply-form-basic.php:4
+#: arjuna-x/templates/comments/reply-form-basic.php:11
+msgid "Your email"
+msgstr "Deine E-Mail Adresse"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:22
+#: arjuna-x/templates/comments/reply-form-advanced.php:33
+#: arjuna-x/templates/comments/reply-form-basic.php:5
+#: arjuna-x/templates/comments/reply-form-basic.php:12
+msgid "Your website"
+msgstr "Deine Webseite"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:23
+#: arjuna-x/templates/comments/reply-form-advanced.php:43
+#: arjuna-x/templates/comments/reply-form-basic.php:6
+#: arjuna-x/templates/comments/reply-form-basic.php:17
+msgid "Your comment"
+msgstr "Dein Kommentar"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:26
+#: arjuna-x/templates/comments/reply-form-basic.php:19
+#, php-format
+msgid "Logged in as %s."
+msgstr "Eingelogged als %s."
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:26
+#: arjuna-x/templates/comments/reply-form-basic.php:19
+msgid "Log out of this account"
+msgstr "Accout wechseln"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:26
+#: arjuna-x/templates/comments/reply-form-basic.php:19
+msgid "Logout"
+msgstr "Abmelden"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:45
+msgid "Subscribe to comments"
+msgstr "Kommentare abonnieren"
+
+#: arjuna-x/templates/comments/reply-form-advanced.php:46
+msgid "Leave comment"
+msgstr "Kommentar hinterlassen"
+
+#: arjuna-x/templates/core/head-title-tag.php:5
+msgid "Search Results:"
+msgstr "Suchergebnisse:"
+
+#: arjuna-x/templates/core/pagination.php:4
+msgid "Prev"
+msgstr "Vorherige"
+
+#: arjuna-x/templates/core/pagination.php:15
+msgid "Newer Entries"
+msgstr "Neuere Einträge"
+
+#: arjuna-x/templates/core/pagination.php:16
+msgid "Older Entries"
+msgstr "Ältere Einträge"
+
+#: arjuna-x/templates/header/menu-2.php:19
+#: arjuna-x/templates/header/menu-2.php:26
+msgid "Home"
+msgstr "Home"
+
+#: arjuna-x/templates/header/search.php:5
+msgid "Search here..."
+msgstr "Suchbegriff..."
+
+#: arjuna-x/templates/header/search.php:6
+msgid "Find"
+msgstr "Finden"
+
+#: arjuna-x/templates/post/post-footer.php:10
+#: arjuna-x/templates/post/single-post-footer.php:7
+msgid "<i>none</i>"
+msgstr "<i>keine</i>"
+
+#: arjuna-x/templates/post/post-footer.php:15
+msgid "Read more"
+msgstr "Mehr lesen"
+
+#: arjuna-x/templates/post/post-header.php:8
+#: arjuna-x/templates/post/single-post-header.php:8
+msgid " at "
+msgstr " um "
+
+#: arjuna-x/templates/post/post-header.php:17
+#: arjuna-x/templates/post/single-post-header.php:17
+msgid "Pass required"
+msgstr "Passwort wird benötigt"
+
+#: arjuna-x/templates/post/post-header.php:19
+#: arjuna-x/templates/post/single-post-header.php:19
+msgid "Comments off"
+msgstr "Kommentare sind deaktiviert"
+
+#: arjuna-x/templates/post/post-header.php:21
+#: arjuna-x/templates/post/single-post-header.php:21
+msgid "No comments"
+msgstr "Keine Kommentare"
+
+#: arjuna-x/templates/post/post-header.php:21
+#: arjuna-x/templates/post/single-post-header.php:21
+msgid "1 comment"
+msgstr "1 Kommentar"
+
+#: arjuna-x/templates/post/post-header.php:21
+#: arjuna-x/templates/post/single-post-header.php:21
+#, php-format
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: arjuna-x/templates/post/single-page-footer.php:2
+#: arjuna-x/templates/post/single-post-footer.php:11
+msgid "Edit in Admin"
+msgstr "Bearbeiten"
+
+#: arjuna-x/templates/post/single-post-bottom-links.php:2
+#: arjuna-x/templates/post/single-post-top-links.php:2
+msgid "Previous Post"
+msgstr "Vorheriger Beitrag"
+
+#: arjuna-x/templates/post/single-post-bottom-links.php:3
+#: arjuna-x/templates/post/single-post-top-links.php:3
+msgid "Next Post"
+msgstr "Nächster Beitrag"
+
+#: arjuna-x/templates/sidebar/icons.php:11
+#, php-format
+msgid "Posts in %s"
+msgstr "Beiträgein %s"
+
+#: arjuna-x/templates/sidebar/icons.php:15
+#: arjuna-x/templates/sidebar/icons.php:21
+#, php-format
+msgid "Posts by %s"
+msgstr "Kommentare von %s"
+
+#: arjuna-x/templates/sidebar/icons.php:20
+msgid "Post Comments"
+msgstr "Kommentare"
+
+#: arjuna-x/templates/sidebar/icons.php:25
+msgid "Search Results"
+msgstr "Suchergebnisse"
+
+#: arjuna-x/templates/sidebar/icons.php:29
+msgid "Latest Posts"
+msgstr "Letzte Beiträge"
+
+#: arjuna-x/templates/sidebar/icons.php:30
+msgid "Latest Comments"
+msgstr "Letzte Kommentare"
+
+#~ msgid "Small"
+#~ msgstr "Klein"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid ""
+#~ "If you intend to use the two column sidebar, we recommend to choose "
+#~ "either the normal or the large sidebar."
+#~ msgstr ""
+#~ "Wenn du zwei Spalten nutzen möchtest, empfehlen wir die normale oder die "
+#~ "große Sidebar."
+
+#~ msgid "RSS Button"
+#~ msgstr "RSS Button"
+
+#~ msgid "Display an RSS button on the very top of the sidebar."
+#~ msgstr "Zeige einen RSS Button ganz oben in der Sidebar an."
+
+#~ msgid "Facebook Button"
+#~ msgstr "Facebook Button"
+
+#~ msgid "Display a Facebook button on the very top of the sidebar."
+#~ msgstr "Zeige einen Facebook Button ganz oben in der Sidebar an"
+
+#~ msgid "Display Button Labels"
+#~ msgstr "Zeige Buttonbeschriftung"
+
+#~ msgid "Display labels next to the buttons (RSS, Twitter and Facebook)."
+#~ msgstr ""
+#~ "Zeige Beschriftungen neben den Buttons an (RSS, Twitter und Facebook)."
+
+#~ msgid "Older Comments"
+#~ msgstr "Ältere Kommentare"
+
+#~ msgid "Newer Comments"
+#~ msgstr "Neuere Kommentare"
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s von %2$s"
+
+#~ msgid "H:i"
+#~ msgstr "H:i"
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Note:"
+#~ msgstr "Hinweis:"
+
+#~ msgid ""
+#~ "Arjuna cannot write to the themes directory. The custom CSS rules will be "
+#~ "included in the header of each page, between &lt;STYLE&gt; tags."
+#~ msgstr ""
+#~ "Arjuna kan nicht in das Theme-Verzeichnis speichern. Die "
+#~ "benutzerdefinierten Regeln werden in den Header jeder Seite eingebunden, "
+#~ "zwischen den &lt;STYLE&gt Tags."
+
+#~ msgid "Performance Optimization"
+#~ msgstr "Performance optimierungen"
+
+#~ msgid "Internet Explorer 6 Optimization"
+#~ msgstr "Internet Explorer 6 optimierungen"
+
+#~ msgid "Enable IE6 performance optimization"
+#~ msgstr "Aktiviere die IE6 performance optimierungen"
+
+#~ msgid ""
+#~ "If turned on, Arjuna will attempt to detect IE6 and serve a stand-alone "
+#~ "CSS file specifically made for IE6."
+#~ msgstr ""
+#~ "Wenn angeschaltet wird Arjuna versuchen den IE6 zu erkennen und eine, "
+#~ "speziell für den IE6 angefertigte, CSS Datei zu verwenden."
+
+#~ msgid ""
+#~ "Note: IE6 will still work the same if this option is turned off, however, "
+#~ "you and your IE6 users will save an estimated 28kb (11 image and 2 CSS "
+#~ "files) in bandwidth for first-time visitors. IE6 also might render more "
+#~ "rapidly if this is turned on."
+#~ msgstr ""
+#~ "Hinweis: IE6 wird weiterhin funktionieren, auch wenn die option "
+#~ "deaktiviert ist. IE6 Benutzer sparen sich 28kb (11 Bilder und 2 CSS "
+#~ "Dateien) beim ersten Aufruf der Seite. IE6 wird die Seite auch viel "
+#~ "schneller aufbauen, wenn die Funktion aktiviert ist."
+
+#~ msgid ""
+#~ "Arjuna is completely free. If you like this project and want to support "
+#~ "further development and maintenance, please"
+#~ msgstr ""
+#~ "Arjuna ist komplett kostenlos. Wenn du das Projekt magst und die weitere "
+#~ "Entwicklung und Pflege unterstützen willst, bitte"
+
+#~ msgid ""
+#~ "This feature is disabled because Arjuna does not have write permissions "
+#~ "to %s."
+#~ msgstr ""
+#~ "Diese Funktion ist deaktiviert, da Arjuna keine Schreibrechte auf %s hat"

@@ -1,0 +1,77 @@
+.header .searchButton {
+	font-size:0;
+	line-height:0;
+}
+a span {
+	cursor:pointer;
+}
+
+.comment .message .i,
+.sidebars .i .i2, 
+.sidebars .i .c,
+.sidebars h4,
+.commentReply .replyRow,
+.commentReplyActive {
+	zoom:1;
+}
+
+.postHeaderCompact .bottom span {
+	margin-right:-45px;
+}
+
+.commentHeader .buttons {
+	white-space:nowrap;
+	margin-right:13px;
+}
+
+.headerMenu1 ul ul ul,
+.headerMenu1 li:hover ul ul,
+.headerMenu1 li.jHover ul ul {
+	right:180px;
+}
+.headerMenu1L ul ul ul,
+.headerMenu1L li:hover ul ul,
+.headerMenu1L li.jHover ul ul,
+.headerMenu2 ul ul ul,
+.headerMenu2 li:hover ul ul,
+.headerMenu2 li.jHover ul ul {
+	right:auto;
+	left:180px;
+}
+.headerMenu1 li li,
+.headerMenu2 li li {
+	display:inline;
+}
+.headerMenu1 li li li,
+.headerMenu2 li li li {
+	display:block;
+}
+
+.headerMenu2 ul ul ul {
+	display:block;
+	zoom:1;
+}
+
+.sidebarIcons a,
+.sidebars .rssBtnExtended,
+.sidebars .rssBtnExtended .primary,
+#rss-extended {
+	display:inline;
+	zoom:1;
+}
+#rss-extended li.separator {
+	height:1px;
+	line-height:1px;
+	font-size:1px;
+	margin:4px 5px;
+	display: inline-block;
+}
+
+blockquote,
+pre {
+	word-wrap:break-word;
+}
+
+.headerMenu2 {
+	zoom:1;
+}

@@ -1,0 +1,976 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arjuna X 1.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-09 00:19+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Serhat Yolaçan <info@srssolutions>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Türkçe\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\_Local Web Server\\TestServer\\WordPress\\2.8\\wp-content\\themes\\\n"
+"X-Poedit-SearchPath-0: Arjuna\n"
+
+#: Arjuna/404.php:4
+msgid "Error 404 - Not Found"
+msgstr "Hata 404 - Bulunamadı."
+
+#: Arjuna/404.php:5
+msgid "Sorry, but you are looking for something that isn't here. "
+msgstr "Üzgünüm aradığınız şey burada değil."
+
+#: Arjuna/archive.php:8
+#, php-format
+msgid "Browsing Posts in <em>%s</em>"
+msgstr "\"<em>%s</em>\" kategorisindeki yazıları görüntülüyorsunuz"
+
+#: Arjuna/archive.php:10
+#, php-format
+msgid "Browsing Posts tagged <em>%s</em>"
+msgstr "\"<em>%s</em>\" ile etiketlenmiş yazıları görüntülüyorsunuz"
+
+#: Arjuna/archive.php:12
+#, php-format
+msgid "Browsing Posts published on %s"
+msgstr "%s tarihinde yayımlanan yazıları görüntülüyorsunuz"
+
+#: Arjuna/archive.php:14
+#: Arjuna/archive.php:16
+#, php-format
+msgid "Browsing Posts published in %s"
+msgstr "%s kategorisindeki yazıları görüntülüyorsunuz"
+
+#: Arjuna/archive.php:14
+msgid "F, Y"
+msgstr "F, Y"
+
+#: Arjuna/archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: Arjuna/archive.php:19
+#, php-format
+msgid "Browsing Posts published by <em>%s</em>"
+msgstr "\"<em>%s</em>\" tarafından yazılmış yazıları görüntülüyorsunuz"
+
+#: Arjuna/archive.php:21
+msgid "Blog Archives"
+msgstr "Blog arşivleri"
+
+#: Arjuna/archive.php:28
+#: Arjuna/index.php:9
+#: Arjuna/page.php:9
+#: Arjuna/page_fullwidth.php:14
+#: Arjuna/search.php:15
+#: Arjuna/single.php:16
+msgid "Permalink to"
+msgstr "Kalıcı bağlantı &raquo;"
+
+#: Arjuna/archive.php:33
+#: Arjuna/index.php:14
+#: Arjuna/page.php:14
+#: Arjuna/page_fullwidth.php:19
+#: Arjuna/search.php:20
+#: Arjuna/single.php:21
+msgid " at "
+msgstr ", "
+
+#: Arjuna/archive.php:41
+#: Arjuna/index.php:22
+#: Arjuna/page.php:22
+#: Arjuna/page_fullwidth.php:27
+#: Arjuna/search.php:28
+#: Arjuna/single.php:29
+msgid "Pass required"
+msgstr "Şifre gerekli"
+
+#: Arjuna/archive.php:43
+#: Arjuna/index.php:24
+#: Arjuna/page.php:24
+#: Arjuna/page_fullwidth.php:29
+#: Arjuna/search.php:30
+#: Arjuna/single.php:31
+msgid "Comments off"
+msgstr "Yoruma kapalı"
+
+#: Arjuna/archive.php:45
+#: Arjuna/index.php:26
+#: Arjuna/page.php:26
+#: Arjuna/page_fullwidth.php:31
+#: Arjuna/search.php:32
+#: Arjuna/single.php:33
+msgid "No comments"
+msgstr "Yorum yok"
+
+#: Arjuna/archive.php:45
+#: Arjuna/index.php:26
+#: Arjuna/page.php:26
+#: Arjuna/page_fullwidth.php:31
+#: Arjuna/search.php:32
+#: Arjuna/single.php:33
+msgid "1 comment"
+msgstr "1 yorum"
+
+#: Arjuna/archive.php:45
+#: Arjuna/index.php:26
+#: Arjuna/page.php:26
+#: Arjuna/page_fullwidth.php:31
+#: Arjuna/search.php:32
+#: Arjuna/single.php:33
+#, php-format
+msgid "% comments"
+msgstr "% yorum"
+
+#: Arjuna/archive.php:51
+#: Arjuna/index.php:32
+#: Arjuna/page.php:32
+#: Arjuna/page_fullwidth.php:37
+#: Arjuna/search.php:38
+#: Arjuna/single.php:39
+msgid "continue reading..."
+msgstr "okumaya devam edin..."
+
+#: Arjuna/archive.php:59
+#: Arjuna/index.php:40
+#: Arjuna/search.php:46
+#: Arjuna/single.php:47
+msgid "<i>none</i>"
+msgstr "<i>etiket girilmemiş</i>"
+
+#: Arjuna/archive.php:63
+#: Arjuna/index.php:44
+#: Arjuna/search.php:50
+msgid "Read more"
+msgstr "Devamını okuyun"
+
+#: Arjuna/archive.php:75
+#: Arjuna/index.php:62
+#: Arjuna/search.php:59
+msgid "Newer Entries"
+msgstr "Sonraki girdiler"
+
+#: Arjuna/archive.php:76
+#: Arjuna/index.php:63
+#: Arjuna/search.php:60
+msgid "Older Entries"
+msgstr "Önceki girdiler"
+
+#: Arjuna/archive.php:81
+#: Arjuna/index.php:69
+msgid "There is nothing here (yet)."
+msgstr "Henüz burada bir şey yok."
+
+#: Arjuna/comments.php:13
+#: Arjuna/comments_legacy.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazı şifre korumalıdır. Yorumları görebilmek için şifre giriniz."
+
+#: Arjuna/comments.php:21
+#: Arjuna/comments_legacy.php:18
+#: Arjuna/functions.php:636
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: Arjuna/comments.php:23
+#: Arjuna/comments_legacy.php:20
+msgid "Leave a comment"
+msgstr "Yorum yapın"
+
+#: Arjuna/comments.php:26
+#: Arjuna/comments_legacy.php:23
+msgid "Trackback"
+msgstr "Geri izleme"
+
+#: Arjuna/comments.php:37
+msgid "Comment Pages:"
+msgstr "Yorum sayfaları:"
+
+#: Arjuna/comments.php:38
+#: Arjuna/comments_legacy.php:81
+msgid "Previous"
+msgstr "Geri"
+
+#: Arjuna/comments.php:38
+#: Arjuna/comments_legacy.php:81
+msgid "Next"
+msgstr "İleri"
+
+#: Arjuna/comments.php:40
+#: Arjuna/comments_legacy.php:83
+msgid "Older Comments"
+msgstr "Eski yorumlar"
+
+#: Arjuna/comments.php:41
+#: Arjuna/comments_legacy.php:84
+msgid "Newer Comments"
+msgstr "Yeni yorumlar"
+
+#: Arjuna/comments.php:48
+#: Arjuna/comments_legacy.php:91
+msgid "No one has commented yet."
+msgstr "Henüz yorum yapılmamış."
+
+#: Arjuna/comments.php:50
+#: Arjuna/comments_legacy.php:93
+msgid "Comments are closed."
+msgstr "Yoruma kapalıdır."
+
+#: Arjuna/comments.php:60
+#: Arjuna/comments_legacy.php:102
+msgid "Leave a Comment"
+msgstr "Yorum yapın"
+
+#: Arjuna/comments.php:62
+msgid "Cancel Reply"
+msgstr "Cevaplamayı iptal edin"
+
+#: Arjuna/comments.php:66
+#: Arjuna/comments_legacy.php:104
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Yorum yapabilmek için %sgiriş%s yapmış olmalısınız."
+
+#: Arjuna/comments.php:69
+#: Arjuna/comments.php:78
+#: Arjuna/comments_legacy.php:107
+#: Arjuna/comments_legacy.php:114
+msgid "Your name"
+msgstr "İsim"
+
+#: Arjuna/comments.php:70
+#: Arjuna/comments.php:79
+#: Arjuna/comments_legacy.php:108
+#: Arjuna/comments_legacy.php:115
+msgid "Your email"
+msgstr "E-posta"
+
+#: Arjuna/comments.php:71
+#: Arjuna/comments.php:80
+#: Arjuna/comments_legacy.php:109
+#: Arjuna/comments_legacy.php:116
+msgid "Your website"
+msgstr "Website"
+
+#: Arjuna/comments.php:72
+#: Arjuna/comments.php:89
+#: Arjuna/comments_legacy.php:110
+#: Arjuna/comments_legacy.php:119
+msgid "Your comment"
+msgstr "Yorumunuz..."
+
+#: Arjuna/comments.php:75
+#: Arjuna/comments_legacy.php:112
+#, php-format
+msgid "Logged in as %s."
+msgstr "Giriş yapılan kullanıcı: %s."
+
+#: Arjuna/comments.php:75
+#: Arjuna/comments_legacy.php:112
+msgid "Log out of this account"
+msgstr "Hesabınızdan çıkış yapın"
+
+#: Arjuna/comments.php:75
+#: Arjuna/comments_legacy.php:112
+msgid "Logout"
+msgstr "Çıkış"
+
+#: Arjuna/comments.php:91
+#: Arjuna/comments_legacy.php:121
+msgid "Subscribe to comments"
+msgstr "Yorum takibi"
+
+#: Arjuna/comments.php:92
+#: Arjuna/comments_legacy.php:122
+msgid "Leave comment"
+msgstr "Yorumu gönder"
+
+#: Arjuna/comments_legacy.php:58
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s saat %2$s"
+
+#: Arjuna/comments_legacy.php:58
+msgid "H:i"
+msgstr "H:i"
+
+#: Arjuna/comments_legacy.php:65
+#: Arjuna/functions.php:917
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz yönetici onayı bekliyor."
+
+#: Arjuna/functions.php:290
+msgid "Arjuna Options"
+msgstr "Arjuna ayarları"
+
+#: Arjuna/functions.php:299
+msgid "The Arjuna options have been saved."
+msgstr "Arjuna ayarları kaydedildi."
+
+#: Arjuna/functions.php:303
+msgid "Arjuna Theme Options"
+msgstr "Arjuna tema ayarları"
+
+#: Arjuna/functions.php:307
+#, php-format
+msgid "Thank you for using Arjuna, the free WordPress theme designed by %s."
+msgstr "Arjuna kullandığınız için teşekkür ederiz, bu ücretsiz wordpress teması %s tarafından tasarlanmıştır."
+
+#: Arjuna/functions.php:311
+msgid "Report Bugs"
+msgstr "Hataları bildirin"
+
+#: Arjuna/functions.php:312
+msgid "Report a Bug"
+msgstr "Hata bildirin"
+
+#: Arjuna/functions.php:312
+msgid "Please include your Wordpress version, browser details and a screenshot, if necessary."
+msgstr "Lütfen gerekliyse wordpress versiyonunuz, tarayıcı detaylarınız ve bir ekran görüntüsü ekleyiniz."
+
+#: Arjuna/functions.php:315
+msgid "Useful Links"
+msgstr "Kullanışlı linkler"
+
+#: Arjuna/functions.php:316
+msgid "Changelog"
+msgstr "Değişiklikler"
+
+#: Arjuna/functions.php:317
+msgid "FAQ"
+msgstr "SSS"
+
+#: Arjuna/functions.php:318
+msgid "Roadmap"
+msgstr "Yol haritası"
+
+#: Arjuna/functions.php:319
+msgid "Leave Feedback"
+msgstr "Geri bildirim"
+
+#: Arjuna/functions.php:322
+msgid "Support &amp; Sales"
+msgstr "Destek &amp; Satış"
+
+#: Arjuna/functions.php:323
+msgid "Contact Sales"
+msgstr "Satış iletişim"
+
+#: Arjuna/functions.php:323
+msgid "Need installation or integration support? Need something customized or extended?"
+msgstr "Yükleme yada integrasyon desteğine mi ihtiyacınız var? Özel yada geliştirilmiş şeylere mi ihtiyacınız var?"
+
+#: Arjuna/functions.php:328
+msgid "Arjuna is completely free. If you like this project and want to support further development and maintenance, please"
+msgstr "Arjuna tamamen ücretsizdir. Eğer bu projeyi beğendiyseniz lütfen destekleyiniz."
+
+#: Arjuna/functions.php:332
+msgid "Header"
+msgstr "Üst kısım"
+
+#: Arjuna/functions.php:336
+msgid "First Header Menu"
+msgstr "İlk üst menü"
+
+#: Arjuna/functions.php:340
+msgid "Enabled"
+msgstr "Aktif"
+
+#: Arjuna/functions.php:342
+msgid "Enable this menu"
+msgstr "Bu menüyü aktif edin"
+
+#: Arjuna/functions.php:344
+msgid "If disabled, the menu will be hidden."
+msgstr "Eğer pasif olursa menü gizlenir."
+
+#: Arjuna/functions.php:348
+#: Arjuna/functions.php:454
+msgid "Dropdown"
+msgstr "Sarkan menü"
+
+#: Arjuna/functions.php:352
+#: Arjuna/functions.php:458
+msgid "No dropdown menu"
+msgstr "Sarkmayan menü"
+
+#: Arjuna/functions.php:356
+#: Arjuna/functions.php:462
+msgid "One-level dropdown menu"
+msgstr "Birinci-seviye sarkan menü"
+
+#: Arjuna/functions.php:360
+#: Arjuna/functions.php:466
+msgid "Two-level dropdown menu"
+msgstr "İkinci-seviye sarkan menü"
+
+#: Arjuna/functions.php:364
+msgid "Alignment"
+msgstr "Sıralama"
+
+#: Arjuna/functions.php:368
+msgid "Left"
+msgstr "Sol"
+
+#: Arjuna/functions.php:372
+msgid "Right"
+msgstr "Sağ"
+
+#: Arjuna/functions.php:377
+#: Arjuna/functions.php:471
+msgid "Menu lists only"
+msgstr "Yalnızca menü listesi"
+
+#: Arjuna/functions.php:381
+#: Arjuna/functions.php:475
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: Arjuna/functions.php:385
+#: Arjuna/functions.php:479
+#: Arjuna/sidebar.php:34
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: Arjuna/functions.php:390
+#: Arjuna/functions.php:484
+msgid "Sorting Order"
+msgstr "Sıralama yöntemi"
+
+#: Arjuna/functions.php:393
+#: Arjuna/functions.php:407
+#: Arjuna/functions.php:487
+#: Arjuna/functions.php:501
+msgid "Sort menu items in"
+msgstr "Öğrelerin sıralanma şekli"
+
+#: Arjuna/functions.php:395
+#: Arjuna/functions.php:409
+#: Arjuna/functions.php:489
+#: Arjuna/functions.php:503
+msgid "ascending"
+msgstr "artan"
+
+#: Arjuna/functions.php:396
+#: Arjuna/functions.php:410
+#: Arjuna/functions.php:490
+#: Arjuna/functions.php:504
+msgid "descending"
+msgstr "azalan"
+
+#: Arjuna/functions.php:398
+#: Arjuna/functions.php:412
+#: Arjuna/functions.php:492
+#: Arjuna/functions.php:506
+msgid "order by"
+msgstr "tipi"
+
+#: Arjuna/functions.php:400
+#: Arjuna/functions.php:494
+msgid "Category Name"
+msgstr "kategori adı"
+
+#: Arjuna/functions.php:401
+#: Arjuna/functions.php:495
+msgid "Category ID"
+msgstr "kategori ID"
+
+#: Arjuna/functions.php:402
+#: Arjuna/functions.php:496
+msgid "Post Count"
+msgstr "yazı sayısı"
+
+#: Arjuna/functions.php:403
+#: Arjuna/functions.php:497
+msgid "Category Slug"
+msgstr "kategori slug"
+
+#: Arjuna/functions.php:414
+#: Arjuna/functions.php:508
+msgid "Page Title"
+msgstr "sayfa başlığı"
+
+#: Arjuna/functions.php:415
+#: Arjuna/functions.php:509
+msgid "Page ID"
+msgstr "sayfa ID"
+
+#: Arjuna/functions.php:416
+#: Arjuna/functions.php:510
+msgid "Page Slug"
+msgstr "sayfa slug"
+
+#: Arjuna/functions.php:417
+#: Arjuna/functions.php:511
+msgid "Page Order"
+msgstr "sayfa order"
+
+#: Arjuna/functions.php:438
+msgid "Second Header Menu"
+msgstr "İkinci üst menü"
+
+#: Arjuna/functions.php:442
+msgid "Home Button"
+msgstr "Anasayfa butonu"
+
+#: Arjuna/functions.php:444
+msgid "Display Home button"
+msgstr "Anasayfa butonunu göster"
+
+#: Arjuna/functions.php:448
+msgid "Separators"
+msgstr "Ayıraçlar"
+
+#: Arjuna/functions.php:450
+msgid "Visually separate the menu buttons"
+msgstr "Menü butonlarını görsel ayır"
+
+#: Arjuna/functions.php:531
+#: Arjuna/functions.php:535
+msgid "Header Image"
+msgstr "Üst kısım resmi"
+
+#: Arjuna/functions.php:540
+msgid "Light Blue"
+msgstr "Aydınlık mavi"
+
+#: Arjuna/functions.php:545
+msgid "Dark Blue"
+msgstr "Karanlık mavi"
+
+#: Arjuna/functions.php:552
+msgid "General Options"
+msgstr "Genel ayarlar"
+
+#: Arjuna/functions.php:553
+msgid "Sidebar"
+msgstr "Yan panel"
+
+#: Arjuna/functions.php:557
+msgid "Sidebar Position"
+msgstr "Yan panel pozisyonu"
+
+#: Arjuna/functions.php:562
+msgid "Right sidebar"
+msgstr "Yan panel sağda"
+
+#: Arjuna/functions.php:567
+msgid "Left sidebar"
+msgstr "Yan panel solda"
+
+#: Arjuna/functions.php:572
+msgid "No sidebar"
+msgstr "Yan panelsiz"
+
+#: Arjuna/functions.php:577
+msgid "Sidebar Width"
+msgstr "Yan panel genişliği"
+
+#: Arjuna/functions.php:579
+msgid "Small"
+msgstr "Dar"
+
+#: Arjuna/functions.php:580
+msgid "Normal"
+msgstr "Normal"
+
+#: Arjuna/functions.php:581
+msgid "Large"
+msgstr "Geniş"
+
+#: Arjuna/functions.php:582
+msgid "If you intend to use the two column sidebar, we recommend to choose either the normal or the large sidebar."
+msgstr "Eğer iki kolon yan panel kullanacaksanız normal yada geniş yan panel seçmenizi tavsiye ediyoruz."
+
+#: Arjuna/functions.php:586
+msgid "Default Widgets"
+msgstr "Varsayılan bileşenler"
+
+#: Arjuna/functions.php:588
+msgid "Display default sidebar widgets if the widget bars are empty."
+msgstr "Eğer bileşen kutuları boş ise var sayılan yan panel bileşenlerini göster."
+
+#: Arjuna/functions.php:589
+msgid "If enabled, these widgets will be displayed if the widget bar is empty: <b>sidebar_full_top:</b> Recent Posts and Browse by Tags, <b>sidebar_left:</b> Categories, <b>sidebar_right:</b> Meta"
+msgstr "Eğer aktifse ve bileşen kutuları boş ise şunlar görüntülenir: <b>sidebar_full_top:</b> Son yazılanlar ve Etiketler, <b>sidebar_left:</b> Kategoriler, <b>sidebar_right:</b> Meta"
+
+#: Arjuna/functions.php:593
+msgid "RSS Button"
+msgstr "RSS butonu"
+
+#: Arjuna/functions.php:595
+msgid "Display an RSS button on the very top of the sidebar."
+msgstr "Yan panelde RSS butonunu en üstte göster."
+
+#: Arjuna/functions.php:599
+msgid "Twitter Button"
+msgstr "Twitter butonu"
+
+#: Arjuna/functions.php:601
+msgid "Display a Twitter button on the very top of the sidebar."
+msgstr "Twitter butonunu yan panelde en üstte göster."
+
+#: Arjuna/functions.php:610
+msgid "Single Post Pages"
+msgstr "Tekil yazı sayfaları"
+
+#: Arjuna/functions.php:614
+msgid "Display Author"
+msgstr "Yazarı görüntüle"
+
+#: Arjuna/functions.php:616
+msgid "Include the author of a post in the post header."
+msgstr "Yazının üst kısmında yazarı görüntüle."
+
+#: Arjuna/functions.php:620
+msgid "Display Time"
+msgstr "Tarihi görüntüle"
+
+#: Arjuna/functions.php:622
+msgid "Include the time and date of when the post has been published, instead of only the date."
+msgstr "Yazı yayımlandığında yalnızca tarih yerine zaman ve tarih ekleyin."
+
+#: Arjuna/functions.php:626
+msgid "Navigation Links"
+msgstr "Navigasyon linkleri"
+
+#: Arjuna/functions.php:628
+msgid "Display links to the previous and next posts above each post."
+msgstr "Her yazının üst kısmında \"Önceki yazı\" ve \"Sonraki yazı\" bağlantılarını göster."
+
+#: Arjuna/functions.php:629
+msgid "Display links to the previous and next posts below each post."
+msgstr "Her yazının alt kısmında \"Önceki yazı\" ve \"Sonraki yazı\" bağlantılarını göster."
+
+#: Arjuna/functions.php:630
+msgid "Note: The links will only be shown on permalink pages, i.e. the URL where one single post/page is displayed."
+msgstr "Not: Linkler kalıcı sayfalar gibi görünür, örneğin tekil yazı ve sayfa bağlantıları nasıl görünüyorsa onlar gibi görünür."
+
+#: Arjuna/functions.php:640
+msgid "Display comments as follows"
+msgstr "Yorumlar şu şekilde görünsün"
+
+#: Arjuna/functions.php:645
+msgid "Aligned to the left"
+msgstr "Sola yaslanmış"
+
+#: Arjuna/functions.php:650
+msgid "Aligned to the right"
+msgstr "Sağa yaslanmış"
+
+#: Arjuna/functions.php:655
+msgid "Alternate between left and right alignment"
+msgstr "Yazar yorumları sağa misafir yorumları sola yaslanmış"
+
+#: Arjuna/functions.php:660
+msgid "Date Format"
+msgstr "Tarih formatı"
+
+#: Arjuna/functions.php:662
+msgid "Passed Time (Example: <em>&quot;Written by admin about 3 days ago.&quot;</em>)"
+msgstr "Geçen zaman (Örneğin: <em>&quot;Yazar: admin yaklaşık 3 saat önce yazılmış.&quot;</em>)"
+
+#: Arjuna/functions.php:663
+#, php-format
+msgid "Default Date Format (Example: <em>&quot;Written by admin on %s&quot;</em>)"
+msgstr "Varsayılan tarih formatı (Örneğin: <em>&quot;Yazar: admin tarih %s&quot;</em>)"
+
+#: Arjuna/functions.php:664
+msgid "The default date format can be customized in Settings &gt; General."
+msgstr "Varsayılan tarih formatı Ayarlar &gt; Genel bölümünden değiştirilebilir."
+
+#: Arjuna/functions.php:670
+msgid "Blog"
+msgstr "Blog"
+
+#: Arjuna/functions.php:674
+msgid "Pagination"
+msgstr "Numaralandırma"
+
+#: Arjuna/functions.php:676
+msgid "Use Arjuna pagination"
+msgstr "Arjuna sayfa numaralandırmasını kullanın"
+
+#: Arjuna/functions.php:677
+msgid "If enabled, Arjuna will use its own native pagination to allow your users to navigate the blog using pages."
+msgstr "Eğer aktifleştirilirse kullanıcılarınızın sayfalarda gezinmesi için Arjuna kendi numaralandırma sistemini kullanır."
+
+#: Arjuna/functions.php:681
+msgid "Page Range"
+msgstr "Sayfa aralığı"
+
+#: Arjuna/functions.php:690
+msgid "The number of page buttons that will appear before and after the current page button."
+msgstr "Şuanki görüntülenen sayfa ile ileri ve geri butonlarının arasında kalan sayfa sayısı."
+
+#: Arjuna/functions.php:694
+msgid "Page Anchors"
+msgstr "Sayfa çapaları"
+
+#: Arjuna/functions.php:703
+msgid "The number of page buttons that will always appear at the beginning and the end of the pagination."
+msgstr "Numaralandırmanın başında ve sonunda görünmesini istediğiniz sayfa sayısı."
+
+#: Arjuna/functions.php:707
+msgid "Page Gap"
+msgstr "Sayfa aralığı"
+
+#: Arjuna/functions.php:716
+msgid "The number of page buttons in a gap before an ellipsis (...) is displayed."
+msgstr "(...) önce görünmesini istediğiniz sayfa aralığı sayısı."
+
+#: Arjuna/functions.php:721
+msgid "Use WordPress default"
+msgstr "Wordpress varsayılanını kullan"
+
+#: Arjuna/functions.php:722
+msgid "The default depends on your WordPress version and whether you have any pagination plugins activated. If the wp-paginate or wp-pagenavi plugin is activated, then Arjuna will use these plugins to create the pagination."
+msgstr "Numaralandırma eklentisi kullanmazsanız wordpress varsayılanı aktif olur. Eğer wp-paginate ve wp-pagenavi eklentilerinden birisi aktif ise Arjuna numaralandırmak için bu eklentilerden yararlanır."
+
+#: Arjuna/functions.php:728
+msgid "Miscellaneous"
+msgstr "Çeşitli"
+
+#: Arjuna/functions.php:732
+msgid "Append to page title"
+msgstr "Sayfa başlığına ekleyin"
+
+#: Arjuna/functions.php:734
+#, php-format
+msgid "Blog Name (&quot; - %s&quot;)"
+msgstr "Blog adı (&quot; - %s&quot;)"
+
+#: Arjuna/functions.php:735
+msgid "Custom:"
+msgstr "Özel:"
+
+#: Arjuna/functions.php:736
+msgid "This will be appended to the page title of every web page (posts, pages, categories, etc.)"
+msgstr "Bu sayfa başlığı web sayfalarınızın tümüne eklenir (yazılar, sayfalar, kategoriler vs...)"
+
+#: Arjuna/functions.php:740
+msgid "Footer Style"
+msgstr "Alt kısım stili"
+
+#: Arjuna/functions.php:753
+msgid "Custom CSS"
+msgstr "Özel CSS"
+
+#: Arjuna/functions.php:760
+msgid "Arjuna needs write permissions to create a new file \"user-style.css\", which will contain the custom CSS."
+msgstr "Arjuna özel CSS kodlarını içeren \"user-style.css\" dosyasını yazma yetkisine sahip olmalı."
+
+#: Arjuna/functions.php:762
+msgid "Enable custom CSS rules"
+msgstr "Özel CSS kullanımı aktif"
+
+#: Arjuna/functions.php:763
+msgid "If enabled, Arjuna will create a user stylesheet with your custom CSS rules. The user stylesheet will be included with every page call. If you intend to make some minor changes to the stylesheet, enabling this option ensures that you can safely upgrade Arjuna without losing your custom CSS."
+msgstr "Eğer aktifse Arjuna kullanıcıya özel CSS sayfa yönergesi oluşturur. Bu kullanıcı sayfa yönergesi tüm sayfalarda çağrılır. Eğer Arjuna sayfa yönergesinde küçük değişiklikler yapmak isterseniz, bu ayarın aktif olması ile Arjuna üzerinde güvenli bir şekilde değişiklik yapabilirsiniz. Size özel olan sayfa yönergesindeki verileri kaybetmeden rahatça Arjuna'yı güncelleyebilirsiniz."
+
+#: Arjuna/functions.php:772
+msgid "Note:"
+msgstr "Not:"
+
+#: Arjuna/functions.php:772
+msgid "Arjuna cannot write to the themes directory. The custom CSS rules will be included in the header of each page, between &lt;STYLE&gt; tags."
+msgstr "Arjuna tema dizinine yazamıyor. Özel CSS kodları sayfa başına &lt;STYLE&gt; tagları arasına eklendi."
+
+#: Arjuna/functions.php:781
+msgid "Performance Optimization"
+msgstr "Performans Optimizasyonu"
+
+#: Arjuna/functions.php:785
+msgid "Internet Explorer 6 Optimization"
+msgstr "Internet Explorer 6 optimizasyonu"
+
+#: Arjuna/functions.php:787
+msgid "Enable IE6 performance optimization"
+msgstr "IE6 performans optimizasyonunu aktif et"
+
+#: Arjuna/functions.php:789
+msgid "If turned on, Arjuna will attempt to detect IE6 and serve a stand-alone CSS file specifically made for IE6."
+msgstr "Eğer açılırsa Arjuna IE6 tespit etmeye çalışır ve IE6 için özel olarak yazılmış kodları devreye sokar."
+
+#: Arjuna/functions.php:789
+msgid "Note: IE6 will still work the same if this option is turned off, however, you and your IE6 users will save an estimated 28kb (11 image and 2 CSS files) in bandwidth for first-time visitors. IE6 also might render more rapidly if this is turned on."
+msgstr "Not: IE6, ayar pasif olsa da aynı şekilde çalışmaya devam eder bununla birlikte siz ve ilk kez gelen IE6 kullanan ziyaretçileriniz yaklaşık 28kb (11 resim 2 css dosyası) yüklemekten kurtulur. IE6 eğer ayar aktifse sayfaları daha hızlı tarar."
+
+#: Arjuna/functions.php:796
+msgid "Save Changes"
+msgstr "Değişiklikleri kaydet"
+
+#: Arjuna/functions.php:905
+msgid "Written by"
+msgstr "Yazar:"
+
+#: Arjuna/functions.php:907
+#, php-format
+msgid "about %s ago"
+msgstr "yaklaşık %s önce yazılmış"
+
+#: Arjuna/functions.php:909
+msgid "on"
+msgstr "tarih"
+
+#: Arjuna/functions.php:914
+msgid "Edit"
+msgstr "Düzenle"
+
+#: Arjuna/functions.php:941
+msgid "1 year"
+msgstr "1 yıl"
+
+#: Arjuna/functions.php:941
+#, php-format
+msgid "%d years"
+msgstr "%d yıl"
+
+#: Arjuna/functions.php:945
+msgid "1 month"
+msgstr "1 ay"
+
+#: Arjuna/functions.php:945
+#, php-format
+msgid "%d months"
+msgstr "%d ay"
+
+#: Arjuna/functions.php:949
+msgid "1 week"
+msgstr "1 hafta"
+
+#: Arjuna/functions.php:949
+#, php-format
+msgid "%d weeks"
+msgstr "%d hafta"
+
+#: Arjuna/functions.php:953
+msgid "1 day"
+msgstr "1 gün"
+
+#: Arjuna/functions.php:953
+#, php-format
+msgid "%d days"
+msgstr "%d gün"
+
+#: Arjuna/functions.php:957
+msgid "1 hour"
+msgstr "1 saat"
+
+#: Arjuna/functions.php:957
+#, php-format
+msgid "%d hours"
+msgstr "%d saat"
+
+#: Arjuna/functions.php:961
+msgid "1 minute"
+msgstr "1 dakika"
+
+#: Arjuna/functions.php:961
+#, php-format
+msgid "%d minutes"
+msgstr "%d dakika"
+
+#: Arjuna/functions.php:964
+msgid "1 second"
+msgstr "1 saniye"
+
+#: Arjuna/functions.php:964
+#, php-format
+msgid "%d seconds"
+msgstr "%d saniye"
+
+#: Arjuna/functions.php:1050
+#, php-format
+msgid "Page %s of %s"
+msgstr "%s / %s"
+
+#: Arjuna/functions.php:1089
+#: Arjuna/functions.php:1092
+#, php-format
+msgid "Page %s"
+msgstr "Sayfa %s"
+
+#: Arjuna/header.php:10
+msgid "Search Results:"
+msgstr "Arama sonuçları:"
+
+#: Arjuna/header.php:37
+msgid "Skip to posts"
+msgstr "İçeriğe atla"
+
+#: Arjuna/header.php:63
+msgid "Search here..."
+msgstr "Arama..."
+
+#: Arjuna/header.php:64
+msgid "Find"
+msgstr "Bul"
+
+#: Arjuna/header.php:70
+msgid "Home"
+msgstr "Anasayfa"
+
+#: Arjuna/index.php:51
+msgid "Previous Page"
+msgstr "Geri"
+
+#: Arjuna/index.php:51
+msgid "Next Page"
+msgstr "İleri"
+
+#: Arjuna/page.php:34
+#: Arjuna/page_fullwidth.php:39
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: Arjuna/page.php:34
+#: Arjuna/page_fullwidth.php:39
+msgid "Page %"
+msgstr "[ % ]"
+
+#: Arjuna/page.php:36
+#: Arjuna/page_fullwidth.php:41
+#: Arjuna/single.php:51
+msgid "Edit in Admin"
+msgstr "Düzenle"
+
+#: Arjuna/page.php:45
+#: Arjuna/page_fullwidth.php:51
+#: Arjuna/single.php:69
+msgid "There is nothing here."
+msgstr "Burada hiçbir şey yok."
+
+#: Arjuna/search.php:8
+#, php-format
+msgid "Search Results on <em>%s</em>"
+msgstr "\"<em>%s</em>\" ifadesi için bulunan sonuçlar"
+
+#: Arjuna/search.php:65
+msgid "Your search returned no results."
+msgstr "Armanızla eşleşen sonuç bulunamadı."
+
+#: Arjuna/sidebar.php:17
+msgid "Recent Posts"
+msgstr "Son yazılanlar"
+
+#: Arjuna/sidebar.php:24
+msgid "Browse by Tags"
+msgstr "Etiketler"
+
+#: Arjuna/sidebar.php:46
+msgid "Meta"
+msgstr "Meta"
+
+#: Arjuna/single.php:9
+#: Arjuna/single.php:60
+msgid "Previous Post"
+msgstr "Önceki yazı"
+
+#: Arjuna/single.php:10
+#: Arjuna/single.php:61
+msgid "Next Post"
+msgstr "Sonraki yazı"
+

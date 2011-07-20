@@ -1,0 +1,1065 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arjuna X 1.3.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-17 10:35+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: SRS Solutions <info@srssolutions.com>\n"
+"Language-Team: Grigore Dolghin <gdolghin@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: Romania\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: Arjuna/404.php:4
+msgid "Error 404 - Not Found"
+msgstr "Eroare 404 - pagina nu există."
+
+#: Arjuna/404.php:5
+msgid "Sorry, but you are looking for something that isn't here. "
+msgstr "Ne cerem scuze - ceea ce căutaţi nu există."
+
+#: Arjuna/archive.php:8
+#, php-format
+msgid "Browsing Posts in <em>%s</em>"
+msgstr "Afişare articole în <em>%s</em>"
+
+#: Arjuna/archive.php:10
+#, php-format
+msgid "Browsing Posts tagged <em>%s</em>"
+msgstr "Afişare articole cu eticheta <em>%s</em>"
+
+#: Arjuna/archive.php:12
+#, php-format
+msgid "Browsing Posts published on %s"
+msgstr "Afişare articole publicate la %s"
+
+#: Arjuna/archive.php:14
+#: Arjuna/archive.php:16
+#, php-format
+msgid "Browsing Posts published in %s"
+msgstr "Afişare articole publicate în %s"
+
+#: Arjuna/archive.php:14
+msgid "F, Y"
+msgstr "F Y"
+
+#: Arjuna/archive.php:16
+msgid "Y"
+msgstr "Y"
+
+#: Arjuna/archive.php:19
+#, php-format
+msgid "Browsing Posts published by <em>%s</em>"
+msgstr "Afişare articole publicate de <em>%s</em>"
+
+#: Arjuna/archive.php:21
+msgid "Blog Archives"
+msgstr "Arhive blog"
+
+#: Arjuna/archive.php:28
+#: Arjuna/index.php:9
+#: Arjuna/page.php:11
+#: Arjuna/page.php:16
+#: Arjuna/page_fullwidth.php:15
+#: Arjuna/page_fullwidth.php:20
+#: Arjuna/search.php:15
+#: Arjuna/single.php:16
+msgid "Permalink to"
+msgstr "Legătură permanentă către"
+
+#: Arjuna/archive.php:33
+#: Arjuna/index.php:14
+#: Arjuna/page.php:21
+#: Arjuna/page_fullwidth.php:25
+#: Arjuna/search.php:20
+#: Arjuna/single.php:21
+msgid " at "
+msgstr " la "
+
+#: Arjuna/archive.php:42
+#: Arjuna/index.php:23
+#: Arjuna/page.php:30
+#: Arjuna/page_fullwidth.php:34
+#: Arjuna/search.php:28
+#: Arjuna/single.php:30
+msgid "Pass required"
+msgstr "Este necesară o parolă"
+
+#: Arjuna/archive.php:44
+#: Arjuna/index.php:25
+#: Arjuna/page.php:32
+#: Arjuna/page_fullwidth.php:36
+#: Arjuna/search.php:30
+#: Arjuna/single.php:32
+msgid "Comments off"
+msgstr "Comentariile sunt închise."
+
+#: Arjuna/archive.php:46
+#: Arjuna/index.php:27
+#: Arjuna/page.php:34
+#: Arjuna/page_fullwidth.php:38
+#: Arjuna/search.php:32
+#: Arjuna/single.php:34
+msgid "No comments"
+msgstr "Niciun comentariu"
+
+#: Arjuna/archive.php:46
+#: Arjuna/index.php:27
+#: Arjuna/page.php:34
+#: Arjuna/page_fullwidth.php:38
+#: Arjuna/search.php:32
+#: Arjuna/single.php:34
+msgid "1 comment"
+msgstr "1 comentariu"
+
+#: Arjuna/archive.php:46
+#: Arjuna/index.php:27
+#: Arjuna/page.php:34
+#: Arjuna/page_fullwidth.php:38
+#: Arjuna/search.php:32
+#: Arjuna/single.php:34
+#, php-format
+msgid "% comments"
+msgstr "% comentarii"
+
+#: Arjuna/archive.php:53
+#: Arjuna/index.php:34
+#: Arjuna/page.php:42
+#: Arjuna/page_fullwidth.php:46
+#: Arjuna/search.php:38
+#: Arjuna/single.php:41
+msgid "continue reading..."
+msgstr "Citeşte mai mult..."
+
+#: Arjuna/archive.php:61
+#: Arjuna/index.php:42
+#: Arjuna/search.php:46
+#: Arjuna/single.php:49
+msgid "<i>none</i>"
+msgstr "<i>nimic</i>"
+
+#: Arjuna/archive.php:65
+#: Arjuna/index.php:46
+#: Arjuna/search.php:50
+msgid "Read more"
+msgstr "Citeşte mai mult"
+
+#: Arjuna/archive.php:77
+#: Arjuna/index.php:64
+#: Arjuna/search.php:59
+msgid "Newer Entries"
+msgstr "Articole mai noi"
+
+#: Arjuna/archive.php:78
+#: Arjuna/index.php:65
+#: Arjuna/search.php:60
+msgid "Older Entries"
+msgstr "Articole mai vechi"
+
+#: Arjuna/archive.php:83
+#: Arjuna/index.php:71
+msgid "There is nothing here (yet)."
+msgstr "Încă nu e nimic aici."
+
+#: Arjuna/comments.php:13
+#: Arjuna/comments_legacy.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Acest articol este protejat cu o parolă. Introduceţi parola pentru a vedea comentariile."
+
+#: Arjuna/comments.php:21
+#: Arjuna/comments_legacy.php:18
+#: Arjuna/functions.php:897
+msgid "Comments"
+msgstr "Comentarii"
+
+#: Arjuna/comments.php:23
+#: Arjuna/comments_legacy.php:20
+msgid "Leave a comment"
+msgstr "Lăsaţi un comentariu."
+
+#: Arjuna/comments.php:26
+#: Arjuna/comments_legacy.php:23
+msgid "Trackback"
+msgstr "Trackback"
+
+#: Arjuna/comments.php:38
+#: Arjuna/comments_legacy.php:91
+msgid "No one has commented yet."
+msgstr "Nu a comentat nimeni încă."
+
+#: Arjuna/comments.php:40
+#: Arjuna/comments_legacy.php:93
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+#: Arjuna/comments.php:50
+#: Arjuna/comments_legacy.php:102
+msgid "Leave a Comment"
+msgstr "Lăsaţi un comentariu."
+
+#: Arjuna/comments.php:52
+msgid "Cancel Reply"
+msgstr "Anulare introducere."
+
+#: Arjuna/comments.php:56
+#: Arjuna/comments_legacy.php:104
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Trebuie să fiţi %sautentificat%s pentru a putea lăsa un comentariu."
+
+#: Arjuna/comments.php:59
+#: Arjuna/comments.php:68
+#: Arjuna/comments_legacy.php:107
+#: Arjuna/comments_legacy.php:114
+msgid "Your name"
+msgstr "Numele dvs."
+
+#: Arjuna/comments.php:60
+#: Arjuna/comments.php:69
+#: Arjuna/comments_legacy.php:108
+#: Arjuna/comments_legacy.php:115
+msgid "Your email"
+msgstr "Adresa dvs. e-mail"
+
+#: Arjuna/comments.php:61
+#: Arjuna/comments.php:70
+#: Arjuna/comments_legacy.php:109
+#: Arjuna/comments_legacy.php:116
+msgid "Your website"
+msgstr "Site web"
+
+#: Arjuna/comments.php:62
+#: Arjuna/comments.php:79
+#: Arjuna/comments_legacy.php:110
+#: Arjuna/comments_legacy.php:119
+msgid "Your comment"
+msgstr "Comentariul dvs."
+
+#: Arjuna/comments.php:65
+#: Arjuna/comments_legacy.php:112
+#, php-format
+msgid "Logged in as %s."
+msgstr "Autentificat ca %s."
+
+#: Arjuna/comments.php:65
+#: Arjuna/comments_legacy.php:112
+msgid "Log out of this account"
+msgstr "Deautentificare"
+
+#: Arjuna/comments.php:65
+#: Arjuna/comments_legacy.php:112
+msgid "Logout"
+msgstr "Deautentificare"
+
+#: Arjuna/comments.php:81
+#: Arjuna/comments_legacy.php:121
+msgid "Subscribe to comments"
+msgstr "Abonare la comentarii"
+
+#: Arjuna/comments.php:82
+#: Arjuna/comments_legacy.php:122
+msgid "Leave comment"
+msgstr "Lăsaţi un comentariu."
+
+#: Arjuna/comments_legacy.php:58
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s la %2$s"
+
+#: Arjuna/comments_legacy.php:58
+msgid "H:i"
+msgstr "H:i"
+
+#: Arjuna/comments_legacy.php:65
+#: Arjuna/functions.php:1193
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul dvs. este în aşteptare pentru moderare."
+
+#: Arjuna/comments_legacy.php:81
+#: Arjuna/functions.php:1394
+msgid "Previous"
+msgstr "Precedent"
+
+#: Arjuna/comments_legacy.php:81
+#: Arjuna/functions.php:1394
+msgid "Next"
+msgstr "Următor"
+
+#: Arjuna/comments_legacy.php:83
+#: Arjuna/functions.php:1396
+msgid "Older Comments"
+msgstr "Comentarii mai vechi"
+
+#: Arjuna/comments_legacy.php:84
+#: Arjuna/functions.php:1397
+msgid "Newer Comments"
+msgstr "Comentarii mai noi"
+
+#: Arjuna/functions.php:352
+msgid "Arjuna Options"
+msgstr "Opţiuni Arjuna"
+
+#: Arjuna/functions.php:362
+msgid "The Arjuna options have been saved."
+msgstr "Opţiunile Arjuna au fost salvate."
+
+#: Arjuna/functions.php:366
+msgid "Arjuna Theme Options"
+msgstr "Opţiunile temei Arjuna"
+
+#: Arjuna/functions.php:370
+#, php-format
+msgid "Thank you for using Arjuna, the free WordPress theme designed by %s."
+msgstr "Vă mulţumim că folosiţi Arjuna, tema gratuită pentru WordPress realizată de %s."
+
+#: Arjuna/functions.php:370
+msgid "Follow Us"
+msgstr "Urmăriţi-ne"
+
+#: Arjuna/functions.php:374
+msgid "Report Bugs"
+msgstr "Raportare erori"
+
+#: Arjuna/functions.php:375
+msgid "Report a Bug"
+msgstr "Raportaţi o eroare"
+
+#: Arjuna/functions.php:375
+msgid "Please include your Wordpress version, browser details and a screenshot, if necessary."
+msgstr "Vă rugăm să încludeţi versiunea Wordpress, detalii despre browser şi un screenshot, daca este necesar."
+
+#: Arjuna/functions.php:378
+msgid "Useful Links"
+msgstr "Legături utile"
+
+#: Arjuna/functions.php:379
+msgid "Changelog"
+msgstr "Jurnal modificări"
+
+#: Arjuna/functions.php:380
+msgid "FAQ"
+msgstr "Întrebări frecvente"
+
+#: Arjuna/functions.php:381
+msgid "Roadmap"
+msgstr "Plan"
+
+#: Arjuna/functions.php:382
+msgid "Leave Feedback"
+msgstr "Lăsaţi-ne feedback."
+
+#: Arjuna/functions.php:385
+msgid "Support &amp; Sales"
+msgstr "Suport &amp; vânzări"
+
+#: Arjuna/functions.php:386
+msgid "Contact Sales"
+msgstr "Contactaţi serviciul vânzări"
+
+#: Arjuna/functions.php:386
+msgid "Need installation or integration support? Need something customized or extended?"
+msgstr "Doriţi o instalare sau aveţi nevoie de suport pentru integrare? Doriţi particularizări sau extinderi?"
+
+#: Arjuna/functions.php:391
+msgid "Arjuna is completely free. Therefore, please understand that we do NOT offer free support. If you require support of any kind other than fixing a bug that is related to Arjuna, please request a quote from us."
+msgstr "Tema Arjuna este complet gratuită. Prin urmare vă rugăm să înţelegeţi că NU oferim suport gratuit. Dacă aveţi nevoie de suport, de orice natură, cu excepţia eliminării bugurilor din tema Arjuna, vă rugăm să ne cereţi o ofertă de preţ."
+
+#: Arjuna/functions.php:395
+msgid "Header"
+msgstr "Antet "
+
+#: Arjuna/functions.php:399
+msgid "First Header Menu"
+msgstr "Primul meniu din antet"
+
+#: Arjuna/functions.php:403
+msgid "Enabled"
+msgstr "Activ"
+
+#: Arjuna/functions.php:405
+msgid "Enable this menu"
+msgstr "Acest meniu este activ"
+
+#: Arjuna/functions.php:407
+msgid "If disabled, the menu will be hidden."
+msgstr "Dacă e inactiv, meniul va fi invizibil."
+
+#: Arjuna/functions.php:411
+#: Arjuna/functions.php:592
+msgid "Dropdown"
+msgstr "Deschidere"
+
+#: Arjuna/functions.php:415
+#: Arjuna/functions.php:596
+msgid "No dropdown menu"
+msgstr "Meniul nu se deschide"
+
+#: Arjuna/functions.php:419
+#: Arjuna/functions.php:600
+msgid "One-level dropdown menu"
+msgstr "Meniul se deschide pe un nivel"
+
+#: Arjuna/functions.php:423
+#: Arjuna/functions.php:604
+msgid "Two-level dropdown menu"
+msgstr "Meniul se deschide pe două niveluri"
+
+#: Arjuna/functions.php:427
+msgid "Alignment"
+msgstr "Aliniere"
+
+#: Arjuna/functions.php:431
+msgid "Left"
+msgstr "Stânga"
+
+#: Arjuna/functions.php:435
+msgid "Right"
+msgstr "Dreapta"
+
+#: Arjuna/functions.php:440
+#: Arjuna/functions.php:609
+msgid "Menu lists only"
+msgstr "Meniul afişează doar"
+
+#: Arjuna/functions.php:444
+#: Arjuna/functions.php:613
+msgid "Pages"
+msgstr "Pagini"
+
+#: Arjuna/functions.php:448
+#: Arjuna/functions.php:617
+#: Arjuna/sidebar.php:37
+msgid "Categories"
+msgstr "Categorii"
+
+#: Arjuna/functions.php:453
+#: Arjuna/functions.php:622
+msgid "Sorting Order"
+msgstr "Ordine sortare"
+
+#: Arjuna/functions.php:456
+#: Arjuna/functions.php:470
+#: Arjuna/functions.php:625
+#: Arjuna/functions.php:639
+msgid "Sort menu items in"
+msgstr "Sortare elemente de meniu în ordine"
+
+#: Arjuna/functions.php:458
+#: Arjuna/functions.php:472
+#: Arjuna/functions.php:627
+#: Arjuna/functions.php:641
+msgid "ascending"
+msgstr "crescătoare"
+
+#: Arjuna/functions.php:459
+#: Arjuna/functions.php:473
+#: Arjuna/functions.php:628
+#: Arjuna/functions.php:642
+msgid "descending"
+msgstr "descrescătoare"
+
+#: Arjuna/functions.php:461
+#: Arjuna/functions.php:475
+#: Arjuna/functions.php:630
+#: Arjuna/functions.php:644
+msgid "order by"
+msgstr "după"
+
+#: Arjuna/functions.php:463
+#: Arjuna/functions.php:632
+msgid "Category Name"
+msgstr "Nume categorie"
+
+#: Arjuna/functions.php:464
+#: Arjuna/functions.php:633
+msgid "Category ID"
+msgstr "ID categorie"
+
+#: Arjuna/functions.php:465
+#: Arjuna/functions.php:634
+msgid "Post Count"
+msgstr "Număr articole"
+
+#: Arjuna/functions.php:466
+#: Arjuna/functions.php:635
+msgid "Category Slug"
+msgstr "Slug categorie"
+
+#: Arjuna/functions.php:477
+#: Arjuna/functions.php:646
+msgid "Page Title"
+msgstr "Titlu pagină"
+
+#: Arjuna/functions.php:478
+#: Arjuna/functions.php:647
+msgid "Page ID"
+msgstr "ID pagină"
+
+#: Arjuna/functions.php:479
+#: Arjuna/functions.php:648
+msgid "Page Slug"
+msgstr "Slug pagină"
+
+#: Arjuna/functions.php:480
+#: Arjuna/functions.php:649
+msgid "Page Order"
+msgstr "Ordine pagină"
+
+#: Arjuna/functions.php:486
+#: Arjuna/functions.php:661
+msgid "Menu Items"
+msgstr "Elemente meniu"
+
+#: Arjuna/functions.php:490
+#: Arjuna/functions.php:665
+msgid "Include categories"
+msgstr "Includere categorii"
+
+#: Arjuna/functions.php:507
+#: Arjuna/functions.php:682
+msgid "Exclude categories"
+msgstr "Excludere categorii"
+
+#: Arjuna/functions.php:526
+#: Arjuna/functions.php:701
+msgid "Note: While the above fields show empty categories, the theme will only display categories that have at least one published post in them.</span>"
+msgstr "Notă: Deşi câmpurile de mai sus afişează şi categoriile fără articole, tema va afişa numai categoriile care au cel puţin un articol publicat.</span>"
+
+#: Arjuna/functions.php:530
+#: Arjuna/functions.php:705
+msgid "Include pages"
+msgstr "Includere pagini"
+
+#: Arjuna/functions.php:546
+#: Arjuna/functions.php:721
+msgid "Exclude pages"
+msgstr "Excludere pagini"
+
+#: Arjuna/functions.php:582
+msgid "Second Header Menu"
+msgstr "Al doilea meniu din antet"
+
+#: Arjuna/functions.php:586
+msgid "Separators"
+msgstr "Separatori"
+
+#: Arjuna/functions.php:588
+msgid "Visually separate the menu buttons"
+msgstr "Separare vizuală a butoanelor din meniu"
+
+#: Arjuna/functions.php:655
+msgid "Home Button"
+msgstr "Buton Prima pagină"
+
+#: Arjuna/functions.php:657
+msgid "Display Home button"
+msgstr "Afişare buton Prima pagină"
+
+#: Arjuna/functions.php:757
+#: Arjuna/functions.php:761
+msgid "Header Image"
+msgstr "Imagine antet"
+
+#: Arjuna/functions.php:766
+msgid "Light Blue"
+msgstr "Albastru deschis"
+
+#: Arjuna/functions.php:771
+msgid "Dark Blue"
+msgstr "Albastru închis"
+
+#: Arjuna/functions.php:776
+msgid "Khaki"
+msgstr "Kaki"
+
+#: Arjuna/functions.php:781
+msgid "Sea Green"
+msgstr "Verde marin"
+
+#: Arjuna/functions.php:788
+msgid "General Options"
+msgstr "Opţiuni generale"
+
+#: Arjuna/functions.php:789
+msgid "Sidebar"
+msgstr "Bară laterală"
+
+#: Arjuna/functions.php:793
+msgid "Sidebar Position"
+msgstr "Poziţia barei laterale"
+
+#: Arjuna/functions.php:798
+msgid "Right sidebar"
+msgstr "În dreapta"
+
+#: Arjuna/functions.php:803
+msgid "Left sidebar"
+msgstr "În stânga"
+
+#: Arjuna/functions.php:808
+msgid "No sidebar"
+msgstr "Fără bară laterală"
+
+#: Arjuna/functions.php:813
+msgid "Sidebar Width"
+msgstr "Lăţimea barei laterale"
+
+#: Arjuna/functions.php:815
+msgid "Small"
+msgstr "Mică"
+
+#: Arjuna/functions.php:816
+msgid "Normal"
+msgstr "Normală"
+
+#: Arjuna/functions.php:817
+msgid "Large"
+msgstr "Mare"
+
+#: Arjuna/functions.php:818
+msgid "If you intend to use the two column sidebar, we recommend to choose either the normal or the large sidebar."
+msgstr "Dacă intenţionaţi să afişaţi două coloane în bara laterală vă recomdandăm să alegeţi lăţimea normală sau mare."
+
+#: Arjuna/functions.php:822
+msgid "Default Widgets"
+msgstr "Widget-uri implicite"
+
+#: Arjuna/functions.php:824
+msgid "Display default sidebar widgets if the widget bars are empty."
+msgstr "Afişare widget-uri implicite dacă barele de widget-uri sunt vide."
+
+#: Arjuna/functions.php:825
+msgid "If enabled, these widgets will be displayed if the widget bar is empty: <b>sidebar_full_top:</b> Recent Posts and Browse by Tags, <b>sidebar_left:</b> Categories, <b>sidebar_right:</b> Meta"
+msgstr "Dacă e activ, următoarele widget-uri vor fi afişate dacă bara de widget-uri este vidă: <b>sidebar_full_top:</b> Articole recente şi Afişare după etichete, <b>sidebar_left:</b> Categorii, <b>sidebar_right:</b> Meta"
+
+#: Arjuna/functions.php:829
+msgid "RSS Button"
+msgstr "Buton RSS"
+
+#: Arjuna/functions.php:831
+msgid "Display an RSS button on the very top of the sidebar."
+msgstr "Afişare buton RSS în partea de sus a barei laterale."
+
+#: Arjuna/functions.php:835
+msgid "Twitter Button"
+msgstr "Buton Twitter"
+
+#: Arjuna/functions.php:837
+msgid "Display a Twitter button on the very top of the sidebar."
+msgstr "Afişare buton Twitter în partea de sus a barei laterale."
+
+#: Arjuna/functions.php:844
+msgid "Facebook Button"
+msgstr "Buton Facebook"
+
+#: Arjuna/functions.php:846
+msgid "Display a Facebook button on the very top of the sidebar."
+msgstr "Afişare buton Facebook în partea de sus a barei laterale."
+
+#: Arjuna/functions.php:853
+msgid "Display Button Labels"
+msgstr "Afişare etichete butoane"
+
+#: Arjuna/functions.php:855
+msgid "Display labels next to the buttons (RSS, Twitter and Facebook)."
+msgstr "Se vor afişa etichete lângă butoane (RSS, Twitter şi Facebook)."
+
+#: Arjuna/functions.php:864
+msgid "Single Posts and Pages"
+msgstr "Articole şi pagini"
+
+#: Arjuna/functions.php:868
+msgid "Display Author"
+msgstr "Afişare autor"
+
+#: Arjuna/functions.php:870
+msgid "Include the author of a post in the post header."
+msgstr "Includere nume autor articol în antetul articolului."
+
+#: Arjuna/functions.php:874
+msgid "Display Time"
+msgstr "Afişare oră"
+
+#: Arjuna/functions.php:876
+msgid "Include the time and date of when the post has been published, instead of only the date."
+msgstr "Se vor afişa data şi ora publicării unui articol, în loc de dată."
+
+#: Arjuna/functions.php:880
+msgid "Display Info Bar for Pages"
+msgstr "Afişare bară informaţii pentru pagini."
+
+#: Arjuna/functions.php:882
+msgid "Display the info bar right below the title of pages."
+msgstr "Afişare bară de informaţii sub titlu paginilor."
+
+#: Arjuna/functions.php:883
+msgid "The info bar usually includes the author of the page, the publish date and the comments button. This options entirely hides the bar so that only the title is shown."
+msgstr "Bara de informaţii include autorul paginii, data publicării şi butonul pentru comentarii. Această opţiune ascunde complet bara de informaţii şi va fi afişat numai titlul articolului."
+
+#: Arjuna/functions.php:887
+msgid "Navigation Links"
+msgstr "Legături navigare"
+
+#: Arjuna/functions.php:889
+msgid "Display links to the previous and next posts above each post."
+msgstr "Afişare legături către articolele precedent şi următor deasupra fiecărui articol."
+
+#: Arjuna/functions.php:890
+msgid "Display links to the previous and next posts below each post."
+msgstr "Afişare legături către articolele precedent şi următor la sfârşitul fiecărui articol."
+
+#: Arjuna/functions.php:891
+msgid "Note: The links will only be shown on permalink pages, i.e. the URL where one single post/page is displayed."
+msgstr "Notă: Legăturile vor fi afişate numai pe pagini cu legături permanente, de exemplu adresa paginii sau a articolului."
+
+#: Arjuna/functions.php:901
+msgid "Display comments as follows"
+msgstr "Afişare comentarii astfel"
+
+#: Arjuna/functions.php:906
+msgid "Aligned to the left"
+msgstr "Aliniate la stânga"
+
+#: Arjuna/functions.php:911
+msgid "Aligned to the right"
+msgstr "Aliniate la dreapta"
+
+#: Arjuna/functions.php:916
+msgid "Alternate between left and right alignment"
+msgstr "Alinere alternativă stânga - dreapta"
+
+#: Arjuna/functions.php:921
+msgid "Date Format"
+msgstr "Format dată"
+
+#: Arjuna/functions.php:923
+msgid "Passed Time (Example: <em>&quot;Written by admin about 3 days ago.&quot;</em>)"
+msgstr "Interval de timp (exemplu: <em>&quot;Scris de admin acum 3 zile.&quot;</em>)"
+
+#: Arjuna/functions.php:924
+#, php-format
+msgid "Default Date Format (Example: <em>&quot;Written by admin on %s&quot;</em>)"
+msgstr "Format implicit (exemplu: <em>&quot;Scris de admin la %s&quot;</em>)"
+
+#: Arjuna/functions.php:925
+msgid "The default date format can be customized in Settings &gt; General."
+msgstr "Formatul implicit al datei poate fi particularizat în Setări &gt; General"
+
+#: Arjuna/functions.php:929
+msgid "Comment Display"
+msgstr "Afişare comentarii"
+
+#: Arjuna/functions.php:931
+msgid "Hide any traces of comments when comments are disabled on <strong>Pages</strong>."
+msgstr "Ascundere urme comentarii când comentariile sunt dezactivate în <strong>pagini</strong>."
+
+#: Arjuna/functions.php:932
+msgid "Hide any traces of comments when comments are disabled on <strong>Posts</strong>."
+msgstr "Ascundere urme comentarii când comentariile sunt dezactivate în <string>articole</strong>."
+
+#: Arjuna/functions.php:933
+msgid "Note: If enabled, the section that says Comments and the comments button in the heading of the respective pages/posts will be removed."
+msgstr "Notă: Dacă e activă, secţiunea în care sunt afişate numărul de comentarii şi butonul de comentarii din antetul paginilor/articolelor respective va fi eliminată."
+
+#: Arjuna/functions.php:939
+msgid "Blog"
+msgstr "Blog"
+
+#: Arjuna/functions.php:943
+msgid "Pagination"
+msgstr "Paginare"
+
+#: Arjuna/functions.php:945
+msgid "Use Arjuna pagination"
+msgstr "Folosire paginare Arjuna"
+
+#: Arjuna/functions.php:946
+msgid "If enabled, Arjuna will use its own native pagination to allow your users to navigate the blog using pages."
+msgstr "Dacă e activă, Arjuna va folosi sistemul său propriu de paginare pentru a permite utilizatorilor să navigheze prin blog folosind paginile."
+
+#: Arjuna/functions.php:950
+msgid "Page Range"
+msgstr "Număr pagini"
+
+#: Arjuna/functions.php:959
+msgid "The number of page buttons that will appear before and after the current page button."
+msgstr "Numărul de butoane către pagini care apar înainte şi după butonul paginii curente."
+
+#: Arjuna/functions.php:963
+msgid "Page Anchors"
+msgstr "Ancore pagină"
+
+#: Arjuna/functions.php:972
+msgid "The number of page buttons that will always appear at the beginning and the end of the pagination."
+msgstr "Numărul de butoane de pagină care apar întotdeauna la începutul şi la sfârşitul paginării."
+
+#: Arjuna/functions.php:976
+msgid "Page Gap"
+msgstr "Pagini lipsă"
+
+#: Arjuna/functions.php:985
+msgid "The number of page buttons in a gap before an ellipsis (...) is displayed."
+msgstr "Numărul de pagini lipsă pentru afişarea celor trei puncte (...)."
+
+#: Arjuna/functions.php:990
+msgid "Use WordPress default"
+msgstr "Folosire mecanism implicit WordPress"
+
+#: Arjuna/functions.php:991
+msgid "The default depends on your WordPress version and whether you have any pagination plugins activated. If the wp-paginate or wp-pagenavi plugin is activated, then Arjuna will use these plugins to create the pagination."
+msgstr "Mecanismul implicit depinde de versiunea WordPress şi dacă aveţi activ un plugin pentru paginare. Dacă pluginurile wp-paginate sau wp-pagenavi sunt active, atunci Arjuna le va folosi pentru a crea paginarea."
+
+#: Arjuna/functions.php:997
+msgid "Miscellaneous"
+msgstr "Diverse"
+
+#: Arjuna/functions.php:1001
+msgid "Append to page title"
+msgstr "Adăugare la titlul paginii"
+
+#: Arjuna/functions.php:1003
+#, php-format
+msgid "Blog Name (&quot; - %s&quot;)"
+msgstr "Numele blogului (&quot; - %s&quot;)"
+
+#: Arjuna/functions.php:1004
+msgid "Custom:"
+msgstr "Particularizat:"
+
+#: Arjuna/functions.php:1005
+msgid "This will be appended to the page title of every web page (posts, pages, categories, etc.)"
+msgstr "Textul de mai sus va fi adăugat la fiecare pagină web (articole, pagini, categorii, etc.)"
+
+#: Arjuna/functions.php:1009
+msgid "Footer Style"
+msgstr "Stil subsol"
+
+#: Arjuna/functions.php:1022
+msgid "Custom CSS"
+msgstr "CSS particularizat"
+
+#: Arjuna/functions.php:1029
+#, php-format
+msgid "Arjuna needs write permissions to create a new file %s, which will contain the custom CSS."
+msgstr "Arjuna are nevoie de drepturi de scriere pentru a crea fişierul %s care va conţine CSS-ul particularizat."
+
+#: Arjuna/functions.php:1031
+msgid "Enable custom CSS rules"
+msgstr "Activare reguli CSS particularizat"
+
+#: Arjuna/functions.php:1032
+msgid "If enabled, Arjuna will create a user stylesheet with your custom CSS rules. The user stylesheet will be included with every page call. If you intend to make some minor changes to the stylesheet, enabling this option ensures that you can safely upgrade Arjuna without losing your custom CSS."
+msgstr "Dacă e activ, Arjuna va crea un fişier stylesheet care conţine stilurile dvs. particularizate. Acest fişier va fi inclus în fiecare apel de pagină. Dacă intenţionaţi să faceţi modificări minore în stilurile Arjuna, activare acestei opţiuni vă asigură ca veţi putea actualiza Arjuna fără să pierdeţi modificările dvs."
+
+#: Arjuna/functions.php:1041
+msgid "Note:"
+msgstr "Notă:"
+
+#: Arjuna/functions.php:1041
+msgid "Arjuna cannot write to the themes directory. The custom CSS rules will be included in the header of each page, between &lt;STYLE&gt; tags."
+msgstr "Arjuna nu are drepturi de scriere în directorul temelor. Regulile CSS particularizate vor fi incluse în antetul fiecărei pagini, între taguri &lt;STYLE&gt;."
+
+#: Arjuna/functions.php:1050
+msgid "Performance Optimization"
+msgstr "Optimizări performanţă"
+
+#: Arjuna/functions.php:1054
+msgid "Internet Explorer 6 Optimization"
+msgstr "Optimizări Internet Explorer 6"
+
+#: Arjuna/functions.php:1056
+msgid "Enable IE6 performance optimization"
+msgstr "Activare optimizare Internet Explorer 6"
+
+#: Arjuna/functions.php:1057
+msgid "If turned on, Arjuna will attempt to detect IE6 and serve a stand-alone CSS file specifically made for IE6."
+msgstr "Dacă este activă, Arjuna va încerca să detecteze IE6 şi să folosească un fişier CSS proiectat special pentru IE6."
+
+#: Arjuna/functions.php:1057
+msgid "Note: IE6 will still work the same if this option is turned off, however, you and your IE6 users will save an estimated 28kb (11 image and 2 CSS files) in bandwidth for first-time visitors. IE6 also might render more rapidly if this is turned on."
+msgstr "Notă: IE6 va funcţiona în acelaşi fel şi dacă această opţiune este dezactivată, cu toate acestea dvs şi cititorii dvs. care folosesc IE6 vor econimisi aproximativ 27kb (11 imagini şi două fişiere CSS) la prima vizită. IE6 ar putea randa mai rapid dacă această opţiune este activă."
+
+#: Arjuna/functions.php:1064
+msgid "Save Changes"
+msgstr "Salvare modificări"
+
+#: Arjuna/functions.php:1181
+msgid "Written by"
+msgstr "Scris de"
+
+#: Arjuna/functions.php:1183
+#, php-format
+msgid "about %s ago"
+msgstr "aproximativ acum %s"
+
+#: Arjuna/functions.php:1185
+msgid "on"
+msgstr "la"
+
+#: Arjuna/functions.php:1190
+msgid "Edit"
+msgstr "Modificare"
+
+#: Arjuna/functions.php:1217
+msgid "1 year"
+msgstr "1 an"
+
+#: Arjuna/functions.php:1217
+#, php-format
+msgid "%d years"
+msgstr "%d ani"
+
+#: Arjuna/functions.php:1221
+msgid "1 month"
+msgstr "1 lună"
+
+#: Arjuna/functions.php:1221
+#, php-format
+msgid "%d months"
+msgstr "%d luni"
+
+#: Arjuna/functions.php:1225
+msgid "1 week"
+msgstr "1 săptămână"
+
+#: Arjuna/functions.php:1225
+#, php-format
+msgid "%d weeks"
+msgstr "%d săptămâni"
+
+#: Arjuna/functions.php:1229
+msgid "1 day"
+msgstr "1 zi"
+
+#: Arjuna/functions.php:1229
+#, php-format
+msgid "%d days"
+msgstr "%d zile"
+
+#: Arjuna/functions.php:1233
+msgid "1 hour"
+msgstr "1 oră"
+
+#: Arjuna/functions.php:1233
+#, php-format
+msgid "%d hours"
+msgstr "%d ore"
+
+#: Arjuna/functions.php:1237
+msgid "1 minute"
+msgstr "1 minut"
+
+#: Arjuna/functions.php:1237
+#, php-format
+msgid "%d minutes"
+msgstr "%d minute"
+
+#: Arjuna/functions.php:1240
+msgid "1 second"
+msgstr "1 secundă"
+
+#: Arjuna/functions.php:1240
+#, php-format
+msgid "%d seconds"
+msgstr "%d secunde"
+
+#: Arjuna/functions.php:1326
+#, php-format
+msgid "Page %s of %s"
+msgstr "Pagina %s din %s"
+
+#: Arjuna/functions.php:1365
+#: Arjuna/functions.php:1368
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: Arjuna/functions.php:1393
+msgid "Comment Pages:"
+msgstr "Pagini comentarii:"
+
+#: Arjuna/header.php:10
+msgid "Search Results:"
+msgstr "Rezultat căutare:"
+
+#: Arjuna/header.php:37
+msgid "Skip to posts"
+msgstr "Salt la articole"
+
+#: Arjuna/header.php:63
+msgid "Search here..."
+msgstr "Căutaţi aici..."
+
+#: Arjuna/header.php:64
+msgid "Find"
+msgstr "Căutare"
+
+#: Arjuna/header.php:70
+msgid "Home"
+msgstr "Prima pagină"
+
+#: Arjuna/index.php:53
+msgid "Previous Page"
+msgstr "Pagina precedentă"
+
+#: Arjuna/index.php:53
+msgid "Next Page"
+msgstr "Pagina următoare"
+
+#: Arjuna/page.php:44
+#: Arjuna/page_fullwidth.php:48
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: Arjuna/page.php:44
+#: Arjuna/page_fullwidth.php:48
+msgid "Page %"
+msgstr "Pagina %"
+
+#: Arjuna/page.php:46
+#: Arjuna/page_fullwidth.php:50
+#: Arjuna/single.php:53
+msgid "Edit in Admin"
+msgstr "Modificare"
+
+#: Arjuna/page.php:58
+#: Arjuna/page_fullwidth.php:63
+#: Arjuna/single.php:73
+msgid "There is nothing here."
+msgstr "Nu e nimic aici."
+
+#: Arjuna/search.php:8
+#, php-format
+msgid "Search Results on <em>%s</em>"
+msgstr "Rezultate căutare în <em>%s</em>"
+
+#: Arjuna/search.php:65
+msgid "Your search returned no results."
+msgstr "Căutarea dvs. nu a returnat nici un rezultat."
+
+#: Arjuna/sidebar.php:20
+msgid "Recent Posts"
+msgstr "Articole recente"
+
+#: Arjuna/sidebar.php:27
+msgid "Browse by Tags"
+msgstr "Filtrare după etichete"
+
+#: Arjuna/sidebar.php:49
+msgid "Meta"
+msgstr "Meta"
+
+#: Arjuna/single.php:9
+#: Arjuna/single.php:64
+msgid "Previous Post"
+msgstr "Articolul precedent"
+
+#: Arjuna/single.php:10
+#: Arjuna/single.php:65
+msgid "Next Post"
+msgstr "Articolul următor"
+

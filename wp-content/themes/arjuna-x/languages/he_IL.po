@@ -1,0 +1,404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Eos 1.2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-21 10:50+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Lior David\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: \n"
+
+#: 404.php:6
+msgid "Error 404 - Not Found"
+msgstr "שגיאה 404 - העמוד לא נמצא"
+
+#: 404.php:7
+msgid "Sorry, but you are looking for something that isn't here. "
+msgstr "אנו מצטערים, אבל מה שחיפשת איננו כאן."
+
+#: archive.php:15
+#: index.php:13
+msgid "Search Results"
+msgstr "תוצאות חיפוש"
+
+#: archive.php:16
+#: index.php:14
+msgid "Keyword:"
+msgstr "מילות מפתח:"
+
+#: archive.php:20
+msgid "Archive"
+msgstr "ארכיון"
+
+#: archive.php:23
+msgid "Category:"
+msgstr "קטגוריה:"
+
+#: archive.php:25
+msgid "Tag:"
+msgstr "תגית:"
+
+#: archive.php:27
+#: archive.php:29
+#: archive.php:31
+#, php-format
+msgid "Archive for %s"
+msgstr "ארכיון עבור %s"
+
+#: archive.php:27
+#: functions.php:272
+#: legacy.comments.php:60
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: archive.php:29
+msgid "F, Y"
+msgstr "F, Y"
+
+#: archive.php:31
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:33
+msgid "Author Archive"
+msgstr "ארכיון מחבר"
+
+#: archive.php:35
+msgid "Blog Archives"
+msgstr "ארכיון בלוג"
+
+#: archive.php:45
+#: index.php:21
+#: page.php:11
+#: page_fullwidth.php:17
+#: single.php:11
+msgid "Permalink to"
+msgstr "קישור קבוע עבור"
+
+#: archive.php:50
+#: index.php:26
+msgid "continue reading..."
+msgstr "המשך קריאה"
+
+#: archive.php:52
+#: index.php:28
+msgid "Pass Required"
+msgstr "נדרשת סיסמה"
+
+#: archive.php:52
+#: index.php:28
+msgid "Leave a Comment"
+msgstr "הגיבו"
+
+#: archive.php:52
+#: index.php:28
+msgid "1 Comment"
+msgstr "תגובה אחת"
+
+#: archive.php:52
+#: index.php:28
+msgid "% Comments"
+msgstr "% תגובות"
+
+#: archive.php:52
+#: index.php:28
+msgid "Comments Off"
+msgstr "תגובות כבויות"
+
+#: archive.php:53
+#: index.php:29
+#: single.php:19
+msgid "none"
+msgstr "ללא"
+
+#: archive.php:54
+#: index.php:30
+msgid "Read more"
+msgstr "קרא עוד"
+
+#: archive.php:64
+#: index.php:40
+msgid "Newer Entries"
+msgstr "רשומות חדשות יותר"
+
+#: archive.php:65
+#: index.php:41
+msgid "Older Entries"
+msgstr "רשומות ישנות יותר"
+
+#: archive.php:76
+#: index.php:52
+#: page.php:30
+#: page_fullwidth.php:36
+#: single.php:36
+msgid "Sorry, but you are looking for something that isn't here. You can search again by using the form on upper right of the page..."
+msgstr "אנו מצערים, אבל מה שחיפשת איננו כאן. אתה יכול לנסות שוב באמצעות תיבת החיפוש אשר בחלק השמאלי העליון של הדף..."
+
+#: comments.php:12
+#: comments.php:19
+#: legacy.comments.php:12
+#: legacy.comments.php:19
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "פוסט זה מוגן בסיסמה. הכנס סיסמה לצפיה בתגובות"
+
+#: comments.php:28
+msgid "Leave a comment"
+msgstr "השאירו תגובה"
+
+#: comments.php:31
+msgid "Trackback"
+msgstr "טראקבק"
+
+#: comments.php:33
+msgid "Comments"
+msgstr "תגובות"
+
+#: comments.php:43
+msgid "Previous"
+msgstr "הקודם"
+
+#: comments.php:43
+msgid "Next"
+msgstr "הבא"
+
+#: comments.php:45
+msgid "Older Comments"
+msgstr "תגובות ישנות יותר"
+
+#: comments.php:46
+msgid "Newer Comments"
+msgstr "תגובות חדשות יותר"
+
+#: comments.php:55
+#: legacy.comments.php:86
+msgid "Comments are closed."
+msgstr "אין אפשרות להוסיף תגובות."
+
+#: comments.php:62
+#: legacy.comments.php:96
+msgid "Leave a Reply"
+msgstr "השאירו תגובה"
+
+#: comments.php:70
+#: legacy.comments.php:99
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr "אתה חייב להיות %sמחובר%s על מנת לפרסם תגובה."
+
+#: comments.php:74
+#: legacy.comments.php:103
+#, php-format
+msgid "Logged in as %s."
+msgstr "מחובר בתור %s."
+
+#: comments.php:74
+#: legacy.comments.php:103
+msgid "Log out of this account"
+msgstr "התנתק מחשבון זה"
+
+#: comments.php:74
+#: legacy.comments.php:103
+msgid "Logout"
+msgstr "התנתק"
+
+#: comments.php:77
+#: legacy.comments.php:106
+msgid "Name"
+msgstr "שם"
+
+#: comments.php:77
+#: comments.php:79
+#: legacy.comments.php:106
+#: legacy.comments.php:108
+msgid "(required)"
+msgstr "(חובה)"
+
+#: comments.php:79
+#: legacy.comments.php:108
+msgid "Mail (will not be published)"
+msgstr "דואל (לא יפורסם)"
+
+#: comments.php:81
+#: legacy.comments.php:110
+msgid "Website"
+msgstr "אתר"
+
+#: comments.php:91
+#: legacy.comments.php:115
+msgid "Leave comment"
+msgstr "השאירו תגובה"
+
+#: footer.php:5
+msgid "top"
+msgstr "למעלה"
+
+#: functions.php:79
+#: functions.php:91
+msgid "Eos Theme Options"
+msgstr "אפשרויות תבנית Eos"
+
+#: functions.php:87
+msgid "Options saved."
+msgstr "אפשרויות נשמרו."
+
+#: functions.php:93
+msgid "General"
+msgstr "כללי"
+
+#: functions.php:97
+msgid "Primary Dropdown Menu"
+msgstr "תפריט נפתח ראשי"
+
+#: functions.php:101
+msgid "Enable simple dropdown menu for primary menu"
+msgstr "אפשר תפריט נפתח פשוט עבור התפריט הראשי"
+
+#: functions.php:106
+msgid "Sort Categories in Top Menu:"
+msgstr "מיין קטגוריות בתפריט העליון:"
+
+#: functions.php:110
+msgid "Alphabetically by name"
+msgstr "אלפבתי לפי שם"
+
+#: functions.php:114
+msgid "By category ID"
+msgstr "לפי מזהה קטגוריה"
+
+#: functions.php:118
+msgid "By the count of posts in the categories"
+msgstr "לפי מספר הפוסטים בקטגוריות"
+
+#: functions.php:122
+msgid "By category slug"
+msgstr "לפי slug הקטגוריה"
+
+#: functions.php:127
+msgid "Sorting Order:"
+msgstr "סדר מיון:"
+
+#: functions.php:131
+msgid "Ascending"
+msgstr "עולה"
+
+#: functions.php:135
+msgid "Descending"
+msgstr "יורד"
+
+#: functions.php:140
+msgid "Secondary Dropdown Menu"
+msgstr "תפריט נפתח משני"
+
+#: functions.php:144
+msgid "Enable simple dropdown menu for the secondary menu"
+msgstr "אפשר תפריט נפתח פשוט עבור התפריט המשני"
+
+#: functions.php:151
+msgid "Sidebar"
+msgstr "תפריט צד"
+
+#: functions.php:155
+msgid "Twitter"
+msgstr "טוויטר"
+
+#: functions.php:159
+msgid "Enable twitter icon in sidebar"
+msgstr "אפשר אייקון טוויטר בתפריט הצד"
+
+#: functions.php:164
+msgid "Twitter URL"
+msgstr "URL טוויטר"
+
+#: functions.php:168
+msgid "Please type in the URL of your Twitter account."
+msgstr "אנא הכניסו את הכתובת (URL) של חשבון הטוויטר."
+
+#: functions.php:176
+msgid "Save Changes"
+msgstr "שמור שינויים"
+
+#: functions.php:272
+#: legacy.comments.php:60
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:272
+msgid "g:i A"
+msgstr "g:i A"
+
+#: functions.php:279
+#: legacy.comments.php:67
+msgid "Your comment is awaiting moderation."
+msgstr "תגובתך ממתינה לאישור"
+
+#: header-fullpage.php:19
+#: header.php:19
+#, php-format
+msgid "%s RSS Feed"
+msgstr "פיד RSS עבור %s"
+
+#: header-fullpage.php:29
+#: header.php:29
+msgid "Skip to content"
+msgstr "דלג לתוכן"
+
+#: header-fullpage.php:36
+#: header.php:36
+msgid "Home"
+msgstr "בית"
+
+#: header-fullpage.php:52
+#: header.php:52
+msgid "Search here..."
+msgstr "חפש כאן..."
+
+#: header-fullpage.php:53
+#: header.php:53
+msgid "Find"
+msgstr "מצא"
+
+#: legacy.comments.php:60
+msgid "H:i"
+msgstr "H:i"
+
+#: page.php:16
+#: page_fullwidth.php:22
+#: single.php:17
+msgid "Pages:"
+msgstr "דפים:"
+
+#: page.php:16
+#: page_fullwidth.php:22
+#: single.php:17
+msgid "Page %"
+msgstr "דף %"
+
+#: page.php:18
+#: page_fullwidth.php:24
+#: single.php:20
+msgid "Edit"
+msgstr "ערוך"
+
+#: sidebar.php:16
+msgid "Recent Posts"
+msgstr "כתבות אחרונות"
+
+#: sidebar.php:25
+msgid "Browse by Tags"
+msgstr "סייר על פי תגיות"
+
+#: sidebar.php:40
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: sidebar.php:56
+msgid "Meta"
+msgstr "מטא"
+
+#: single.php:29
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for this post (comments)"
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> עבור פוסט זה (תגובות)"
+
